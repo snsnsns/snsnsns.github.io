@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Duet
+  site_title: Sarah Schumacher
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -8,10 +8,10 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
-      url: '/'
-    - title: 'Blog'
-      url: '/blog/'
+    #- title: 'Projects'
+     # url: '/'
+   # - title: 'Blog'
+    #  url: '/blog/'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
@@ -20,7 +20,7 @@ menu_settings:
 footer_settings:
   logo_image: 
   logo_width: 200
-  footer_tagline: A beautiful, minimal two-column portfolio Jekyll theme
+  footer_tagline: Design for News and Stories
 
 grid_settings:
   overlay_opacity: 0.8
@@ -33,9 +33,9 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: 'https://www.facebook.com/jekyllthemes/'
-  twitter_url: 'https://twitter.com/jekyllthemesio'
-  instagram_url: 'http://instagram.com'
+  facebook_url: 'https://www.facebook.com/snsnsns'
+  twitter_url: 'https://twitter.com/snsnsns'
+  instagram_url: 'http://instagram.com/snsnsns'
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
