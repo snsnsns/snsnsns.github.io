@@ -153,12 +153,12 @@ font_settings:
     letter_spacing: 0
     line_height: 1.6
   blockquote:
-    small_size: 25
-    medium_size: 35
-    large_size: 45
-    weight: 400
+    small_size: 15
+    medium_size: 20
+    large_size: 25
+    weight: 200
     letter_spacing: -0.02
-    line_height: 1.6
+    line_height: 1.4
   buttons:
     weight: 900
     letter_spacing: 0
