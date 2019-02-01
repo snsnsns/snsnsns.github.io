@@ -1,7 +1,7 @@
 ---
 layout: default
-title: A beautiful two-column Jekyll theme
-description: A beautiful, minimal two-column portfolio theme built for Jekyll. Duet makes your work look simply awesome.
+title: Art Direction and Graphic Design
+description: Editorial Design by Sarah Schumacher
 featured_image: /images/social.jpg
 ---
 
@@ -9,9 +9,8 @@ featured_image: /images/social.jpg
 
 	<div class="wrap">
 
-		<h1>A beautiful, minimal two-column
-		portfolio theme built for Jekyll.</h1>
-		<p>Duet makes your work look simply awesome.</p>
+		<h1>Art Direction and Design</h1>
+		<p>I am a graphic designer specializing in editorial design with a background in type design.</p>
 
 	</div>
 
@@ -45,6 +44,29 @@ featured_image: /images/social.jpg
 		{% endfor %}
 		
 		{% for project in site.projects reversed %}
+
+		<div class="portfolio-item">
+
+			<a class="portfolio-item__link" href="{{ project.url }}">
+
+				<div class="portfolio-item__image">
+					<img src="{{ project.featured_image  }}" alt="{{ project.title }}">
+				</div>
+
+				<div class="portfolio-item__content">
+					<div class="portfolio-item__info">
+						<h2 class="portfolio-item__title">{{ project.title }}</h2>
+						<p class="portfolio-item__subtitle">{{ project.subtitle }}</p>
+					</div>
+				</div>
+
+			</a>
+
+		</div>
+
+		{% endfor %}
+
+{% for project in site.projects reversed %}
 
 		<div class="portfolio-item">
 
