@@ -7,7 +7,7 @@ featured_image: '/images/blogimages/RFT/IRONFORK_facebookcover_1920x1080.jpg'
 
 ![](/images/blogimages/RFT/IRONFORK_facebookcover_1920x1080.jpg)
 
-In spring 2018, the St. Louis alternative weekly Riverfront Times needed help updating their event logo and branding. They wanted it to feel tied to the show, Iron Fork, but custom for RFT. The event was going to kick off their Best of St. Louis Food and Drink issue, so some of that branding would be tied in. I worked with them to create a brand that worked with different variations for social media blasts: a chef, a bartender, some City Museum imagery, and a basic iteration. The branding was used to create the [event site](https://www.rftironfork.com/). I also created print ads for the weekly RFT newspaper and digital ads for [RFT.com](http://riverfronttimes.com).
+In spring 2018, the St. Louis alternative weekly Riverfront Times needed help updating their event logo and branding. They wanted it to feel tied to the show, Iron Fork, but custom for RFT. The event was going to kick off their Best of St. Louis Food and Drink issue, so some of that branding would be tied in. I worked with them to create a brand that worked with different variations for social media blasts: a chef, a bartender, some City Museum imagery, and a basic iteration. The branding was used to create the [event site](https://www.rftironfork.com/). I also created print ads for the weekly RFT newspaper and digital ads for [Riverfronttimes.com](http://www.riverfronttimes.com).
 
 <div class="gallery" data-columns="3">
 	<img src="/images/blogimages/RFT/IRONFORK_socialbartender_1080.jpg">
