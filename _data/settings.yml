@@ -11,7 +11,7 @@ menu_settings:
      # - title: 'tktk'
       #  url: '/tktkt/'
     - title: 'Blog'
-	  url: '/blog/'
+	  url: '/blog'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
