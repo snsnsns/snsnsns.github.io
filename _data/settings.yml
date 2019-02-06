@@ -8,9 +8,9 @@ header_settings:
 
 menu_settings:
   menu_items:
-     # - title: 'Other Projects'
-      #  url: '/otherprojects/'
-	- title: 'Other Projects'
+     # - title: 'tktk'
+      #  url: '/tktkt/'
+    - title: 'Blog'
 	  url: '/blog/'
     - title: 'About'
       url: '/about'
