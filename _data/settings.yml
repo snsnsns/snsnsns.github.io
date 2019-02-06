@@ -8,10 +8,10 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Other Projects'
-      url: '/otherprojects'
-   # - title: 'Blog'
-    #  url: '/blog/'
+     # - title: 'Other Projects'
+      #  url: '/otherprojects/'
+	- title: 'Other Projects'
+	  url: '/blog/'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
