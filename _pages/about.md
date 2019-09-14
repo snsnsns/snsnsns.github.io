@@ -3,7 +3,7 @@ title: Design worth reading
 subtitle: Background information
 description: Art Direction & Design
 ---
-Sarah is a multi-disciplinary designer specializing in editorial design. She has worked as a visual journalist and designer since the early aughts. She earned a masters of arts in typeface design from the University of Reading in 2010. Besides England, she has lived in Chicago, Washington, DC, New York, Southern California, Dallas, and St. Louis. She loves traveling and experiencing newness. She is open to new clients as well.
+I am a multi-disciplinary designer specializing in editorial design and art direction. I have worked as a journalist and graphic designer since the early aughts. I studied in England and received a masters of arts in typeface design from the University of Reading in 2010. It feels at times that I am semi-nomadic, having also lived on both coasts, the South, and now back to the city I was born in — St. Louis, Missouri.
 
 __Media Companies/Publications__
 + *Foreign Policy*
