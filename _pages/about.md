@@ -26,8 +26,8 @@ National Magazine Award (Ellie) for General Excellence, *Foreign Policy*
 
 __Organizations__
 
-+AIGA
-+Society of Publication Designers
-+Type Directors Club
-+Letterform Archive
-+ATypI
++ AIGA
++ Society of Publication Designers
++ Type Directors Club
++ Letterform Archive
++ ATypI
