@@ -8,9 +8,9 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Editorial'
+    - title: 'Covers'
       url: '/'
-    - title: 'Other Work'
+    - title: 'Design, Illustration, Multimedia'
       url: '/blog/'
     - title: 'About'
       url: '/about'
