@@ -2,7 +2,7 @@
 title: 'Eating Our Way Through Iron Fork 2017'
 date: 2017-04-26 00:00:00
 description: Dallas Observer follows editor Paige Skinner sampling bites at Iron Fork 2017
-featured_image: '/images/blogimages/DO/.jpg'
+featured_image: '/images/blogimages/DO/20170426_IronFork_16.jpg'
 ---
 
 ![](/images/blogimages/DO/20170426_IronFork_16.jpg)
