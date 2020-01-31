@@ -3,9 +3,9 @@ title: Design worth reading
 subtitle: Background information
 description: Art Direction & Design
 ---
-I am a journalist, graphic designer and art director at *Dallas Observer*. I studied journalism and international relations at American University as my undergrad and earned a masters of arts in typeface design from the University of Reading, England in 2010. Some day I'll finish a typeface. 
+I am a graphic designer and art director. I'm currently the art director at *Dallas Observer*. I love the conceptual process of creating (good) covers. Not all end up that way. Working with talented photographers and illustrators is very rewarding. I'm lucky to have found some great people to collaborate with.
 
-I've lived in New York, Chicago, St. Louis, Dallas, Southern California, Washington, D.C., Reading and Berlin. My work has been heavily design for print and web, but I also create data-driven graphics, do event design, brand design and marketing. I'm available for freelance work.
+I've lived in New York, Chicago, St. Louis, Dallas, Southern California, Washington, D.C., Reading, England and Berlin, Germany. My partner has a weird career that has us moving a lot. I went to undergrad at American University and graduate school at University of Reading, UK. My work has been heavily design for editorial (print and web), but I also create data-driven graphics, design type, do event design, brand design and marketing. I'm available for freelance work.
 
 __Media Companies/Publications__
 + *Foreign Policy*
