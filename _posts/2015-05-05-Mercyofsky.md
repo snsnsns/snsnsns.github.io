@@ -1,6 +1,6 @@
 ---
 title: 'The Mercy of the Sky'
-date: 2015-5 00:00:00
+date: 2015-05-05 00:00:00
 description: Web design using Wordpress and map illustration
 featured_image: '/images/blogimages/Mercy/Mercyofthesky_site.png'
 ---
