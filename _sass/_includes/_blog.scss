@@ -3,6 +3,12 @@
 // Blog
 
 // - - - - - - - - - - - - - - - - - -
+iframe {
+	position: relative;
+	padding: $grid-spacing/2;
+	float: left;
+	width: 50%;
+}
 
 .blog {
 	padding: 0 $grid-spacing/2;
