@@ -18,17 +18,6 @@
 	float: left;
 	width: 50%;
 	
-	iframe {
-		position: absolute;
-		top: 0;
-		left: 200px;
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		width: 80%;
-		height: 80%;
-	}
-
 }
 
 .blog-post__link {
@@ -64,6 +53,17 @@
 	opacity: 0;
 	visibility: hidden;
 	@include transition(all 0.2s ease-in-out);
+	
+	iframe {
+		position: absolute;
+		top: 0;
+		left: 200px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		width: 80%;
+		height: 80%;
+	}
 }
 
 .blog-post__info {
