@@ -5,7 +5,7 @@ description: Web design using Wordpress and map illustration
 featured_image: '/images/blogimages/Mercy/Mercyofthesky_site.png'
 ---
 
-<div class="gallery" data-columns="1">><iframe src="https://www.mercyofthesky.com/">
+<div class="gallery" data-columns="2">><iframe src="https://www.mercyofthesky.com/">
 	</iframe>
 	</div>
 
