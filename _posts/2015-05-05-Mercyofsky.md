@@ -17,5 +17,3 @@ Illustrated maps within <em>The Mercy of the Sky</em>
 	<img src="/images/blogimages/Mercy/OKCmap1.png">
 	<img src="/images/blogimages/Mercy/Mooremap1.png">
 	</div>
-
-<!––![](/images/blogimages/Mercy/Mercyofthesky_site.png)–>
