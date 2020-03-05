@@ -49,6 +49,12 @@
 	align-items: center;
 	justify-content: center;
 	background: rgba($overlay-background-color, $overlay-opacity);
+		
+		iframe {
+		width: 80%;
+		height: 80%;
+	}
+
 
 	opacity: 0;
 	visibility: hidden;
