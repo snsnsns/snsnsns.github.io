@@ -80,21 +80,21 @@ font_settings:
   regular_weight: 400
   bold_weight: 700
   site_title:
-    small_size: 25
-    medium_size: 30
-    large_size: 35
+    small_size: 15
+    medium_size: 20
+    large_size: 25
     weight: 900
     letter_spacing: 0.00
   menu:
-    small_size: 30
-    medium_size: 15
-    large_size: 17
+    small_size: 15
+    medium_size: 20
+    large_size: 25
     weight: 400
     letter_spacing: 0
   grid_item_title:
-    small_size: 22
-    medium_size: 30
-    large_size: 35
+    small_size: 15
+    medium_size: 20
+    large_size: 25
     weight: 700
     letter_spacing: -0.02
   grid_item_subtitle:
@@ -104,23 +104,23 @@ font_settings:
     weight: 200
     letter_spacing: 0
   h1:
-    small_size: 25
-    medium_size: 35
-    large_size: 45
+    small_size: 15
+    medium_size: 20
+    large_size: 25
     weight: 700
     letter_spacing: -0.02
     line_height: 1.2
   h2:
-    small_size: 22
-    medium_size: 30
-    large_size: 35
+    small_size: 15
+    medium_size: 20
+    large_size: 25
     weight: 700
     letter_spacing: -0.02
     line_height: 1.2
   h3:
-    small_size: 22
-    medium_size: 25
-    large_size: 30
+    small_size: 15
+    medium_size: 20
+    large_size: 25
     weight: 400
     letter_spacing: -0.02
     line_height: 1.3
@@ -153,9 +153,9 @@ font_settings:
     letter_spacing: 0
     line_height: 1.6
   blockquote:
-    small_size: 25
-    medium_size: 30
-    large_size: 35
+    small_size: 15
+    medium_size: 20
+    large_size: 25
     weight: 200
     letter_spacing: -0.02
     line_height: 1.4
