@@ -1,6 +1,6 @@
 ---
 title: About
-subtitle: Hi there
+subtitle: Hi there. I'm an art director and graphic designer based in Vermont.
 description: I'm an art director and graphic designer based in Vermont.
 ---
 
