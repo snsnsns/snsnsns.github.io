@@ -1,6 +1,8 @@
 ---
 title: About Me
 ---
+![](/images/blogimages/About/schumacherheadshot.jpg)
+
 Hi! I'm an art director and graphic designer based in Vermont. I have been working in editorial design since the early aughts, since writing for and designing American University's *Eagle*. In 2003, I was lucky to join an amazing team at <em>Foreign Policy</em> and produce editorial work worthy of a National Magazine award. After <em>FP</em>, I worked in New York at various titles, including <em>Fortune</em>, Conde Nast's <em>Menswear</em> magazine, <em>Everyday with Rachel Ray</em>, <em>Budget Travel</em> and Bloomberg News. In 2009, I pursued a masters in typeface design at the University of Reading, England. Since then, I've expanded my work into event design, marketing, illustration and type design. I am currently also the art director at <em>Dallas Observer</em>.
 
 
