@@ -1,7 +1,7 @@
 ---
 title: 'Budget Travel'
 date: 2012-01-31 00:00:00
-description: Editorial design and data design
+description: Editorial design and editorial illustration
 featured_image: '/images/blogimages/BudgetTravel/052012_BTcover.jpg'
 ---
 
