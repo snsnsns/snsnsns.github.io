@@ -4,7 +4,7 @@ basic_settings:
 
 header_settings:
   logo_image: /images/nameplate.svg
-  logo_width: 900
+  logo_width: 200
 
 menu_settings:
   menu_items:
@@ -86,9 +86,9 @@ font_settings:
     weight: 900
     letter_spacing: 0.00
   menu:
-    small_size: 15
-    medium_size: 20
-    large_size: 25
+    small_size: 10
+    medium_size: 12
+    large_size: 15
     weight: 400
     letter_spacing: 0
   grid_item_title:
