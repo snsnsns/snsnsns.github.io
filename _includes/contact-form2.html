@@ -1,0 +1,18 @@
+<div class="contact-form">
+
+<form action="{{ site.data.settings.contact_settings.form_action }}" id="contact-form" method="post">
+
+		<div class="contact-form__item">
+			<label class="contact-form__label">Email Address *
+			<input type="email" name="_replyto" class="contact-form__input"></label>
+	
+			<label class="contact-form__label">Message *
+			<textarea name="message" placeholder="Your message..." class="contact-form__textarea"></textarea>
+			</label>
+		
+			<button type="submit" value="{{ site.data.settings.contact_settings.send_button_text }}">Send *</button>
+		</div>
+
+	</form>
+
+</div>
