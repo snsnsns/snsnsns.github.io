@@ -3,9 +3,8 @@ title: Design worth reading
 subtitle: Background information
 description: Art Direction & Design
 ---
-I am a graphic designer and art director. I'm currently the art director at *Dallas Observer*. I love the conceptual process of creating (good) covers. Not all end up that way. Working with talented photographers and illustrators is very rewarding. I'm lucky to have found some great people to collaborate with.
+Hi! I'm an art director and graphic designer based in Vermont. I have been working in editorial design since the early aughts, since writing for and designing American University's *Eagle*. In 2003, I was lucky to join an amazing team at Foreign Policy and produce editorial work worthy of a National Magazine award. After FP, I worked in New York at various titles, including <em>Fortune</em>, Conde Nast's <em>Menswear</em> magazine, <em>Everyday with Rachel Ray</em>, <em>Budget Travel</em> and Bloomberg News. In 2009, I pursued a masters in typeface design at the University of Reading, England. Since then, I've expanded my work into marketing, illustration and type design. I am currently also the art director at <em>Dallas Observer</em>.
 
-I've lived in New York, Chicago, St. Louis, Dallas, Southern California, Washington, D.C., Reading, England and Berlin, Germany. My partner has a career in live-event design that has us moving a lot. I went to undergrad at American University and graduate school at University of Reading, UK. My work has been heavily design for editorial (print and web), but I also create data-driven graphics, design type, do event design, brand design and marketing. I'm available for freelance work.
 
 __Media Companies/Publications__
 + *Foreign Policy*
