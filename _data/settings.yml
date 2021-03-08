@@ -86,9 +86,9 @@ font_settings:
     weight: 900
     letter_spacing: 0.00
   menu:
-    small_size: 15
-    medium_size: 25
-    large_size: 30
+    small_size: 13
+    medium_size: 20
+    large_size: 23
     weight: 400
     letter_spacing: 0
   grid_item_title:
