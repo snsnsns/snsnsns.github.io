@@ -3,7 +3,7 @@ title: 'Journalist Barrett Brown in Legal Trouble'
 subtitle: 'September 15, 2021'
 date: 2021-9-15 00:00:00
 description: Journalist Barrett Brown is having issues
-featured_image: /images/illos/barrettbrownweb.jpg
+featured_image: /images/illos/barrettopener.jpg
 ---
 
 ![](/images/illos/barrettopener.jpg)
