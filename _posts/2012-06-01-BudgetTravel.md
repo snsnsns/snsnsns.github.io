@@ -2,7 +2,7 @@
 title: 'Budget Travel'
 date: 2012-05-31 00:00:00
 description: Editorial design and editorial illustration
-featured_image: '/images/blogimages/BudgetTravel/btcover.png'
+featured_image: '/images/blogimages/BudgetTravel/Best-Places_Sep11-1.jpg'
 ---
 
 As an art director at Budget Travel, I worked on many global travel features.
