@@ -78,10 +78,10 @@
 	position: absolute;
 	z-index: 100;
 	top: 50%;
-	right: 30px;
+	right: 10px;
 	@include translate(0,-50%);
 	cursor: pointer;
-	font-size: 15px;
+	font-size: 8px;
 	line-height: 20px;
 	color: $text-dark-color;
 
