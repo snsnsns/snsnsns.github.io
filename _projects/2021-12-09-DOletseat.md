@@ -1,5 +1,5 @@
 ---
-title: 'Let's Eat'
+title: 'Lets Eat'
 subtitle: 'Dallas Observer, December 9, 2021'
 date: 2021-12-09 00:00:00
 description: A look at the best restaurants in Dallas in 2021-2022
