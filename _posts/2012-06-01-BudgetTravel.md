@@ -23,9 +23,9 @@ As an art director at Budget Travel, I worked on many global travel features.
 	
 I loved creating this spread comparing and contrasting Santa Fe with Sedona. The little photos in the text draw the eye into the story. 
 	
-![](/images/blogimages/BudgetTravel/Santafe-Sedona.jpg")
+![](/images/blogimages/BudgetTravel/Santafe-Sedona.jpg)
 
 And for the Tuscany issue in July 2012, I painted this watercolor map illustration.
 
-![](/images/blogimages/BudgetTravel/Tuscanymap.jpg")
+![](/images/blogimages/BudgetTravel/Tuscanymap.jpg)
 
