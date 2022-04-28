@@ -2,14 +2,12 @@
 title: 'Budget Travel'
 date: 2012-05-31 00:00:00
 description: Editorial design and editorial illustration
-featured_image: '/images/blogimages/BudgetTravel/052012_BTcover.jpg'
+featured_image: '/images/blogimages/BudgetTravel/btcover.png'
 ---
-
-![](/images/blogimages/BudgetTravel/052012_BTcover.jpg)
 
 As an art director at Budget Travel, I worked on many global travel features.
 
-<div class="gallery" data-columns="4">
+<div class="gallery" data-columns="2">
 	<img src="/images/blogimages/BudgetTravel/Best-Places_Sep11-1.jpg">
 	<img src="/images/blogimages/BudgetTravel/Best-Places_Sep11-2.jpg">
 	<img src="/images/blogimages/BudgetTravel/Best-Places_Sep11-3.jpg">
@@ -25,11 +23,9 @@ As an art director at Budget Travel, I worked on many global travel features.
 	
 I loved creating this spread comparing and contrasting Santa Fe with Sedona. The little photos in the text draw the eye into the story. 
 	
-<div class="gallery" data-columns="2">
-	<img src="/images/blogimages/BudgetTravel/Santafe-Sedona.jpg">
-	<img src="/images/blogimages/BudgetTravel/Tuscanymap.jpg">
-</div>
+![](/images/blogimages/BudgetTravel/Santafe-Sedona.jpg")
 
 And for the Tuscany issue in July 2012, I painted this watercolor map illustration.
 
+![](/images/blogimages/BudgetTravel/Tuscanymap.jpg")
 
