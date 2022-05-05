@@ -3,7 +3,6 @@ title: 'College'
 subtitle: 'This is a demo'
 date: 2022-05-05 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-exclude: true
 ---
 
 ![](/images/demo/demo-landscape.jpg)
