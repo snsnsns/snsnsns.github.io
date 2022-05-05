@@ -23,16 +23,18 @@
 					<li class="menu__list__item">
 						<a href="{{ item.url }}" class="menu__list__item__link">{{ item.title }}</a>
 					</li>
-					{% for page in site.pages %}
-   					{% unless page.exclude %}
-       					{% if page.title %}
-         			<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-       					{% endif %}
-    					{% endunless %}
-					{% endfor %}
 				</ul>
 			</div>
-
+			{% endfor %}
+		</div>
+		<div>
+		{% for page in site.pages %}
+   		{% unless page.exclude %}
+       		{% if page.title %}
+         		<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+       		{% endif %}
+    		{% endunless %}
+		{% endfor %}
 		
 		</div>
 		
