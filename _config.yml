@@ -7,13 +7,13 @@ collections:
   posts:
     output: true
     permalink: /blog/:slug
-  projects:
-    output: true
-    permalink: /project/:slug
   visualizations:
     output: true
     permalink: /viz/:slug
-
+  projects:
+    output: true
+    permalink: /project/:slug
+  
 defaults:
   -
     scope:
@@ -35,15 +35,15 @@ defaults:
   -
     scope:
       path: ""
-      type: "projects"
-    values:
-      layout: "project"
-  -
-    scope:
-      path: ""
       type: "visualizations"
     values:
       layout: "viz"
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
 
 markdown: kramdown
 
