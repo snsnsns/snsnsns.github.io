@@ -1,7 +1,7 @@
 <header class="header">
 
 	<div class="wrap">
-
+	
 		{% if site.data.settings.header_settings.logo_image %}
 		<a href="/" class="header__logo">
 			<img src="{{ site.data.settings.header_settings.logo_image }}" class="header__logo__img">
@@ -10,6 +10,7 @@
 		<a href="/" class="header__title">
 			{{ site.data.settings.basic_settings.site_title }}
 		</a>
+		
 		{% endif %}
 
 		<div class="menu">
@@ -25,8 +26,17 @@
 					{% endfor %}
 				</ul>
 			</div>
+	
+		{% for page in site.pages %}
+   		{% unless page.exclude %}
+       		{% if page.title %}
+         	<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+       		{% endif %}
+    		{% endunless %}
+		{% endfor %}
+		
 		</div>
-
+		
 	</div>
 
 </header>
