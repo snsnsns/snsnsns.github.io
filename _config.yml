@@ -7,9 +7,6 @@ collections:
   posts:
     output: true
     permalink: /blog/:slug
-  visualizations:
-    output: true
-    permalink: /viz/:slug
   projects:
     output: true
     permalink: /project/:slug
@@ -32,12 +29,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-  -
-    scope:
-      path: ""
-      type: "visualizations"
-    values:
-      layout: "viz"
   -
     scope:
       path: ""
