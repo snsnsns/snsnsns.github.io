@@ -38,10 +38,10 @@ defaults:
       type: "projects"
     values:
       layout: "project"
-      -
+  -
     scope:
       path: ""
-       type: "visualizations"
+      type: "visualizations"
     values:
       layout: "viz"
 
