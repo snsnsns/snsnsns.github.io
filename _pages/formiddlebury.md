@@ -16,7 +16,7 @@ I began working in marketing for higher education in 2012 in Camarillo, Californ
 
 After working in California, I took an art director position at Voice Media Group, which publishes newspapers and news sites in Miami, Denver, Phoenix, Houston, and Dallas. For the Dallas office (Dallas Observer), I ran the art department full time for three years and continue to support the company as a contract art director.
 
-Now, I'm looking for a position where I can grow beyond a contract role in a company and support a team. I'm looking for a position that relates to my community of Vermont. I feel that the Middlebury College would be a good fit for these goals.
+Now, I'm looking for a position where I can grow beyond a contract role. I'm looking for a position that reflects my Vermont community. I'm looking to work with a team to bring great ideas to life. I feel that the Middlebury College would be a good fit for these goals.
 
 Here is some current work from California State University that speaks to the variety of projects that I have taken on there:
 
@@ -28,7 +28,7 @@ Here is some current work from California State University that speaks to the va
 	<img src="/images/forMidd/AYUDAS_blacklogo.jpg">
 </div>
 
-In another branding project of CSUCI, called **Channel Your Success**, we worked on creating messaging for banners on campus. Both slides are mockups of the project.
+In another branding project of CSUCI, called **Channel Your Success**, we worked on creating messaging for banners on campus. The image to the left is a mockup of the banner. The image on the right is a mock up of the logo on a banner on campus.
 
 <div class="gallery" data-columns="2">
 	<img src="/images/forMidd/cysbannermockup.jpg">
