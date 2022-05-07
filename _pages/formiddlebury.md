@@ -16,22 +16,22 @@ I currently support a few clients while working remotely in Middlebury. I'm look
 
 Here is some current work from California State University that speaks to the variety of projects that I have taken on there:
 
-**Branding**
-Project AYUDAS is a grant-based project to support students of Hispanic-Serving Institutions (HSI)s to find academic success in science, technology, engineering and math. This is the full-color logo I created for their project.
+###Branding
+**Project AYUDAS** is a grant-based project to support students of Hispanic-Serving Institutions (HSI)s to find academic success in science, technology, engineering and math. This is the full-color logo I created for their project.
 
 <div class="gallery" data-columns="2">
 	<img src="/images/forMidd/AYUDAS_fullcolorlogo.png">
 	<img src="/images/forMidd/AYUDAS_blacklogo.png">
 </div>
 
-In another branding project of CSUCI, called *Channel Your Success*, we worked on creating messaging for banners on campus. Both slides are mockups of the project.
+In another branding project of CSUCI, called **Channel Your Success**, we worked on creating messaging for banners on campus. Both slides are mockups of the project.
 
 <div class="gallery" data-columns="2">
 	<img src="/images/forMidd/cysbannermockup.jpg">
 	<img src="/images/forMidd/bannermockup.jpg">
 </div>
 
-**Recruitment**
+###Recruitment
 This is a two-sided brochure with the top ten reasons to attend CSUCI. The reverse side makes for a nice graphic poster with a hashtag recruitment uses for student engagement on social media.
 
 <div class="gallery" data-columns="1">
@@ -46,7 +46,7 @@ This is a postcard invitation to incoming freshman to visit campus for an early 
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
 
-**Social Media**
+###Social Media
 The social media images I designed for LinkedIn targets mentors and managers hiring in Southern California for interns and recent graduates
 
 <div class="gallery" data-columns="1">
@@ -58,8 +58,8 @@ Thank you for making it this far with the examples of work and about my history.
 
 ---
 
-**Now for the Middlebury College part:** I read the open position requirements carefully.
-Here are the essential functions of the role mentioned in the job posting. I respond with my experience in *italic*.
+###Now for the Middlebury College part 
+I read the open position requirements carefully. Here are the essential functions of the role mentioned in the job posting. I respond with my experience in *italic*.
 
 * Supervise three teams—Graphic Design, Project Management, Printing and Mailing Services—with care and attention to their collaborations.
 *I have been acting as No. 2 at Voice Media Group/Dallas Observer since taking on role of art director in 2016. When I was a full-time employee, I supervised production and layout staff, hired, managed and directed photographers and illustrators, manage freelance designers.*
