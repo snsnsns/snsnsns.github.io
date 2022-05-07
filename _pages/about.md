@@ -6,7 +6,7 @@ description: I'm an art director and graphic designer based in Vermont.
 
 ![](/images/blogimages/About/schumacherheadshot.jpg)
 
- Since the early aughts, I was interesting in editorial design while also writing for American University's *Eagle*. In 2003, I was lucky to join an amazing team at *Foreign Policy* and produce editorial work worthy of a National Magazine award. After *FP*, I worked in New York at various titles, including *Fortune*, Conde Nast's *Menswear* magazine, *Everyday with Rachel Ray*, *Budget Travel* and Bloomberg News. In 2009, I pursued a masters in typeface design at the University of Reading, England. I joined the marketing team at California State University Channel Islands as a lead graphic designer working on expanding the reach and brand of the university. Since then, I've also expanded my work into social media design, event design, web design, illustration and photography. Most recently, I have been art directing the alternative weekly and news site *The Dallas Observer*.
+My design career began at *Foreign Policy* where our team won multiple National Magazine awards for general excellence. After *FP*, I worked in New York at various titles, including *Fortune*, Conde Nast's *Menswear* magazine, *Everyday with Rachel Ray*, *Budget Travel* and Bloomberg News. In 2009, I pursued a masters in typeface design at the University of Reading, England. I joined the marketing team at California State University Channel Islands as a lead graphic designer working on expanding the reach and brand of the university. Since then, I've also expanded my work into social media design, event design, web design, illustration and photography. Most recently, I have been art directing *The Dallas Observer* of Voice Media Group.
 
 __Media Companies/Publications__
 + *Foreign Policy*
@@ -26,6 +26,9 @@ __Awards/Recognition__
 
 National Magazine Award (Ellie) for General Excellence, *Foreign Policy*
 (June 2007 // American Society of Magazine Editors)
+
+National Magazine Award (Ellie) for General Excellence, *Foreign Policy*
+(June 2003 // American Society of Magazine Editors)
 
 __Organizations__
 
