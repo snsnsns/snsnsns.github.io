@@ -8,11 +8,15 @@ exclude: true
 
 ## To the hiring team at Middlebury College,
 
-I'm Sarah, an art director and graphic designer with a deep history in editorial design and marketing in higher education. This web page is an attempt at giving you a good look at my specific abilities as they would apply to the college's role of creative director. I began my career in print magazine design, first working as a designer in Washington at Foreign Policy magazine, where my team was nominated for and won multiple awards for general excellence from the American Society of Magazine Editors. I later moved to New York to freelance at Fortune magazine, then took a full time art director position with Condé Nast. When the market imploded in late 2008, I left New York to pursue a masters in graphic design and typography from the University of Reading in England. 
+I'm Sarah, an art director and graphic designer with a deep history in editorial design and in higher education marketing design. This site page discusses my specific abilities as they would apply to role of creative director. 
 
-I began working in marketing for higher education in 2012 in Camarillo, California. I was employed as a graphic designer with California State University, Channel Islands. The university was young, having been founded in 2002. I helped craft universal design standards for the university along with the web development team as we launched a new site and magazine. In the seven years since I stopped working for CSUCI full time, I have continued to support the university in a contract role because they value my work and vision.
+I began my career in print magazine design, first working as a designer in Washington at *Foreign Policy* magazine, where my team was nominated for and won multiple awards for general excellence from the American Society of Magazine Editors. I later moved to New York to freelance at *Fortune*, then took a full time art director position with Condé Nast. When the publishing industry imploded in late 2008, I left New York to pursue a masters' degree in graphic design and typography from the University of Reading in England. 
 
-I currently support a few clients while working remotely in Middlebury. I'm looking for a position where I can grow beyond a contract role in a company and support a team. I'm looking for a position that relates to my community of Vermont. I feel that the Middlebury College would be a good fit for these goals.
+I began working in marketing for higher education in 2012 in Camarillo, California. I was employed as a graphic designer with California State University, Channel Islands. The university was young, having been founded in 2002. I helped craft universal design standards for the university along with the web development team as we launched a new site and magazine. In the seven years since I stopped working full time for CSUCI, I have taken on projects that range from data visualizations to social media graphics to recruitment viewbooks.
+
+After working in California, I took an art director position at Voice Media Group, which publishes newspapers and news sites in Miami, Denver, Phoenix, Houston, and Dallas. For the Dallas office (Dallas Observer), I ran the art department full time for three years and continue to support the company as a contract art director.
+
+Now, I'm looking for a position where I can grow beyond a contract role in a company and support a team. I'm looking for a position that relates to my community of Vermont. I feel that the Middlebury College would be a good fit for these goals.
 
 Here is some current work from California State University that speaks to the variety of projects that I have taken on there:
 
