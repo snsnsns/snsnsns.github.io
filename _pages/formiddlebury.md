@@ -14,7 +14,7 @@ I began my career in print magazine design, first working as a designer in Washi
 
 I began working in marketing for higher education in 2012 in Camarillo, California. I was employed as a graphic designer with California State University, Channel Islands. The university was young, having been founded in 2002. I helped craft universal design standards for the university along with the web development team as we launched a new site and magazine. In the seven years since I stopped working full time for CSUCI, I have taken on projects that range from data visualizations to social media graphics to recruitment viewbooks.
 
-After working in California, I took an art director position at Voice Media Group, which publishes newspapers and news sites in Miami, Denver, Phoenix, Houston, and Dallas. For the Dallas office (Dallas Observer), I ran the art department full time for three years and continue to support the company as a contract art director.
+After working in California, I took an art director position at Voice Media Group, which publishes newspapers and news sites in Miami, Denver, Phoenix, Houston, and Dallas. For the Dallas office (*Dallas Observer*), I ran the art department full time for three years and continue to support the company as a contract art director.
 
 Now, I'm looking for a position where I can grow beyond a contract role. I'm looking for a position that reflects my Vermont community. I'm looking to work with a team to bring great ideas to life. I feel that the Middlebury College would be a good fit for these goals.
 
@@ -99,5 +99,5 @@ I read the open position requirements carefully. Here are the essential function
 *Assign projects to the design staff, either as single-person producers or as members of larger creative teams.
 *I'm good with delegating work and not micro-managing people. I find respect for individual talent and making expectations clear goes far in meeting goals.*
 
-* Be an ongoing resource for the project managers and printing and mailing teams bringing insight, support, and problem solving.
+*Be an ongoing resource for the project managers and printing and mailing teams bringing insight, support, and problem solving.
 *I am happy to be an oracle of information relating to the status of projects, correct mail codes, technology support, etc.*
