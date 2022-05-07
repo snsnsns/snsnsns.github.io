@@ -24,8 +24,8 @@ Here is some current work from California State University that speaks to the va
 **Project AYUDAS** is a grant-based project to support students of Hispanic-Serving Institutions (HSI)s to find academic success in science, technology, engineering and math. This is the full-color logo I created for their project.
 
 <div class="gallery" data-columns="2">
-	<img src="/images/forMidd/AYUDAS_fullcolorlogo.png">
-	<img src="/images/forMidd/AYUDAS_blacklogo.png">
+	<img src="/images/forMidd/AYUDAS_fullcolorlogo.jpg">
+	<img src="/images/forMidd/AYUDAS_blacklogo.jpg">
 </div>
 
 In another branding project of CSUCI, called **Channel Your Success**, we worked on creating messaging for banners on campus. Both slides are mockups of the project.
