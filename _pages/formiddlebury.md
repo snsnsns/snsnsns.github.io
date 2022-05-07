@@ -6,7 +6,7 @@ description: Marketing design from California State University Channel Islands
 exclude: true
 ---
 
-##To the hiring team at Middlebury College,
+## To the hiring team at Middlebury College,
 
 I'm Sarah, an art director and graphic designer with a deep history in editorial design and marketing in higher education. This web page is an attempt at giving you a good look at my specific abilities as they would apply to the college's role of creative director. I began my career in print magazine design, first working as a designer in Washington at Foreign Policy magazine, where my team was nominated for and won multiple awards for general excellence from the American Society of Magazine Editors. I later moved to New York to freelance at Fortune magazine, then took a full time art director position with Condé Nast. When the market imploded in late 2008, I left New York to pursue a masters in graphic design and typography from the University of Reading in England. 
 
@@ -16,7 +16,7 @@ I currently support a few clients while working remotely in Middlebury. I'm look
 
 Here is some current work from California State University that speaks to the variety of projects that I have taken on there:
 
-###Branding
+### Branding
 **Project AYUDAS** is a grant-based project to support students of Hispanic-Serving Institutions (HSI)s to find academic success in science, technology, engineering and math. This is the full-color logo I created for their project.
 
 <div class="gallery" data-columns="2">
@@ -31,7 +31,7 @@ In another branding project of CSUCI, called **Channel Your Success**, we worked
 	<img src="/images/forMidd/bannermockup.jpg">
 </div>
 
-###Recruitment
+### Recruitment
 This is a two-sided brochure with the top ten reasons to attend CSUCI. The reverse side makes for a nice graphic poster with a hashtag recruitment uses for student engagement on social media.
 
 <div class="gallery" data-columns="1">
@@ -46,7 +46,7 @@ This is a postcard invitation to incoming freshman to visit campus for an early 
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
 
-###Social Media
+### Social Media
 The social media images I designed for LinkedIn targets mentors and managers hiring in Southern California for interns and recent graduates
 
 <div class="gallery" data-columns="1">
@@ -58,7 +58,7 @@ Thank you for making it this far with the examples of work and about my history.
 
 ---
 
-###Now for the Middlebury College part 
+## Now for the Middlebury College part 
 I read the open position requirements carefully. Here are the essential functions of the role mentioned in the job posting. I respond with my experience in *italic*.
 
 * Supervise three teams—Graphic Design, Project Management, Printing and Mailing Services—with care and attention to their collaborations.
