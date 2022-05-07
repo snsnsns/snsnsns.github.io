@@ -1,99 +1,99 @@
 ---
-title: 'College'
-subtitle: 'This is a demo'
+title: 'Higher Education Marketing'
+subtitle: 'Sarah Schumacher's portfolio of marketing work'
 date: 2022-05-05 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+description: Marketing design from California State University Channel Islands
+exclude: true
 ---
 
-![](/images/demo/demo-landscape.jpg)
+##To the hiring team at Middlebury College,
 
-## Demo content
+I'm Sarah, an art director and graphic designer with a deep history in editorial design and marketing in higher education. This web page is an attempt at giving you a good look at my specific abilities as they would apply to the college's role of creative director. I began my career in print magazine design, first working as a designer in Washington at Foreign Policy magazine, where my team was nominated for and won multiple awards for general excellence from the American Society of Magazine Editors. I later moved to New York to freelance at Fortune magazine, then took a full time art director position with Condé Nast. When the market imploded in late 2008, I left New York to pursue a masters in graphic design and typography from the University of Reading in England. 
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+I began working in marketing for higher education in 2012 in Camarillo, California. I was employed as a graphic designer with California State University, Channel Islands. The university was young, having been founded in 2002. I helped craft universal design standards for the university along with the web development team as we launched a new site and magazine. In the seven years since I stopped working for CSUCI full time, I have continued to support the university in a contract role because they value my work and vision.
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+I currently support a few clients while working remotely in Middlebury. I'm looking for a position where I can grow beyond a contract role in a company and support a team. I'm looking for a position that relates to my community of Vermont. I feel that the Middlebury College would be a good fit for these goals.
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+Here is some current work from California State University that speaks to the variety of projects that I have taken on there:
 
-You can create lists:
+**Branding**
+Project AYUDAS is a grant-based project to support students of Hispanic-Serving Institutions (HSI)s to find academic success in science, technology, engineering and math. This is the full-color logo I created for their project.
 
-* Simple bulleted lists
-* Like this one
-* Are cool
-
-And:
-
-1. Numbered lists
-2. Like this other one
-3. Are great too
-
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
-
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
-
-The theme also supports markdown tables:
-
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $39   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $39   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $39   |
-
-You can throw in some horizontal rules too:
-
----
-
-### Image galleries
-
-Here's a really neat custom feature we added – galleries:
-
-<div class="gallery" data-columns="3">
-	<img src="/images/demo/demo-portrait.jpg">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-square.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
+<div class="gallery" data-columns="2">
+	<img src="/images/forMidd/AYUDAS_fullcolorlogo.png">
+	<img src="/images/forMidd/AYUDAS_blacklogo.png">
 </div>
 
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
+In another branding project of CSUCI, called *Channel Your Success*, we worked on creating messaging for banners on campus. Both slides are mockups of the project.
 
-```html
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
+<div class="gallery" data-columns="2">
+	<img src="/images/forMidd/cysbannermockup.jpg">
+	<img src="/images/forMidd/bannermockup.jpg">
 </div>
-```
 
-*See what we did there? Code and syntax highlighting is built-in too!*
-
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
-
----
-
-### Image carousels
-
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
+**Recruitment**
+This is a two-sided brochure with the top ten reasons to attend CSUCI. The reverse side makes for a nice graphic poster with a hashtag recruitment uses for student engagement on social media.
 
 <div class="gallery" data-columns="1">
 	<img src="/images/demo/demo-landscape.jpg">
 	<img src="/images/demo/demo-landscape-2.jpg">
 </div>
 
-### What about videos?
+This is a postcard invitation to incoming freshman to visit campus for an early orientation and community building event in which the university is able to compile data as to which students they are targeting are following through with enrollment.
 
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
+<div class="gallery" data-columns="1">
+	<img src="/images/demo/demo-landscape.jpg">
+	<img src="/images/demo/demo-landscape-2.jpg">
+</div>
 
-<iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+**Social Media**
+The social media images I designed for LinkedIn targets mentors and managers hiring in Southern California for interns and recent graduates
+
+<div class="gallery" data-columns="1">
+	<img src="/images/forMidd/LinkedIn_forMentors.jpg">
+	<img src="/images/forMidd/LinkedIn_forMentors2.jpg">
+</div>
+
+Thank you for making it this far with the examples of work and about my history. 
 
 ---
 
-## Pretty cool, huh?
+**Now for the Middlebury College part:** I read the open position requirements carefully.
+Here are the essential functions of the role mentioned in the job posting. I respond with my experience in *italic*.
 
-We've packed this theme with powerful features to show off your work.
+* Supervise three teams—Graphic Design, Project Management, Printing and Mailing Services—with care and attention to their collaborations.
+*I have been acting as No. 2 at Voice Media Group/Dallas Observer since taking on role of art director in 2016. When I was a full-time employee, I supervised production and layout staff, hired, managed and directed photographers and illustrators, manage freelance designers.*
+*In my role as an Associate Art Director at Condé Nast, I managed designers and photo retouchers. At Foreign Policy, I managed design interns.*
 
-Why not put them to use on your new portfolio?
+* Establish communications and marketing priorities with the vice president and leadership peers across the department.
+*Listening is key to making priorities. Once I have heard from all the stakeholders, I have no trouble sorting priorities for the work.*
 
-<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+* Guide big-picture design strategy and visual vocabulary to show authentic Middlebury to stakeholders in partnership with the vice president and key colleagues.
+*Having worked in an Advancement and University Marketing for ten years, I am very aware of the priorities that go into messaging. Storyboarding goes far in finding the correct tone and verbiage to get the attention of stakeholders. The conceptual phase can be rich with ideas. I quickly infuse the aesthetic and branding of the entity I am working for and try to advance the vision in healthy directions.*
+
+* In Graphic Design, nurture creativity, spark, and fulfilling business goals of every project (among other priorities).
+*I love what I do and I love encouraging that joy and pride in work in my colleagues.*
+
+* In Project Management, foster efficient workflow in a fluid environment with shared expectations of creatives and clients (among other priorities).
+*I have been managing simultaneous print projects with printers since 2003. Part of my role as an art director is to essentially be a production manager as well. I am grateful for the variety of modern project management tools that we can choose from, but a Gantt chart works great too. Communication and timeline priorities with all parties involved on a project is key. Every team needs to be on the same page about meeting deadlines. I am good at firm friendly pressure in getting deadlines met.*
+
+* In Printing and Mailing Services, integrate expertise across the division, mindful of the goals of each project (among other priorities).
+*Understanding mailing indicia is an area in which I excell ;) *
+
+* Supervise concepting and development of compelling designs in a high-volume, deadline-driven environment, including web, social media, print, photography, illustration, event collateral, video, and related media.
+*I work pretty quickly when a deadline is looming. I am well-versed with web, social media, print, photography, illustration, event collateral, video and multimedia design. I have designed for many projected spaces (event background and powerpoint presentations). Please look to my portfolio web site for examples.*
+
+* Encourage pushing boundaries in design aligned with brand; promote the symbiosis of words and images; strive to reach heart and head with work that is human, colloquial, memorable—and able to meet business goals.
+*I'm happy to push boundaries, but for Middlebury College, the result still needs to strike the right tone. It needs to be clever and insightful, not brash. It seems like an exciting challenge for sure.*
+
+* Take on an ambitious portfolio of designs, from ideation to final products. 
+*Happy to do this.*
+
+* Assist team members in determining appropriate freelancers and vendors and help orchestrate their work.
+*I often hire photographers, videographers and illustrators and direct their work. I know many talented photographers and illustrators working in Vermont that we could tap for magazine feature photographer or larger advertising campaign work.*
+
+* Assign projects to the design staff, either as single-person producers or as members of larger creative teams.
+*I'm good with delegating work and not micro-managing people. I find respect for individual talent and making expectations clear goes far in meeting goals.*
+
+* Be an ongoing resource for the project managers and printing and mailing teams bringing insight, support, and problem solving.
+*I am happy to be an oracle of information relating to the status of projects, correct mail codes, technology support, etc.*
