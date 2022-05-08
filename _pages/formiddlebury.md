@@ -78,20 +78,20 @@ The social media images I designed for LinkedIn targets mentors and managers hir
 ---
 
 ## Now for the Middlebury College part 
-I read the open position requirements carefully. Here are the essential functions of the role mentioned in the job posting. I respond with my experience in *italic*.
+Here are the essential functions of the role mentioned in the job posting. I respond with my experience in *italic*.
 
 **Supervise three teams—Graphic Design, Project Management, Printing and Mailing Services—with care and attention to their collaborations.**
 
-*I have been acting as No. 2 at Voice Media Group/Dallas Observer since taking on role of art director in 2016. When I was a full-time employee, I supervised production and layout staff, hired, managed and directed photographers and illustrators, manage freelance designers.*
+*I became a manager at Voice Media Group/Dallas Observer six years ago, having taken on role of art director in 2016. I supervised production and layout staff, hired, managed and directed photographers and illustrators, manage freelance designers.*
 *In my role as an Associate Art Director at Condé Nast, I managed designers and photo retouchers. At Foreign Policy, I managed design interns.*
 
 **Establish communications and marketing priorities with the vice president and leadership peers across the department.**
 
-*Listening is key to making priorities. Once I have heard from all the stakeholders, I have no trouble sorting priorities for the work.*
+*Gathering information and listening to stakeholders is key to setting project priorities. It is important to listen first and always be open to change when new circumstances shift the priorities.*
 
 **Guide big-picture design strategy and visual vocabulary to show authentic Middlebury to stakeholders in partnership with the vice president and key colleagues.**
 
-*Having worked in an Advancement and University Marketing for ten years, I am very aware of the priorities that go into messaging. Storyboarding goes far in finding the correct tone and verbiage to get the attention of stakeholders. The conceptual phase can be rich with ideas. I quickly infuse the aesthetic and branding of the entity I am working for and try to advance the vision in healthy directions.*
+*Having worked in Advancement and University Marketing for ten years, I am very aware of tone and audience in messaging. Storyboarding ideas goes far in showing early ideas to clients for feedback. Telling the story of the storyboard requires finding the correct vibe and verbiage to get the attention of stakeholders. Being open to a diversity of input is key because new voices bring fresh ideas. From the conceptual phase, finding great creative vendors to help fulfill the vision is key.*
 
 **In Graphic Design, nurture creativity, spark, and fulfilling business goals of every project (among other priorities).**
 
