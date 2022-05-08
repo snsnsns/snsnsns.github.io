@@ -3,10 +3,10 @@ title: 'Contrada NYC'
 subtitle: 'Contrada NYC, a restaurant in the East Village'
 date: 2014-06-10 00:00:00
 description: Branding for restaurants
-featured_image: /images/blogimages/Contrada/Contrada_streetview2.jpg
+featured_image: /images/blogimages/Contrada/Contrada_streetview1.jpg
 ---
 
-![](/images/blogimages/Contrada/Contrada_streetview1.jpg)
+![](/images/blogimages/Contrada/Contrada_streetview2.jpg)
 
 ## Description
 
