@@ -10,7 +10,7 @@ exclude: true
 
 I'm Sarah, an art director and graphic designer with a deep history in editorial design and in higher education marketing design. This site was created to specifically highlight the ways in which I can succeed in the position of creative director. 
 
-I began my career in print magazine design, first working as a designer in Washington at *Foreign Policy* magazine, where my team was nominated for and won multiple awards for general excellence from the American Society of Magazine Editors. I later moved to New York where I worked as a designer at Fortune, Condé Nast, Bloomberg News, Everyday with Rachel Ray, Frommer's Budget Travel. When the publishing world imploded in early 2009, I pursued a master's degree in graphic design and typography from the University of Reading in England. 
+I began my career in print magazine design, first working as a designer in Washington at *Foreign Policy* magazine, where my team was nominated for and won multiple awards for general excellence from the American Society of Magazine Editors. I later moved to New York where I worked as a designer at *Fortune*, Condé Nast, Bloomberg News, *Everyday with Rachel Ray*, Frommer's *Budget Travel*. When the publishing world imploded in early 2009, I pursued a master's degree in graphic design and typography from the University of Reading in England. 
 
 I began working in marketing for higher education in 2012 in Camarillo, California. As a graphic designer with [California State University, Channel Islands](https://www.csuci.edu), I helped craft brand standards for the university along with the web development team as we launched a new site and magazine. The university was young, having been founded in 2002. I took on many roles, including event photographer. We shot advertising campaigns and branded new initiatives to recruit as a Hispanic-Serving Institution (HSI). I designed projects that range from data visualizations to social media graphics to recruitment viewbooks to event collateral. I still support the university as a contract graphic designer.
 
@@ -31,8 +31,8 @@ This is a two-sided brochure with the top ten reasons to attend CSUCI. The rever
 This is a postcard invitation to incoming freshman to visit campus for an early orientation and community building event in which the university is able to compile data as to which students they are targeting are following through with enrollment.
 
 <div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
+	<img src="/images/forMidd/dolphindayspostcard1.jpg">
+	<img src="/images/forMidd/dolphindayspostcard2.jpg">
 </div>
 
 ### Branding
@@ -77,7 +77,7 @@ The social media images I designed for LinkedIn targets mentors and managers hir
 
 ---
 
-## Now for the Middlebury College part 
+## Essentially Qualified 
 Here are the essential functions of the role mentioned in the job posting. I respond with my experience in *italic*.
 
 **Supervise three teams—Graphic Design, Project Management, Printing and Mailing Services—with care and attention to their collaborations.**
