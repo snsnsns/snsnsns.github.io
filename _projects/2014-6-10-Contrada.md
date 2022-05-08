@@ -10,7 +10,7 @@ featured_image: /images/blogimages/Contrada/Contrada_streetview1.jpg
 
 ## Description
 
-In 2014, I helped my friend with branding a restaurant he was helping to manage in the East Village of New York at 2nd Avenue and 4th Street. The menu focused on Italian coastal flavors, heavy on pescatarian dishes. I helped with the typography for the signage and the business card and menu design. We kept the signage a wide sans serif so it could fit the name and be seen and easily read at some distance. The menu and business card use Okay Type's Harriet for variety of classic letterforms.
+In 2014, I helped my friend with branding a restaurant he was helping to manage in the East Village of New York at 2nd Avenue and 4th Street. The menu focused on Italian coastal flavors. I helped with the typography for the signage and the business card and menu design. We kept the signage a wide sans serif so it could fit the name and be seen and easily read at some distance. The menu and business card use Okay Type's Harriet for variety of classic letterforms.
 
 <div class="gallery" data-columns="1">
 	<img src="/images/blogimages/Contrada/Contrada_menu.jpg">
