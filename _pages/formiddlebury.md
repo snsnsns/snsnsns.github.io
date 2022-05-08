@@ -20,6 +20,21 @@ Now, I'm looking for a position where I can grow beyond contract design work. I'
 
 Here is some current work from California State University that speaks to the variety of projects that I have taken on there:
 
+### Recruitment
+This is a two-sided brochure with the top ten reasons to attend CSUCI. The reverse side is a campus photo and hashtag phrase that recruitment uses for social media engagement.
+
+<div class="gallery" data-columns="1">
+	<img src="/images/forMidd/top10brochurefront.jpg">
+	<img src="/images/forMidd/top10brochureback.jpg">
+</div>
+
+This is a postcard invitation to incoming freshman to visit campus for an early orientation and community building event in which the university is able to compile data as to which students they are targeting are following through with enrollment.
+
+<div class="gallery" data-columns="1">
+	<img src="/images/demo/demo-landscape.jpg">
+	<img src="/images/demo/demo-landscape-2.jpg">
+</div>
+
 ### Branding
 **Project AYUDAS** is a grant-based project to support first-generation college students to find academic success in science, technology, engineering and math. This is the full-color logo I created for their project.
 
@@ -52,29 +67,6 @@ Recruitment and Enrollment department needed internship hiring guides for both s
 	<img src="/images/forMidd/channel2021layout.jpg">	
 </div>
 
-### Advertising
-Ttktktkkt
-
-<div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
-### Recruitment
-This is a two-sided brochure with the top ten reasons to attend CSUCI. The reverse side is a campus photo and hashtag phrase that recruitment uses for social media engagement.
-
-<div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
-This is a postcard invitation to incoming freshman to visit campus for an early orientation and community building event in which the university is able to compile data as to which students they are targeting are following through with enrollment.
-
-<div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
 ### Social Media
 The social media images I designed for LinkedIn targets mentors and managers hiring in Southern California for interns and recent graduates
 
@@ -82,8 +74,6 @@ The social media images I designed for LinkedIn targets mentors and managers hir
 	<img src="/images/forMidd/LinkedIn_forMentors.jpg">
 	<img src="/images/forMidd/LinkedIn_forMentors2.jpg">
 </div>
-
-Thank you for making it this far with the examples of work and about my history. 
 
 ---
 
