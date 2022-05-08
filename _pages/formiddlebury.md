@@ -39,14 +39,11 @@ In another branding project of CSUCI, called **Channel Your Success**, I designe
 
 Recruitment and Enrollment department needed internship hiring guides for both students ([Internship Guide for Students, Faculty and Staff](https://issuu.com/csu-channel-islands/docs/2021_internshipguidestudentfaculty_issuu)) and potential employers ([Internship Toolkit for Employers and Community Partners](https://issuu.com/csu-channel-islands/docs/2021_employerinternshiptoolkit_issuu)). These toolkits work as an internship guides for both parties.
 
-<div class="gallery" data-columns="2">
-	<img src="/images/forMidd/internshipstudents.jpg">
-	<img src="/images/forMidd/internshipemployer.jpg">
-</div>
-
 **Channel magazine** includes alumni features, profiles on major donors, campus news in the community, and a Spring listing of donors and fundraising data.
 
-<div class="gallery" data-columns="3">
+<div class="gallery" data-columns="4">
+	<img src="/images/forMidd/internshipstudents.jpg">
+	<img src="/images/forMidd/internshipemployer.jpg">
 	<img src="/images/forMidd/Channel2021fall.jpg">
 	<img src="/images/forMidd/Channel2019fall.jpg">
 	<img src="/images/forMidd/TOC2019.jpg">
@@ -116,7 +113,7 @@ I read the open position requirements carefully. Here are the essential function
 
 **In Printing and Mailing Services, integrate expertise across the division, mindful of the goals of each project (among other priorities).**
 
-*Understanding mailing indicia is an area in which I excell ;) *
+*In mailing collateral, it is very important to consider size and weight of the piece and how they will hold up through the mail. Mailing indicia can be very particular as well. I work with printers and mailing experts to assess the best path for each project and how to best achieve our delivery goals.*
 
 **Supervise concepting and development of compelling designs in a high-volume, deadline-driven environment, including web, social media, print, photography, illustration, event collateral, video, and related media.**
 
