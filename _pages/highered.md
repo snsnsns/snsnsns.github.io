@@ -62,15 +62,3 @@ The social media images I designed for LinkedIn targets mentors and managers hir
 	<img src="/images/forMidd/LinkedIn_forMentors.jpg">
 	<img src="/images/forMidd/LinkedIn_forMentors2.jpg">
 </div>
-
-
-
-*I often hire photographers, videographers and illustrators and direct their work. I know many talented photographers and illustrators working in Vermont that we could tap for magazine feature photographer or larger advertising campaign work.*
-
-**Assign projects to the design staff, either as single-person producers or as members of larger creative teams.**
-
-*I'm good with delegating work and not micro-managing people. I find respect for individual talent and making expectations clear goes far in meeting goals.*
-
-**Be an ongoing resource for the project managers and printing and mailing teams bringing insight, support, and problem solving.**
-
-*I am happy to be an oracle of information relating to the status of projects, correct mail codes, technology support, etc.*
