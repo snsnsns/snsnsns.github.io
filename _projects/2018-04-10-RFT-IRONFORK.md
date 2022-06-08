@@ -15,7 +15,7 @@ In spring 2018, the St. Louis alternative weekly, *Riverfront Times*, needed hel
 	<img src="/images/blogimages/RFT/IRONFORK_socialcitymuseum_1080.jpg">
 	<img src="/images/blogimages/RFT/RFT_IRONFORK329_fullpagead.jpg">
 	<img src="/images/blogimages/RFT/IRONFORK_rackcard_v3.jpg">
-	<img src="/images/blogimages/RFT/Ironforksite2018.jpg">
+	<img src="/images/blogimages/RFT/Ironforksite2018sm.jpg">
 </div>
 
 Video footage of the Iron Fork 2018 event shows the various ways the branding and logo were used.
