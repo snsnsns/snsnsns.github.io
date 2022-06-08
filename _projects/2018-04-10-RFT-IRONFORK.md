@@ -2,10 +2,10 @@
 title: 'Iron Fork 2018'
 date: 2018-03-29 00:00:00
 description: Marketing and branding for the Riverfront Times food event at the City Museum
-featured_image: '/images/blogimages/RFT/IRONFORK_facebookcover.jpg'
+featured_image: '/images/blogimages/RFT/ironforkblack.jpg'
 ---
 
-![](/images/blogimages/RFT/IRONFORK_facebookcover.jpg)
+![](/images/blogimages/RFT/ironforkblack.jpg)
 
 In spring 2018, the St. Louis alternative weekly, *Riverfront Times*, needed help updating their event logo and branding. They wanted it to feel tied to the show, Iron Fork, but custom for *RFT*. The event was going to kick off their Best of St. Louis Food and Drink issue, so some of that branding would be tied in. I worked with them to create a brand that worked with different variations for social media blasts: a chef, a bartender, some City Museum imagery, and a basic iteration. I also created print ads for the weekly *RFT* newspaper and digital ads for [Riverfronttimes.com](http://www.riverfronttimes.com).
 
