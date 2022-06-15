@@ -20,8 +20,6 @@ In 2018, I helped alter the design of the 2019 [viewbook](https://issuu.com/csu-
 	<img src="/images/blogimages/CSUCI/viewbook_version117.jpg">
 	<img src="/images/blogimages/CSUCI/viewbook_version118.jpg">
 	<img src="/images/blogimages/CSUCI/viewbook_version119.jpg">
-
-
 	</div>
 
 Here is some other current work from California State University that speaks to the variety of projects that I have taken on there:
