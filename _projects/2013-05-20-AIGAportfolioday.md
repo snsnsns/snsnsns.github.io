@@ -7,11 +7,11 @@ featured_image: '/images/blogimages/AIGA/AIGA_postcard.jpg'
 
 ![](/images/blogimages/AIGA/AIGAheader.jpg)
 
-I served as the vice president of AIGA Santa Barbara in 2013 and had the responsibility of planning, designing, and running a student portfolio review day at Lynda.com (now LinkedIn Learning) in Carpenteria, California. I tapped designer Aoife Mooney to help create a logo to go with the theme the AIGA board had thought up: "Vizualize and Realize Your Creative Career". We kept the design bright and friendly and accessible.
+I served as the vice president of AIGA Santa Barbara in 2013 and had the responsibility of planning, designing, and running a student portfolio review day at Lynda.com (now LinkedIn Learning) in Carpenteria, California. I tapped type designer Aoife Mooney to draw the lettering for the theme the AIGA board had thought up: "Vizualize and Realize Your Creative Career". We kept the visual identity for the event bright, upbeat and friendly to reflect our hopes for student futures.
 
 ![](/images/blogimages/AIGA/AIGAportfolioday.jpg)
 
-For branding the event, we had matching table placards and signage. I designed a postcard, a poster, and web assets.
+Within the event identity, we had matching table placards and signage. I designed a postcard, a poster, and digital assets for social media, web advertising, email banners, etc.
 
 ![](/images/blogimages/AIGA/AIGA_portfolioday_poster.jpg)
 
