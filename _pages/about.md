@@ -6,18 +6,19 @@ description: I'm an art director and graphic designer based in Vermont.
 
 ![](/images/blogimages/About/schumacherheadshot.jpg)
 
-My design career began at *Foreign Policy* where our team won multiple National Magazine awards for general excellence. After *FP*, I worked in New York at various titles, including *Fortune*, Conde Nast's *Menswear* magazine, *Everyday with Rachel Ray*, *Budget Travel* and Bloomberg News. In 2009, I pursued a masters in typeface design at the University of Reading, England. I joined the marketing team at California State University Channel Islands as a lead graphic designer working on expanding the reach and brand of the university. Since then, I've also expanded my work into social media design, event design, web design, illustration and photography. Most recently, I have been art directing *The Dallas Observer* of Voice Media Group.
+I began my career working as an editorial designer in the magazine publishing world. Now, I enjoy working on a variety of projects – from logo and brand design to packaging design, digital marketing to web design and social media. I have a masters degree in typeface design from the University of Reading which has been an invaluable skill for lettering projects and logo design. I have a bachelors in journalism and communications from American University in D.C. I've been lucky to live in many parts of the world, mostly in the United States, but even luckier to call Vermont home now.
 
-__Media Companies/Publications__
+__Clients/Employers__
++ Healthy Living Market
++ California State University 
++ Bloomberg News
++ *Dallas Observer*
 + *Foreign Policy*
 + *Fortune*
 + Fairchild Publications/Condé Nast
-+ Bloomberg News
 + *Everyday with Rachel Ray*
-+ *amNY*
 + *Budget Travel*
 + *The Onion*
-+ *Dallas Observer*
 + *Riverfront Times*
 
 __Awards/Recognition__
