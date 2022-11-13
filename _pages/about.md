@@ -9,6 +9,7 @@ description: I'm an art director and graphic designer based in Vermont.
 I began my career working as an editorial designer in the magazine publishing world. Now, I enjoy working on a variety of projects – logo and brand design, packing design, digital marketing, web design, social media, and event design. I have a masters degree in typeface design from the University of Reading which has been an invaluable skill for lettering projects and logo design. I have a bachelors in journalism and communications from American University in D.C. I've been lucky to live in many parts of the world, mostly in the United States, but I'm even luckier to now call Vermont home.
 
 __Clients/Employers__
+
 + Healthy Living Market
 + California State University 
 + Bloomberg News
@@ -20,6 +21,7 @@ __Clients/Employers__
 + *Budget Travel*
 + *The Onion*
 + *Riverfront Times*
++ Hazen and Sawyer
 
 __Awards/Recognition__
 
