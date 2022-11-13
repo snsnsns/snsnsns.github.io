@@ -15,19 +15,20 @@ __Clients/Employers__
 <li class="brands__item"><img class="logoimage" src="images/logos/CSUlogo.png" /></li>
 <li class="brands__item"><img class="logoimage" src="images/logos/healthyliving.png" /></li>
 <li class="brands__item"><img class="logoimage" src="images/logos/Voice_Media_Group_Logo.png" /></li>
-<li class="brands__item"><img class="logoimage" src="images/logos/euclid-logo.png" /></li>
 <li class="brands__item"><img class="logoimage" src="images/logos/EveryDaywithRachelRay.png" /></li>
 <li class="brands__item"><img class="logoimage" src="images/logos/Fortune_logo.png" /></li>
 <li class="brands__item"><img class="logoimage" src="images/logos/amNY-logo.png" /></li>
 <li class="brands__item"><img class="logoimage" src="images/logos/bloomberg.png" /></li>
 <li class="brands__item"><img class="logoimage" src="images/logos/carelogo.png" /></li>
-<li class="brands__item"><img class="logoimage" src="images/logos/foreignpolicy.png" /></li>
 <li class="brands__item"><img class="logoimage" src="images/logos/hazen.png" /></li>
 <li class="brands__item"><img class="logoimage" src="images/logos/qualitylogic.png" /></li>
 <li class="brands__item"><img class="logoimage" src="images/logos/senatormarkwarner.png" /></li>
-<li class="brands__item"><img class="logoimage" src="images/logos/theonion.png" /></li>
 <li class="brands__item"><img class="logoimage" src="images/logos/wwdlogo.png" /></li>
 <li class="brands__item"><img class="logoimage" src="images/logos/BudgetTravel.png" /></li>
+<li class="brands__item"><img class="logoimage" src="images/logos/theonion.png" /></li>
+<li class="brands__item"><img class="logoimage" src="images/logos/euclid-logo.png" /></li>
+<li class="brands__item"><img class="logoimage" src="images/logos/foreignpolicy.png" /></li>
+
 </ul>
 </div>
 
