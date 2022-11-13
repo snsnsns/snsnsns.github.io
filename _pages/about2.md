@@ -27,7 +27,7 @@ __Clients/Employers__
 <li class="brands__item"><img class="logoimage" src="images/logos/qualitylogic.png" /></li>
 <li class="brands__item"><img class="logoimage" src="images/logos/senatormarkwarner.png" /></li>
 <li class="brands__item"><img class="logoimage" src="images/logos/theonion.png" /></li>
-<li class="brands__item"><img class="logoimage" src="images/logos/wwdlogo.png" /></li>
+<li class="brands__item"><img class="logoimage" src="images/logos/wwdlogo.jpg" /></li>
 </ul>
 </div>
 
