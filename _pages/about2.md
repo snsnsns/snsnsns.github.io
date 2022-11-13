@@ -10,12 +10,12 @@ I began my career working as an editorial designer in the magazine publishing wo
 
 __Clients/Employers__
 
-<div class="gallery" markdown="0">
+<div class="gallery" data-columns="4">
 <ul class="brands">
 <li class="brands__item"><img class="logoimage" src="images/logos/CSUlogo.png" /></li>
 <li class="brands__item"><img class="logoimage" src="images/logos/healthyliving.png" /></li>
 <li class="brands__item"><img class="logoimage" src="images/logos/Voice_Media_Group_Logo.png" /></li>
-  <li class="brands__item"><img class="logoimage" src="images/logos/euclid-logo.png" /></li>
+<li class="brands__item"><img class="logoimage" src="images/logos/euclid-logo.png" /></li>
 <li class="brands__item"><img class="logoimage" src="images/logos/EveryDaywithRachelRay.png" /></li>
 <li class="brands__item"><img class="logoimage" src="images/logos/Fortune_logo.png" /></li>
 <li class="brands__item"><img class="logoimage" src="images/logos/amNY-logo.png" /></li>
