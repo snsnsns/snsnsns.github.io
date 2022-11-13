@@ -10,7 +10,7 @@ I began my career working as an editorial designer in the magazine publishing wo
 
 __Clients/Employers__
 
-<section class="clientbk" markdown="0">
+<div class="clientbk" markdown="0">
 <ul class="brands">
 <li class="brands__item"><img class="logoimage" src="images/logos/BudgetTravel.jpg" /></li>
 <li class="brands__item"><img class="logoimage" src="images/logos/CSUlogo.png" /></li>
@@ -29,7 +29,7 @@ __Clients/Employers__
 <li class="brands__item"><img class="logoimage" src="images/logos/theonion.png" /></li>
 <li class="brands__item"><img class="logoimage" src="images/logos/wwdlogo.png" /></li>
 </ul>
-</section>
+</div>
 
 __Otherlist__
 
