@@ -10,7 +10,7 @@ I began my career working as an editorial designer in the magazine publishing wo
 
 __Clients/Employers__
 
-<div class="gallery" data-columns="4">
+<div class="gallery" data-columns="3">
 <ul class="brands">
 <li class="brands__item"><img class="logoimage" src="images/logos/CSUlogo.png" /></li>
 <li class="brands__item"><img class="logoimage" src="images/logos/healthyliving.png" /></li>
@@ -22,13 +22,11 @@ __Clients/Employers__
 <li class="brands__item"><img class="logoimage" src="images/logos/carelogo.png" /></li>
 <li class="brands__item"><img class="logoimage" src="images/logos/hazen.png" /></li>
 <li class="brands__item"><img class="logoimage" src="images/logos/qualitylogic.png" /></li>
-<li class="brands__item"><img class="logoimage" src="images/logos/senatormarkwarner.png" /></li>
 <li class="brands__item"><img class="logoimage" src="images/logos/wwdlogo.png" /></li>
 <li class="brands__item"><img class="logoimage" src="images/logos/BudgetTravel.png" /></li>
 <li class="brands__item"><img class="logoimage" src="images/logos/theonion.png" /></li>
 <li class="brands__item"><img class="logoimage" src="images/logos/euclid-logo.png" /></li>
-<li class="brands__item"><img class="logoimage" src="images/logos/foreignpolicy.png" /></li>
-
+<li class="brands__item"><img class="logoimage" src="images/logos/foreignpolicy.png" /></li-
 </ul>
 </div>
 
