@@ -6,9 +6,8 @@
 
 .logoimage {
 border: 0;
+list-style: none;
 padding: 0.2em .1em 0.2em .1em
-width: 200px;
-height: 150px;
 object-fit: contain;
 justify-content: center;
 align-items: center;
@@ -19,7 +18,7 @@ width: 90%;
 display: grid;
 grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 grid-gap: 1rem;
-list-style: none;
+
 }
 
 .brands__item {
