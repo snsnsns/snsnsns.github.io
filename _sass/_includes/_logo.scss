@@ -5,22 +5,19 @@
 // - - - - - - - - - - - - - - - - - -
 
 .logoimage {
-filter: gray;  IE6-9
--webkit-filter: grayscale(0.5);
-filter: grayscale(1);  Microsoft Edge and Firefox 35+ 
 border: 0;
 padding: 0.2em .1em 0.2em .1em
-width: 160px;
-height: 75px;
+width: 200px;
+height: 150px;
 object-fit: contain;
 justify-content: center;
 align-items: center;
-width: 70%;
+width: 90%;
 }
 
 .brands {
 display: grid;
-grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 grid-gap: 1rem;
 list-style: none;
 }
@@ -29,14 +26,6 @@ list-style: none;
 background: #ffffff;
 }
 
-/*.clientbk
-{
-margin: 2em auto 0 auto;
-background-position: center center;
-background-attachment: fixed, fixed;
-background-size: auto, contain;
-}
-/*
 
 
 
