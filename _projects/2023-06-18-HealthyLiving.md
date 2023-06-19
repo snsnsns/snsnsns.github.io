@@ -3,7 +3,7 @@ title: 'Healthy Living'
 subtitle: 'Marketing design for Upstate NY and Vermont Organic Grocery Chain'
 date: 2014-06-10 00:00:00
 description: Marketing and Design for Health and Grocery Brand
-featured_image: /images/blogimages/HealthyLiving/bulksignage_saratoga523.jpg
+featured_image: /images/blogimages/HealthyLiving/hlteaserart.png
 ---
 
 ![](/images/blogimages/HealthyLiving/HLgreenveggieframetext.jpg)
@@ -17,6 +17,7 @@ I've been working with the locally-owned and operated grocery chain, Healthy Liv
 The design work has spanned from digital ads, email blasts, and social media posts to in-store signage, branded packaging, and print ads. 
 
 <div class="gallery" data-columns="1">
+<img src="/images/blogimages/HealthyLiving/bulksignage_saratoga523.jpg">
 <img src="/images/blogimages/HealthyLiving/RoundUp_registerad.png">
 <img src="/images/blogimages/HealthyLiving/CSflyer.png">
 <img src="/images/blogimages/HealthyLiving/avocadoposter.png">
