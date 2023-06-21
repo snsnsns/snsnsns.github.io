@@ -1,7 +1,7 @@
 ---
 title: 'Healthy Living'
 subtitle: 'Marketing design for Upstate NY and Vermont Organic Grocery Chain'
-date: 2014-06-10 00:00:00
+date: 2023-06-18 00:00:00
 description: Marketing and Design for Health and Grocery Brand
 featured_image: /images/blogimages/HealthyLiving/hlteaserart.png
 ---
