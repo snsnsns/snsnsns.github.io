@@ -4,7 +4,7 @@
 
 // - - - - - - - - - - - - - - - - - -
 
-.brands {
+/*.brands {
 display: grid;
 grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 grid-gap: 1rem;
@@ -24,7 +24,28 @@ object-fit: contain;
 justify-content: center;
 align-items: center;
 width: 70%;
+}*/
+
+.brands {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-gap: 1rem;
+  list-style: none;
 }
 
+.brands__item {
+  background: #ffffff;
+}
+
+.logoimage {
+  filter: grayscale(1);
+  -webkit-filter: grayscale(1);
+  border: 0;
+  height: 150px;
+  object-fit: contain;
+  justify-content: center;
+  align-items: center;
+  width: 70%;
+}
 
 
