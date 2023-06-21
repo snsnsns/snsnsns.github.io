@@ -30,7 +30,7 @@ Beyond marketing materials, I've also designed Healthy Living merchandise such a
 	<img src="/images/blogimages/HealthyLiving/fruitvegreusablebag.jpg">
 </div>
 
-Hiring has been really difficult since COVID in Vermont and upstate New York. I also have been working with human resources to bring awareness to the benefits of working at Healthy Living through colorful flyers and print advertisements in Seven Days weekly paper.
+Hiring has been really difficult since COVID in Vermont and upstate New York. I also have been working with human resources to bring awareness to the benefits of working at Healthy Living through colorful flyers and print advertisements in *Seven Days* weekly paper.
 
 <div class="gallery" data-columns="2">
 <img src="/images/blogimages/HealthyLiving/sevendaysad_HL.jpg">
