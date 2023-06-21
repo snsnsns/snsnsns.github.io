@@ -1,6 +1,6 @@
 ---
 title: 'California State University Channel Islands 2019 viewbook'
-date: 2020-01-01 00:00:00
+date: 2019-12-01 00:00:00
 description: Viewbook for university recruitment
 featured_image: '/images/blogimages/CSUCI/viewbook_version11.jpg'
 ---
