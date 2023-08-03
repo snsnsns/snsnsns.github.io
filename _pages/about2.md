@@ -26,7 +26,7 @@ __Clients/Employers__
 <li class="brands__item"><img class="logoimage" src="images/logos/BudgetTravel.png" alt="Budget Travel" /></li>
 <li class="brands__item"><img class="logoimage" src="images/logos/theonion.png" alt="The Onion" /></li>
 <li class="brands__item"><img class="logoimage" src="images/logos/euclid-logo.png" alt="Euclid Media Group" /></li>
-<li class="brands__item"><img class="logoimage" src="images/logos/foreignpolicy.png" alt="Foreign Policy" /></li-
+<li class="brands__item"><img class="logoimage" src="images/logos/foreignpolicy.png" alt="Foreign Policy" /></li>
 </ul>
 </div>
 
