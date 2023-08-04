@@ -1,5 +1,6 @@
 ---
 title: 'Foreign Policy'
+subtitle: '2003-2007'
 date: 2007-07-01 00:00:00
 description: Editorial design, art direction and infographic design
 featured_image: /images/blogimages/ForeignPolicy/failedstateopener.jpg
