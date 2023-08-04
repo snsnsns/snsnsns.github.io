@@ -1,6 +1,6 @@
 ---
 title: 'Budget Travel'
-subhead: 'Art direction, editorial design and web design'
+subtitle: 'Art direction, editorial design and web design'
 date: 2012-05-31 00:00:00
 description: Editorial design and editorial illustration
 featured_image: '/images/blogimages/BudgetTravel/Best-Places_Sep11-1.jpg'
