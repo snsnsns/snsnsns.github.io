@@ -1,10 +1,12 @@
 ---
-title: 'California State University Channel Islands 2019 viewbook'
+title: 'California State University Channel Islands'
+subtitle: 'Marketing design'
 date: 2019-12-01 00:00:00
 description: Viewbook for university recruitment
 featured_image: '/images/blogimages/CSUCI/viewbook_version11.jpg'
 ---
 
+### 2019 Viewbook
 
 Cal State University Channel Islands is a gem of a small public university in beautiful Camarillo, right on the Pacific coast. I worked there full time in the marketing department as a designer for a few years and still enjoy working with them on design projects. 
 
