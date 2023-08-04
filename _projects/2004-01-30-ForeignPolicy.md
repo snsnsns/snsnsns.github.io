@@ -37,9 +37,8 @@ I commissioned illustrator Alex Nabaum to create these inventive illustrators th
 __The Ideology of Development__
 Author Bill Easterly examines failed ideologies such as Communism and Fascism and adds Developmentalism to the list. He writes that there is a huge disconnect from the marketed future promised through Western aid and the reality on the ground. To tackle this idea, I enlisted illustrator Mike Benny to create 1950s-style propaganda poster imagery contrasted against the local scenes where the aid is directed. This contrast visualy addresses the misguided nature of the Developmentalism ideology.
 
-<div class="gallery" data-columns="2">
+<div class="gallery" data-columns="3">
 	<img src="/images/blogimages/ForeignPolicy/developmentopener.jpg">
 	<img src="/images/blogimages/ForeignPolicy/development2.jpg">
 	<img src="/images/blogimages/ForeignPolicy/development3.jpg">
-	<img src="/images/blogimages/ForeignPolicy/development4.jpg">
 </div>
