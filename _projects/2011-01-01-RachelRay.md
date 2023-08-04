@@ -1,5 +1,5 @@
 ---
-title: 'Everyday with Rachel Ray'
+title: 'Every Day with Rachel Ray'
 date: 2011-01-01 00:00:00
 description: Editorial design and art direction
 featured_image: /images/webselects/RachelRaycover.jpg
