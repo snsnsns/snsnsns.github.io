@@ -1,6 +1,6 @@
 ---
 title: 'Every Day with Rachel Ray'
-subtitle: 'Consultant on the brand and magazine redesign'
+subtitle: 'Consulting on brand and magazine redesign'
 date: 2011-01-01 00:00:00
 description: Editorial design and art direction
 featured_image: /images/webselects/RachelRaycover.jpg
