@@ -1,5 +1,6 @@
 ---
 title: 'AIGA Santa Barbara'
+subtitle: 'Logo design, branding, event design and marketing'
 date: 2013-05-20 00:00:00
 description: Art direction, event design, branding for an AIGA student portfolio review day
 featured_image: '/images/blogimages/AIGA/AIGA_postcard.jpg'
