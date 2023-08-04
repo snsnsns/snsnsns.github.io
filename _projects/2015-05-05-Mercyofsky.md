@@ -1,5 +1,6 @@
 ---
 title: 'The Mercy of the Sky'
+subtitle: 'Web design and map design for a book'
 date: 2015-05-05 00:00:00
 description: Web design using Wordpress and map illustration
 featured_image: '/images/blogimages/Mercy/Mooremap1.png'
