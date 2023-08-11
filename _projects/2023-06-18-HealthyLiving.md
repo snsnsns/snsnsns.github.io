@@ -18,7 +18,7 @@ The design work has spanned from digital ads, email blasts, and social media pos
 
 <div class="gallery" data-columns="2">
 <img src="/images/blogimages/HealthyLiving/bulksignage_saratoga523.jpg">
-<img src="/images/blogimages/HealthyLiving/avocadoposter.png">
+<img src="/images/blogimages/HealthyLiving/avocadoposter.jpg">
 </div>
 
 Beyond marketing materials, I've also designed Healthy Living merchandise such as reusable shopping bags, reusable freezer bags, stickers, eco-friendly utensil sets, hats and apparel.
