@@ -16,9 +16,9 @@ As an art director at Budget Travel, I worked on many global travel features. I 
 	<img src="/images/blogimages/BudgetTravel/Best-Places_Sep11-4.jpg">
 </div>
 
-![](/images/blogimages/BudgetTravel/Boutiquehotels1.jpg)
-
 Here is another feature design about boutique hotels with fun icons to show amenities.
+
+![](/images/blogimages/BudgetTravel/Boutiquehotels1.jpg)
 
 <div class="gallery" data-columns="2">
 	<img src="/images/blogimages/BudgetTravel/Boutiquehotels2.jpg">
@@ -44,7 +44,11 @@ Another fun featurette the editorial team created was a comparison tool between 
 
 ### Map Illustration
 
-For the Tuscany issue in July 2012, I painted this watercolor map illustration and inset map.
+For this Essentials guide to Wales, I hand painted the map and designed the page.
+
+![](/images/blogimages/BudgetTravel/essentialsWales.jpg)
+
+For the Tuscany issue in July 2012, I painted the main Tuscany map as well as the inset map of Italy in watercolor.
 
 ![](/images/blogimages/BudgetTravel/Tuscanymap.jpg)
 
