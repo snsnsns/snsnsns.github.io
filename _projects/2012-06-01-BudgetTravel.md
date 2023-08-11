@@ -26,7 +26,7 @@ Here is another feature design about boutique hotels with fun icons to show amen
 	<img src="/images/blogimages/BudgetTravel/Boutiquehotels5.jpg">
 </div>
 
-###Photo Direction for Gear Shoot 
+### Photo Direction for Gear Shoot 
 
 At Budget Travel, we had a lot of fun with gear shoots. For this design, we shot the gear, designed the page, printed it, crumpled it and reshot the somewhat crumpled page as the image for the layout. We had to make sure all the copy was edited before going through those steps so we wouldn't have to redo all the work.
  
@@ -35,13 +35,13 @@ At Budget Travel, we had a lot of fun with gear shoots. For this design, we shot
 	<img src="/images/blogimages/BudgetTravel/11Apr_Crumple-Gear-2.jpg">
 	</div>
 	
-###Destination Comparison
+### Destination Comparison
 
 Another fun featurette the editorial team created was a comparison tool between two similar destinations. I loved creating this spread comparing and contrasting Santa Fe with Sedona. The little photos in the text draw the eye into the story. 
 	
 ![](/images/blogimages/BudgetTravel/Santafe-Sedona.jpg)
 
-###Map Illustration
+### Map Illustration
 
 For the Tuscany issue in July 2012, I painted this watercolor map illustration and inset map.
 
