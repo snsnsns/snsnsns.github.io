@@ -23,9 +23,7 @@ The design work has spanned from digital ads, email blasts, and social media pos
 
 Beyond marketing materials, I've also designed Healthy Living merchandise such as reusable shopping bags, reusable freezer bags, stickers, eco-friendly utensil sets, hats and apparel.
 
-<div class="gallery" data-columns="2">
-	<img src="/images/blogimages/HealthyLiving/HLnavycoolerbagmockup.jpg">
-</div>
+![](/images/blogimages/HealthyLiving/HLnavycoolerbagmockup.jpg)
 
 Hiring has been really difficult since COVID in Vermont and upstate New York. I also have been working with human resources to bring awareness to the benefits of working at Healthy Living through colorful flyers and print advertisements in *Seven Days* weekly paper.
 
