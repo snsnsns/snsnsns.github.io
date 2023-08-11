@@ -5,8 +5,9 @@ date: 2012-05-31 00:00:00
 description: Editorial design and editorial illustration
 featured_image: '/images/blogimages/BudgetTravel/Best-Places_Sep11-1.jpg'
 ---
+![](/images/blogimages/BudgetTravel/btcover.png)
 
-As an art director at Budget Travel, I worked on many global travel features, such as this feature "Best Places You've Never Heard Of."
+As an art director at Budget Travel, I worked on many global travel features. I designed the cover, "Timeless Ireland." Another fun feature to design with amazing photography — "Best Places You've Never Heard Of."
 
 <div class="gallery" data-columns="2">
 	<img src="/images/blogimages/BudgetTravel/Best-Places_Sep11-1.jpg">
