@@ -1,9 +1,8 @@
 ---
 title: 'Marketing for Brands'
-subtitle: 'Sarah Schumacher's portfolio of digital marketing and brand design'
+subtitle: 'Portfolio of digital marketing and brand design'
 date: 2023-09-28 00:00:00
 description: Marketing, social media and packaging design work
-exclude: true
 ---
 
 ## To the hiring team at Aqua ViTea,
