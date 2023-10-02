@@ -15,7 +15,7 @@ I have five years experience enhancing brand awareness through digital marketing
 
 ## Branding and packaging
 I designed the labels for the newly-release private label cold-brew coffee from Healthy Living. I filmed this web video debuting the new product.
-<iframe src="images/blogimages/HealthyLiving/HL_coldbrewsocialvideolowres.mp4" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe src="images/blogimages/HealthyLiving/HL_coldbrewsocialvideolowres.mp4" width="360" height="640" frameborder="0" allowfullscreen></iframe>
 
 ## Digital ads for recruitment
 I designed these web ads using the newest brand standards in Fall 2023 for recruiting new employees on the highly trafficked [Seven Days site](https://www.sevendaysvt.com) as rotating "site skin" ads for the news site pages. 
