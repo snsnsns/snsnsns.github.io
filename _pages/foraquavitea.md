@@ -15,9 +15,9 @@ I'd like to showcase some of the work that I've done that might help you see my 
 
 ## Branding and packaging for Healthy Living
 I designed the labels for the newly-release private label cold-brew coffee from Healthy Living and created an Instagram reel for the debut. These coffee drinks are available for purchase in store.
-<div class="gallery" data-columns="1">
-	<iframe width="315" height="560" src="images/blogimages/HealthyLiving/HL_coldbrewsocialvideolowres.mp4" frameborder="0"></iframe>
-	<img src="/images/blogimages/HealthyLiving/krucanlabel.png" width="700px">
+<div class="gallery" data-columns="2">
+	<img src="images/blogimages/HealthyLiving/HL_coldbrewsocialvideolowres.mp4">
+	<img src="/images/blogimages/HealthyLiving/krucanlabel.png">
 </div>
 
 I created this custom logo for eco-friendly reusable salad bar containers at Healthy Living.
