@@ -16,9 +16,9 @@ Before working for Healthy Living, I spent five years working for Voice Media Gr
 I'd like to showcase some of the work that I've done that might help you see my capabilities:
 
 ## Branding and packaging for Healthy Living
-I designed the labels for the newly-release private label cold-brew coffee from Healthy Living and created an Instagram reel for the debut.
+I designed the labels for the newly-release private label cold-brew coffee from Healthy Living and created an Instagram reel for the debut. These coffee drinks are available for purchase in store.
 <div class="gallery" data-columns="2">
-	<iframe height="720" src="images/blogimages/HealthyLiving/HL_coldbrewsocialvideolowres.mp4" frameborder="0"></iframe>
+	<iframe width="315" height="560" src="images/blogimages/HealthyLiving/HL_coldbrewsocialvideolowres.mp4" frameborder="0"></iframe>
 	<img src="/images/blogimages/HealthyLiving/krucanlabel.png">
 </div>
 
@@ -30,11 +30,15 @@ I created this custom logo for eco-friendly reusable salad bar containers at Hea
 
 ## Digital ads for Healthy Living recruitment
 I designed these web ads for Healthy Living using the newest brand standards in Fall 2023 for recruiting new employees on the highly trafficked [Seven Days site](https://www.sevendaysvt.com) as rotating "site skin" ads for the news site pages. 
-![](/images/blogimages/HealthyLiving/sevendayssiteskin_hl.jpg)
+<div class="gallery" data-columns="1">
+	<img src="images/blogimages/HealthyLiving/sevendayssiteskin_hl.jpg">
+</div>
 
 ## Reusable bags design
 I designed reusable bags with drop-shift citrus patterns for Healthy Living in spring 2023. 
-![](/images/blogimages/HealthyLiving/orangesbag.png)
+<div class="gallery" data-columns="1">
+	<img src="/images/blogimages/HealthyLiving/orangesbag.png">
+</div>
 
 Another fun project was creating these cooler bags which are sturdy and attractive. It is my favorite cooler bag to shop with.
 <div class="gallery" data-columns="2">
