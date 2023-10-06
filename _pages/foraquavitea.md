@@ -18,7 +18,8 @@ I'd like to showcase some of the work that I've done that might help you see my 
 ## Branding and packaging for Healthy Living
 I designed the labels for the newly-release private label cold-brew coffee from Healthy Living and created an Instagram reel for the debut.
 <div class="gallery" data-columns="2">
-	<iframe src="images/blogimages/HealthyLiving/HL_coldbrewsocialvideolowres.mp4" width="360" height="640" frameborder="0"></iframe>
+	<iframe src="images/blogimages/HealthyLiving/HL_coldbrewsocialvideolowres.mp4" display:block;
+	width:100%; frameborder="0"></iframe>
 	<img src="/images/blogimages/HealthyLiving/krucanlabel.png">
 </div>
 
@@ -83,16 +84,16 @@ Voice Media Group has many marketed events alongside their news sites. Iron Fork
 ## Event and video design from Dallas Observer Music Awards
  Every year, Dallas Observer highlights the best musical acts trending in the city. For VMG's marketing department, I created the event brand which involved designing the logo/graphic for the event, the awards design, display ads, projected videos to introduce speakers and performers and visuals for performances. 
  
- <div class="gallery" data-columns="4">
- <img src="/images/blogimages/DO/2016_DOMA_bombfactory.png">
- <img src="/images/blogimages/DO/2016_DOMA_dezi5.png">
- <img src="/images/blogimages/DO/2016_DOMA_samlao.png">
- <img src="/images/blogimages/DO/2016_DOMA_samlao2.png">
- <img src="/images/blogimages/DO/2016_DOMA_Sikwitit.png">
- <img src="/images/blogimages/DO/2016_DOMA_stage.png">
- <img src="/images/blogimages/DO/2016_DOMA_oaktopia.jpg">
- <img src="/images/blogimages/DO/2016_DOMAsticker.jpg">
-  </div>
+<div class="gallery" data-columns="4">
+	<img src="/images/blogimages/DO/2016_DOMA_leonbridges.jpg">
+	<img src="/images/blogimages/DO/2016_DOMA_bombfactory.png">
+	<img src="/images/blogimages/DO/2016_DOMA_dezi5.png">
+	<img src="/images/blogimages/DO/2016_DOMA_samlao.png">
+	<img src="/images/blogimages/DO/2016_DOMA_samlao2.png">
+	<img src="/images/blogimages/DO/2016_DOMA_Sikwitit.png">
+	<img src="/images/blogimages/DO/2016_DOMA_stage.png">
+	<img src="/images/blogimages/DO/2016_DOMA_oaktopia.jpg">
+</div>
   
 And I commissioned this video of 2016 Dallas Observer Music Awards that shows the event design, award design, presentation graphics and cohesive background video design. <em>Video by Sarah Passon</em>
   
