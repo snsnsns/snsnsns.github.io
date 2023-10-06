@@ -14,11 +14,11 @@ Before working for Healthy Living, I spent five years working for [Voice Media G
 I'd like to showcase some of the work that I've done that might help you see my capabilities:
 
 ## Branding and packaging for Healthy Living
-I designed the labels for the newly-release private label cold-brew coffee from Healthy Living and created an Instagram reel for the debut. These coffee drinks are available for purchase in store.
+I designed the a new suite of private label products for Healthy Living including this cold-brew coffee label. 
 <div class="gallery" data-columns="1">
 	<img src="/images/blogimages/HealthyLiving/krucanlabel.png">
 </div>
-
+I filmed a YouTube short/reel to showcase the design. These coffee drinks are available for purchase in store.
 <iframe width="560" height="315" src="https://youtube.com/embed/d6gLq5UwIys?si=ZJkQMNeQkTImjER5"></iframe>
 
 I created this custom logo for eco-friendly reusable salad bar containers at Healthy Living.
