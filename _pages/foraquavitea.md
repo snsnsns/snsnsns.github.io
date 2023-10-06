@@ -15,10 +15,12 @@ Before working for Healthy Living, I spent five years working for Voice Media Gr
 
 I'd like to showcase some of the work that I've done that might help you see my capabilities:
 
----
-<iframe src="images/blogimages/HealthyLiving/HL_coldbrewsocialvideolowres.mp4" align=center width="360" height="640" frameborder="0" allowfullscreen></iframe>
 ## Branding and packaging for Healthy Living
 I designed the labels for the newly-release private label cold-brew coffee from Healthy Living and created an Instagram reel for the debut.
+<div class="gallery" data-columns="2">
+	<iframe src="images/blogimages/HealthyLiving/HL_coldbrewsocialvideolowres.mp4" align=center width="360" height="640" frameborder="0" allowfullscreen></iframe>
+	<img src="/images/blogimages/HealthyLiving/krucanlabel.png">
+</div>
 
 I created this custom logo for eco-friendly reusable salad bar containers at Healthy Living.
 <div class="gallery" data-columns="2">
@@ -48,7 +50,6 @@ I've designed many types of signage for Healthy Living. Here are a few signs wit
 	<img src="/images/blogimages/HealthyLiving/avocadoposter.jpg">
 </div>
 
-
 ## Packaging Design for Chia 3
 As a freelance designer, I designed for [Alive & Well TV](https://aliveandwell.tv/) a conceptual suite of products for a health supplement brand, Chia 3.
 <div class="gallery" data-columns="3">
@@ -59,7 +60,6 @@ As a freelance designer, I designed for [Alive & Well TV](https://aliveandwell.t
 	<img src="/images/blogimages/chia/ChiaBag_6c_berries.png">
 	<img src="/images/blogimages/chia/ChiaThingroup4.png">
 </div>
----
 
 ## Social Media Posts
 In the social media space, I have experience planning and designing digital marketing campaigns. As a marketing designer at Voice Media Group, I shot photos, hired photographers and curated photos, created graphics, wrote content and built a fun social media persona and built community through VMG's Dallas Observer Instagram account. I hired photographers to shoot events and then edited and selected photos for use on the various VMG platforms. 
@@ -84,18 +84,18 @@ Voice Media Group has many marketed events alongside their news sites. Iron Fork
  Every year, Dallas Observer highlights the best musical acts trending in the city. For VMG's marketing department, I created the event brand which involved designing the logo/graphic for the event, the awards design, display ads, projected videos to introduce speakers and performers and visuals for performances. 
  
  <div class="gallery" data-columns="4">
-	  <img src="/images/blogimages/DO/2016_DOMA_bombfactory.png">
-	  <img src="/images/blogimages/DO/2016_DOMA_dezi5.png">
-	  <img src="/images/blogimages/DO/2016_DOMA_samlao.png">
-	  <img src="/images/blogimages/DO/2016_DOMA_samlao2.png">
-	  <img src="/images/blogimages/DO/2016_DOMA_Sikwitit.png">
-	  <img src="/images/blogimages/DO/2016_DOMA_stage.png">
-	  <img src="/images/blogimages/DO/2016_DOMA_oaktopia.jpg">
-	  <img src="/images/blogimages/DO/2016_DOMAsticker.jpg">
+ <img src="/images/blogimages/DO/2016_DOMA_bombfactory.png">
+ <img src="/images/blogimages/DO/2016_DOMA_dezi5.png">
+ <img src="/images/blogimages/DO/2016_DOMA_samlao.png">
+ <img src="/images/blogimages/DO/2016_DOMA_samlao2.png">
+ <img src="/images/blogimages/DO/2016_DOMA_Sikwitit.png">
+ <img src="/images/blogimages/DO/2016_DOMA_stage.png">
+ <img src="/images/blogimages/DO/2016_DOMA_oaktopia.jpg">
+ <img src="/images/blogimages/DO/2016_DOMAsticker.jpg">
   </div>
   
-    And I commissioned this video of 2016 Dallas Observer Music Awards that shows the event design, award design, presentation graphics and cohesive background video design. <em>Video by Sarah Passon</em>
+And I commissioned this video of 2016 Dallas Observer Music Awards that shows the event design, award design, presentation graphics and cohesive background video design. <em>Video by Sarah Passon</em>
   
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/5iWKgR8d8Ag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5iWKgR8d8Ag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
-  As you can see, I'm a flexible curious designer who loves brand design as well as creating and testing new marketing ideas. Thank you for reviewing my work and please reach out if you think I'd be a good fit at Aqua ViTea!
+As you can see, I'm a flexible curious designer who loves brand design as well as creating and testing new marketing ideas. Thank you for reviewing my work and please reach out if you think I'd be a good fit at Aqua ViTea!
