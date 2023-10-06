@@ -16,9 +16,9 @@ I'd like to showcase some of the work that I've done that might help you see my 
 ## Branding and packaging for Healthy Living
 I designed the labels for the newly-release private label cold-brew coffee from Healthy Living and created an Instagram reel for the debut. These coffee drinks are available for purchase in store.
 <div class="gallery" data-columns="2">
-	<img src="/images/blogimages/HealthyLiving/krucanlabel.png">
 	<iframe width="315" height="560" src="images/blogimages/HealthyLiving/HL_coldbrewsocialvideolowres.mp4" frameborder="0" align="left"></iframe>
-</div>
+	<img src="/images/blogimages/HealthyLiving/krucanlabel.png" align="right">
+	</div>
 
 I created this custom logo for eco-friendly reusable salad bar containers at Healthy Living.
 <div class="gallery" data-columns="2">
@@ -85,14 +85,14 @@ Voice Media Group has many marketed events alongside their news sites. Iron Fork
 ## Event and video design from Dallas Observer Music Awards
  Every year, Dallas Observer highlights the best musical acts trending in the city. For VMG's marketing department, I created the event brand which involved designing the logo/graphic for the event, the awards design, display ads, projected videos to introduce speakers and performers and visuals for performances. 
  
-<div class="gallery" data-columns="2">
+<div class="gallery" data-columns="4">
 	<img src="/images/blogimages/DO/2016_DOMA_leonbridges.jpg">
-	<img src="/images/blogimages/DO/2016_DOMA_bombfactory.png">
-	<img src="/images/blogimages/DO/2016_DOMA_dezi5.png">
-	<img src="/images/blogimages/DO/2016_DOMA_samlao.png">
-	<img src="/images/blogimages/DO/2016_DOMA_samlao2.png">
-	<img src="/images/blogimages/DO/2016_DOMA_Sikwitit.png">
-	<img src="/images/blogimages/DO/2016_DOMA_stage.png">
+	<img src="/images/blogimages/DO/2016_DOMA_bombfactory.jpg">
+	<img src="/images/blogimages/DO/2016_DOMA_dezi5.jpg">
+	<img src="/images/blogimages/DO/2016_DOMA_samlao.jpg">
+	<img src="/images/blogimages/DO/2016_DOMA_samlao2.jpg">
+	<img src="/images/blogimages/DO/2016_DOMA_Sikwitit.jpg">
+	<img src="/images/blogimages/DO/2016_DOMA_stage.jpg">
 	<img src="/images/blogimages/DO/2016_DOMA_oaktopia.jpg">
 </div>
   
