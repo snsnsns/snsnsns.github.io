@@ -9,7 +9,7 @@ I'm Sarah, a graphic designer and digital marketer based in Middlebury. I've cre
 
 I have five years experience enhancing brand awareness through digital marketing and social media. Most recently, I've been working with the team at [Healthy Living Market](https://www.healthylivingmarket.com) creating digital assets for email marketing, web display ads for sites such as Seven Days, designing display ads for marketing at UVM sporting events creating in-store signage, and designing brand packaging and customer-targeted products (shopping bags, reusable utensils, stickers, apparel and accessories).
 
-Before working for Healthy Living, I spent five years working for Voice Media Group, a media conglomerate with news sites in Dallas, Phoenix, Miami and Denver. I wore many hats at VMG, including marketing designer, news designer, photographer, writer, editor, videographer, social  media editor. 
+Before working for Healthy Living, I spent five years working for [Voice Media Group](https://www.voicemediagroup.com/_), a media conglomerate with news sites in Dallas, Phoenix, Miami and Denver. I wore many hats at VMG, including marketing designer, news designer, photographer, writer, editor, videographer, social  media editor. 
 
 I'd like to showcase some of the work that I've done that might help you see my capabilities:
 
