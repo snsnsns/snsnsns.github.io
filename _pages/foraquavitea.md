@@ -19,7 +19,7 @@ I designed the labels for the newly-release private label cold-brew coffee from 
 	<img src="/images/blogimages/HealthyLiving/krucanlabel.png">
 </div>
 
-<iframe src="https://youtube.com/embed/d6gLq5UwIys?si=ZJkQMNeQkTImjER5" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/d6gLq5UwIys?si=ZJkQMNeQkTImjER5"></iframe>
 
 I created this custom logo for eco-friendly reusable salad bar containers at Healthy Living.
 <div class="gallery" data-columns="2">
