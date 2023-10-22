@@ -1,17 +1,17 @@
 ---
 title: 'Marketing examples'
 subtitle: 'Portfolio of digital marketing and brand design'
-date: 2023-09-28 00:00:00
-description: A look at Sarah Schumacher's work in marketing, event, social media and packaging design
+date: 2023-10-22 00:00:00
+description: A look at Sarah Schumacher's work in marketing, event, social media and design
 ---
 
-I'm Sarah, a graphic designer, digital marketer, writer/editor and photographer based in Middlebury. I've created this specific page to highlight some of the work that might appeal to you in your search for a marketing coordinator and graphic designer.
+I'm Sarah, a graphic designer, digital marketer, writer/editor and photographer based in Vermont. I've created this specific page to highlight some of the work that might appeal to you in your search for a marketing coordinator and graphic designer.
 
- Most recently, I've been working on a contract basis with the team at [Healthy Living Market](https://www.healthylivingmarket.com) creating digital assets for email marketing, web display ads for sites such as Seven Days, designing display ads for marketing at UVM sporting events creating in-store signage, and designing brand packaging and customer-targeted products (shopping bags, reusable utensils, stickers, apparel and accessories).
+Most recently, I've been working on a contract basis with the team at [Healthy Living Market](https://www.healthylivingmarket.com) creating digital assets for email marketing, web display ads for sites such as Seven Days, designing display ads for marketing at UVM sporting events creating in-store signage, and designing brand packaging and customer-targeted products (shopping bags, reusable utensils, stickers, apparel and accessories).
 
-In my prior marketing design role, I wore many hats: marketing designer, news designer, photographer, writer, editor, videographer, social  media editor. At [Voice Media Group](https://www.voicemediagroup.com/_) a media conglomerate with news sites in Dallas, Phoenix, Miami and Denver, I collaborated with cross-functional teams and organized complex projects to meet tight deadlines. Every year, I managed the creative for an omnichannel product (web, social, television and print) called “Best of Dallas.” This required hiring, directing and managing many vendors (photographers, models, writers, editors, illustrators, videographers, marketers) to design and launch a blockbuster product for all of Dallas.
+In my prior marketing design role, I wore many hats: marketing designer, news designer, photographer, writer, editor, videographer, social  media editor. At [Voice Media Group](https://www.voicemediagroup.com/_), a media conglomerate with news sites in Dallas, Phoenix, Miami and Denver, I collaborated with cross-functional teams and organized complex projects to meet tight deadlines. Every year, I managed the creative for an omnichannel product (web, social, television and print) called “Best of Dallas.” This required hiring, directing and managing many vendors (photographers, models, writers, editors, illustrators, videographers, marketers) to design and launch a blockbuster product for all of Dallas.
 
-I'd like to showcase some of the work that I've done that might help you see my capabilities:
+I'd like to showcase some of my recent work which shows my capabilities:
 
 ## Branding and packaging for Healthy Living
 I designed the a new suite of private label products for Healthy Living including this cold-brew coffee label. 
