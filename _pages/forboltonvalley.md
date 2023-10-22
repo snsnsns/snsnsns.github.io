@@ -27,7 +27,16 @@ I designed these web ads for Healthy Living using the newest brand standards in 
 	<img src="images/blogimages/HealthyLiving/sevendayssiteskin_hl.jpg" width="60%">
 </div>
 
-## Reusable bags design
+## Product signage at Healthy Living South Burlington and Saratoga Springs stores
+I've designed many types of signage for Healthy Living. Here are a few signs with special purchase deals and one infographic poster about avocado sourcing.
+<div class="gallery" data-columns="2">
+	<img src="/images/blogimages/HealthyLiving/winesignage.png">
+	<img src="/images/blogimages/HealthyLiving/mushroomsignage.png">
+	<img src="/images/blogimages/HealthyLiving/bulksignage_saratoga523.jpg">
+	<img src="/images/blogimages/HealthyLiving/avocadoposter.jpg">
+</div>
+
+## Swag design (reusable shopping bags)
 I designed reusable bags with drop-shift citrus patterns for Healthy Living in spring 2023. 
 <div class="gallery" data-columns="1">
 	<img src="/images/blogimages/HealthyLiving/orangesbag.png" width="60%">
@@ -37,15 +46,6 @@ Another fun project was creating these cooler bags which are sturdy and attracti
 <div class="gallery" data-columns="2">
 	<img src="/images/blogimages/HealthyLiving/bluefreezerbag1.png">
 	<img src="/images/blogimages/HealthyLiving/bluefreezerbag2.png">
-</div>
-
-## Product signage at Healthy Living South Burlington and Saratoga Springs stores
-I've designed many types of signage for Healthy Living. Here are a few signs with special purchase deals and one infographic poster about avocado sourcing.
-<div class="gallery" data-columns="2">
-	<img src="/images/blogimages/HealthyLiving/winesignage.png">
-	<img src="/images/blogimages/HealthyLiving/mushroomsignage.png">
-	<img src="/images/blogimages/HealthyLiving/bulksignage_saratoga523.jpg">
-	<img src="/images/blogimages/HealthyLiving/avocadoposter.jpg">
 </div>
 
 ## Social Media Posts
@@ -80,9 +80,5 @@ Voice Media Group has many marketed events alongside their news sites. Iron Fork
 	<img src="/images/blogimages/DO/2016_DOMA_stage.jpg">
 	<img src="/images/blogimages/DO/2016_DOMA_oaktopia.jpg">
 </div>
-  
-And I commissioned this video of 2016 Dallas Observer Music Awards that shows the event design, award design, presentation graphics and cohesive background video design. <em>Video by Sarah Passon</em>
-  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5iWKgR8d8Ag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 As you can see, I'm a flexible curious designer, writer, and reporter who loves storytelling and testing new marketing ideas. Thank you for reviewing my recent work!
