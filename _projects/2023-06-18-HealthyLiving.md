@@ -55,9 +55,11 @@ I've designed many types of signage for Healthy Living. Here are a few signs wit
 ## Flyers and print display advertising
 Hiring has been really difficult since COVID in Vermont and upstate New York. I also have been working with human resources to bring awareness to the benefits of working at Healthy Living through colorful flyers and print advertisements in <em>Seven Days</em> weekly paper.
 
-<div class="gallery" data-columns="2">
+<div class="gallery" data-columns="4">
 <img src="/images/blogimages/HealthyLiving/sevendaysad_HL.jpg">
-<img src="/images/blogimages/HealthyLiving/HRpamphlets1022.jpg" height="80%">
+<img src="/images/blogimages/HealthyLiving/sevendaysTGad_HL.png">
+<img src="/images/blogimages/HealthyLiving/HRpamphlets1022.jpg">
+<img src="/images/blogimages/HealthyLiving/coreshopperwelcome.png">
 </div>
 
 Design: Sarah Schumacher
