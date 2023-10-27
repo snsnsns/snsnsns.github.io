@@ -53,15 +53,14 @@ I've designed many types of signage for Healthy Living. Here are a few signs wit
 </div>
 
 ## Flyers and print display advertising
-Healthy Living set up a flyer stand with benefits for hiring. I designed the recruitment flyers. Other print products I created include an hiring ad and a Thanksgiving pre-order sides and turkeys ad in the weekly Vermont newspaper, <em>Seven Days</em>.
-
+I created include an hiring ad and a Thanksgiving pre-order sides and turkeys ad in the weekly Vermont newspaper, <em>Seven Days</em>. Other print products I designed for Healthy Living include recruitment flyers showing off hiring benefits. 
 <div class="gallery" data-columns="3">
-<img src="/images/blogimages/HealthyLiving/sevendaysad_HL.png">
+<img src="/images/blogimages/HealthyLiving/sevendaysad_HL.jpg">
 <img src="/images/blogimages/HealthyLiving/sevendaysTGad_HL.png">
 <img src="/images/blogimages/HealthyLiving/HRpamphlets1022.jpg">
 </div>
 
-Healthy Living has a customer rewards program called Core Shopper. We wanted to bring awareness to the program in a fun, educational way with icons and short explainers.
+Healthy Living has a customer rewards program called Core Shopper. We wanted to bring awareness to the program in a fun, educational way with icons and short explainers. These flyers are handed out to customers at the registers.
 
 <div class="gallery" data-columns="1">
 <img src="/images/blogimages/HealthyLiving/coreshopperwelcome.png">
