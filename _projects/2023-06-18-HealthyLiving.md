@@ -14,18 +14,48 @@ I've been working with the locally-owned and operated grocery chain, Healthy Liv
 
 ![](/images/blogimages/HealthyLiving/HLcartonideas_farmscene_revisedark.jpg)
 
-The design work has spanned from digital ads, email blasts, and social media posts to in-store signage, branded packaging, and print ads. 
-
+## Branding and packaging for Healthy Living
+I designed the a new suite of private label products for Healthy Living including this cold-brew coffee label. 
 <div class="gallery" data-columns="2">
-<img src="/images/blogimages/HealthyLiving/bulksignage_saratoga523.jpg">
-<img src="/images/blogimages/HealthyLiving/avocadoposter.jpg">
+	<img src="/images/blogimages/HealthyLiving/krucanlabel.png">
+	<img src="/images/blogimages/HealthyLiving/coldbrewcanstream.png">
 </div>
 
-Beyond marketing materials, I've also designed Healthy Living merchandise such as reusable shopping bags, reusable freezer bags, stickers, eco-friendly utensil sets, hats and apparel.
+I created this custom logo for eco-friendly reusable salad bar containers at Healthy Living.
+<div class="gallery" data-columns="2">
+	<img src="/images/blogimages/HealthyLiving/HLcartonideas_farmscene_revisedark.jpg">
+	<img src="/images/blogimages/HealthyLiving/HLsaladbarcarton.png">
+</div>
 
-![](/images/blogimages/HealthyLiving/HLnavycoolerbagmockup.jpg)
+## Digital ads for Healthy Living recruitment
+I designed these web ads for Healthy Living using the newest brand standards in Fall 2023 for recruiting new employees on the highly trafficked [Seven Days site](https://www.sevendaysvt.com) as rotating "site skin" ads for the news site pages. 
+<div class="gallery" data-columns="1">
+	<img src="images/blogimages/HealthyLiving/sevendayssiteskin_hl.jpg" width="60%">
+</div>
 
-Hiring has been really difficult since COVID in Vermont and upstate New York. I also have been working with human resources to bring awareness to the benefits of working at Healthy Living through colorful flyers and print advertisements in *Seven Days* weekly paper.
+## Reusable bags design
+I designed reusable bags with drop-shift citrus patterns for Healthy Living in spring 2023. 
+<div class="gallery" data-columns="1">
+	<img src="/images/blogimages/HealthyLiving/orangesbag.png" width="60%">
+</div>
+
+Another fun project was creating these cooler bags which are sturdy and attractive. It is my favorite cooler bag to shop with.
+<div class="gallery" data-columns="2">
+	<img src="/images/blogimages/HealthyLiving/bluefreezerbag1.png">
+	<img src="/images/blogimages/HealthyLiving/bluefreezerbag2.png">
+</div>
+
+## Product signage at Healthy Living South Burlington and Saratoga Springs stores
+I've designed many types of signage for Healthy Living. Here are a few signs with special purchase deals and one infographic poster about avocado sourcing.
+<div class="gallery" data-columns="2">
+	<img src="/images/blogimages/HealthyLiving/winesignage.png">
+	<img src="/images/blogimages/HealthyLiving/mushroomsignage.png">
+	<img src="/images/blogimages/HealthyLiving/bulksignage_saratoga523.jpg">
+	<img src="/images/blogimages/HealthyLiving/avocadoposter.jpg">
+</div>
+
+## Flyers and print display advertising
+Hiring has been really difficult since COVID in Vermont and upstate New York. I also have been working with human resources to bring awareness to the benefits of working at Healthy Living through colorful flyers and print advertisements in <em>Seven Days</em> weekly paper.
 
 <div class="gallery" data-columns="2">
 <img src="/images/blogimages/HealthyLiving/sevendaysad_HL.jpg">
