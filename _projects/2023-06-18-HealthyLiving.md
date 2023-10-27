@@ -23,8 +23,8 @@ I designed the a new suite of private label products for Healthy Living includin
 
 I created this custom logo for eco-friendly reusable salad bar containers at Healthy Living.
 <div class="gallery" data-columns="2">
-	<img src="/images/blogimages/HealthyLiving/HLcartonideas_farmscene_revisedark.jpg">
-	<img src="/images/blogimages/HealthyLiving/HLsaladbarcarton.png">
+	<img src="/images/blogimages/HealthyLiving/HLcartonideas_farmscene_revisedark.jpg" height="50%">
+	<img src="/images/blogimages/HealthyLiving/HLsaladbarcarton.png" height="50%">
 </div>
 
 ## Digital ads for Healthy Living recruitment
@@ -59,7 +59,7 @@ Hiring has been really difficult since COVID in Vermont and upstate New York. I 
 
 <div class="gallery" data-columns="2">
 <img src="/images/blogimages/HealthyLiving/sevendaysad_HL.jpg">
-<img src="/images/blogimages/HealthyLiving/HRpamphlets1022.jpg">
+<img src="/images/blogimages/HealthyLiving/HRpamphlets1022.jpg" height="80%">
 </div>
 
 Design: Sarah Schumacher
