@@ -56,7 +56,7 @@ I've designed many types of signage for Healthy Living. Here are a few signs wit
 Healthy Living set up a flyer stand with benefits for hiring. I designed the recruitment flyers. Other print products I created include an hiring ad and a Thanksgiving pre-order sides and turkeys ad in the weekly Vermont newspaper, <em>Seven Days</em>.
 
 <div class="gallery" data-columns="3">
-<img src="/images/blogimages/HealthyLiving/sevendaysad_HL.jpg">
+<img src="/images/blogimages/HealthyLiving/sevendaysad_HL.png">
 <img src="/images/blogimages/HealthyLiving/sevendaysTGad_HL.png">
 <img src="/images/blogimages/HealthyLiving/HRpamphlets1022.jpg">
 </div>
