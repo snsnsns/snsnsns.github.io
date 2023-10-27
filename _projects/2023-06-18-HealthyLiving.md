@@ -21,8 +21,8 @@ I designed the a new suite of private label products for Healthy Living includin
 
 I created this custom logo for eco-friendly reusable salad bar containers at Healthy Living.
 <div class="gallery" data-columns="2">
-	<img src="/images/blogimages/HealthyLiving/HLcartonideas_farmscene_revisedark.jpg" width="60%">
-	<img src="/images/blogimages/HealthyLiving/HLsaladbarcarton.png" width="60%">
+	<img src="/images/blogimages/HealthyLiving/HLcartonideas_farmscene_revisedark.jpg">
+	<img src="/images/blogimages/HealthyLiving/HLsaladbarcarton2.png">
 </div>
 
 ## Digital ads for Healthy Living recruitment
