@@ -12,8 +12,6 @@ featured_image: /images/blogimages/HealthyLiving/hlteaserart.png
 
 I've been working with the locally-owned and operated grocery chain, Healthy Living, since the Fall of 2022. In partnership with the management and their consultants, we are evolving the Healthy Living brand and marketing new incentives to a loyal customer base with a robust rewards program (Core Shoppers). Besides customers, I've also served the brand and design needs of partnering local businesses selling their products within the stores. 
 
-![](/images/blogimages/HealthyLiving/HLcartonideas_farmscene_revisedark.jpg)
-
 ## Branding and packaging for Healthy Living
 I designed the a new suite of private label products for Healthy Living including this cold-brew coffee label. 
 <div class="gallery" data-columns="2">
@@ -23,14 +21,14 @@ I designed the a new suite of private label products for Healthy Living includin
 
 I created this custom logo for eco-friendly reusable salad bar containers at Healthy Living.
 <div class="gallery" data-columns="2">
-	<img src="/images/blogimages/HealthyLiving/HLcartonideas_farmscene_revisedark.jpg" height="50%">
-	<img src="/images/blogimages/HealthyLiving/HLsaladbarcarton.png" height="50%">
+	<img src="/images/blogimages/HealthyLiving/HLcartonideas_farmscene_revisedark.jpg" width="60%">
+	<img src="/images/blogimages/HealthyLiving/HLsaladbarcarton.png" width="60%">
 </div>
 
 ## Digital ads for Healthy Living recruitment
 I designed these web ads for Healthy Living using the newest brand standards in Fall 2023 for recruiting new employees on the highly trafficked [Seven Days site](https://www.sevendaysvt.com) as rotating "site skin" ads for the news site pages. 
 <div class="gallery" data-columns="1">
-	<img src="images/blogimages/HealthyLiving/sevendayssiteskin_hl.jpg" width="60%">
+	<img src="/images/blogimages/HealthyLiving/sevendayssiteskin_hl.jpg" width="60%">
 </div>
 
 ## Reusable bags design
