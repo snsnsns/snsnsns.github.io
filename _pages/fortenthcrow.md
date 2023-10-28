@@ -1,6 +1,6 @@
 ---
 title: 'To the hiring team at Tenth Crow Creative'
-subtitle: 'Portfolio'
+subtitle:
 date: 2023-09-28 00:00:00
 description: A look at Sarah Schumacher's work in marketing, event, social media and packaging design
 ---
@@ -60,7 +60,7 @@ I've designed many types of signage for Healthy Living. Here are a few signs wit
 ## Flyers and print display advertising
 I created include an hiring ad and a Thanksgiving pre-order sides and turkeys ad in the weekly Vermont newspaper, <em>Seven Days</em>. Other print products I designed for Healthy Living include recruitment flyers showing off hiring benefits. 
 <div class="gallery" data-columns="3">
-<img src="/images/blogimages/HealthyLiving/sevendaysad_HL.jpg">
+<img src="/images/blogimages/HealthyLiving/sevendaysad_HL.png">
 <img src="/images/blogimages/HealthyLiving/sevendaysTGad_HL.png">
 <img src="/images/blogimages/HealthyLiving/HRpamphlets1022.jpg">
 </div>
@@ -113,6 +113,7 @@ I designed this poster for AIGA Santa Barbara advertising their portfolio review
 
 <div class="gallery" data-columns="2">
 	<img src="/images/blogimages/AIGA/AIGA_portfolioday_poster.jpg">
+</div>
 
 Along with the poster, I created swag: temporary tattoos, small buttons, and we screen printed shirts with the design too.
 
@@ -134,4 +135,5 @@ As a freelance designer, I designed for [Alive & Well TV](https://aliveandwell.t
 	<img src="/images/blogimages/chia/ChiaThingroup4.png">
 </div>
 
+### Thank You!
 As you can see, I'm a flexible curious designer who loves brand design as well as creating and testing new marketing ideas. Thank you for reviewing my work and please reach out if you think I'd be a good fit at Tenth Crow Creative!
