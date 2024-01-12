@@ -1,11 +1,11 @@
 ---
-title: 'To the hiring team at Beta Technologies'
+title: 'To the hiring team at F&W Forestry'
 subtitle:
-date: 2023-12-20 00:00:00
+date: 2024-1-12 00:00:00
 description: A look at Sarah Schumacher's work in marketing, event, social media and packaging design
 ---
 
-I'm Sarah, a graphic designer based in Middlebury. I've created this specific page to highlight some of the work that might appeal to you in your search for a designer at Beta Technologies.
+I'm Sarah, a graphic designer based in Middlebury. I've created this specific page to highlight some of the work that might appeal to you in your search for a marketing coordinator at F&W Forestry.
 
 Most recently, I've been working on a contract basis with the team at [Healthy Living Market](https://www.healthylivingmarket.com) creating digital assets for email marketing, web display ads for sites such as *Seven Days*, designing display ads for marketing at UVM sporting events creating in-store signage, and designing brand packaging and customer-targeted products (shopping bags, reusable utensils, stickers, apparel and accessories).
 
