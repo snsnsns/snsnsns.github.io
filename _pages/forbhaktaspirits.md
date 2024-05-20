@@ -2,7 +2,7 @@
 title: 'To the hiring team at Bhakta Spirits'
 subtitle:
 date: 2024-5-20 00:00:00
-description: A look at Sarah Schumacher's work in marketing, event, social media and packaging design
+description: A look at Sarah Schumacher's work in marketing, event, digital, social media and packaging design
 ---
 
 I'm Sarah, a graphic designer based in Middlebury. I've created this specific page to highlight some of the work that might appeal to you in your search for a graphic designer in Poultney, VT.
