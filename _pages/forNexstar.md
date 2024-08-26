@@ -14,12 +14,11 @@ I'd like to showcase some of the work that I've done that might help you see my 
 ### Work Examples
 
 ## Editorial visual illustrations for Bloomberg News CityLab
-Since June 2024, I've been creating visuals to depict the nuances of contemporary architecture projects in a column called ["Look at that Building."](https://www.bloomberg.com/news/newsletters/2024-06-23/introducing-look-at-that-building-a-series-that-explains-skylines)
-<img src="/images/blogimages/BBG
-
-
-
-
+Bloomberg News CityLab takes a deep dive into all the municiple issues of cities internationally. That includes large architectural projects. Since June 2024, I've been creating editorial visuals to depict the nuances of contemporary architecture projects in a CityLab column called ["Look at that Building."](https://www.bloomberg.com/news/newsletters/2024-06-23/introducing-look-at-that-building-a-series-that-explains-skylines)
+<div class="gallery" data-columns="1">
+	<img src="images/illos/LATB_MerchMart_opener.jpg" width="60%">
+	<img src="images/illos/LATB_MerchMart_p2.jpg" width="60%">
+</div>
 
 ## Digital ads for Healthy Living recruitment
 I've been working with the locally-owned and operated grocery chain, Healthy Living, since the Fall of 2022. I designed these web ads for Healthy Living using the newest brand standards in Fall 2023 for recruiting new employees on the highly trafficked [Seven Days site](https://www.sevendaysvt.com) as rotating "site skin" ads for the news site pages. 
@@ -68,7 +67,7 @@ Voice Media Group has many marketed events alongside their news sites. Iron Fork
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EcYfEhalVUE?si=zWoE184HsTOIS0n0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Event and video design from Dallas Observer Music Awards
- Every year, Dallas Observer highlights the best musical acts trending in the city. For VMG's marketing department, I created the event brand which involved designing the logo/graphic for the event, the awards design, display ads, projected videos to introduce speakers and performers and visuals for performances. 
+Every year, Dallas Observer highlights the best musical acts trending in the city. For VMG's marketing department, I created the event brand which involved designing the logo/graphic for the event, the awards design, display ads, projected videos to introduce speakers and performers and visuals for performances. 
  
 <div class="gallery" data-columns="4">
 	<img src="/images/blogimages/DO/2016_DOMA_leonbridges.jpg">
@@ -102,4 +101,4 @@ Along with the poster, I created swag: temporary tattoos, small buttons, and we 
 </div>
 
 ### Thank You!
-As you can see, I'm a flexible curious designer who loves brand design, packaging design, and digital design as well as creating and testing new marketing ideas. Thank you for reviewing my work!
+As you can see, I'm a flexible curious designer who loves editorial illustration, brand design, packaging design, and digital design as well as creating and testing new marketing ideas. Thank you for reviewing my work!
