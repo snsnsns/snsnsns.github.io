@@ -8,9 +8,9 @@ featured_image: /images/blogimages/HealthyLiving/hlteaserart.png
 
 ![](/images/blogimages/HealthyLiving/RoundUp_registerad.png)
 
-## Description
+## Reaching customers
 
-I've been working with the locally-owned and operated grocery chain, Healthy Living, since the Fall of 2022. In partnership with the management and their consultants, we are evolving the Healthy Living brand and marketing new incentives to a loyal customer base with a robust rewards program (Core Shoppers). Besides customers, I've also served the brand and design needs of partnering local businesses selling their products within the stores. 
+I've been working with the locally-owned and operated grocery chain, Healthy Living, since the Fall of 2022. The Healthy Living brand is evolving and we are marketing new incentives to a loyal customer base with a robust rewards program (Core Shoppers). Besides customers, I've also served the brand and design needs of local businesses partners selling their products within the stores. 
 
 ## Branding and packaging for Healthy Living
 I designed the a new suite of private label products for Healthy Living including this cold-brew coffee label. 
