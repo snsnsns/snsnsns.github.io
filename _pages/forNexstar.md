@@ -1,37 +1,28 @@
 ---
-title: 'To the hiring team at Bhakta Spirits'
+title: 'To the hiring team at Nexstar'
 subtitle:
-date: 2024-5-20 00:00:00
-description: A look at Sarah Schumacher's work in marketing, event, digital, social media and packaging design
+date: 2024-8-25 00:00:00
+description: A look at Sarah Schumacher's work in editorial, marketing, event, digital, social media and packaging design
 ---
 
-I'm Sarah, a graphic designer based in Middlebury. I've created this specific page to highlight some of the work that might appeal to you in your search for a graphic designer in Poultney, VT.
+I'm Sarah, a visual designer based in Middlebury. I've created this specific page to highlight some of the work that might appeal to you in your search for a graphic artist at Nexstar.
 
-Most recently, I've been working on a contract basis with the team at [Healthy Living Market](https://www.healthylivingmarket.com) creating digital assets for email marketing, web display ads for sites such as *Seven Days*, designing display ads for marketing at UVM sporting events creating in-store signage, and designing brand packaging and customer-targeted products (shopping bags, reusable utensils, stickers, apparel and accessories).
-
-In my prior design role, I wore many hats: art director, marketing designer, news designer, photographer, writer, editor, videographer, social  media editor. At [Voice Media Group](https://www.voicemediagroup.com/_) a media conglomerate with news sites in Dallas, Phoenix, Miami and Denver, I collaborated with cross-functional teams and organized complex projects to meet tight deadlines. Every year, I managed the creative for an omnichannel product (web, social, television and print) called “Best of Dallas.” This required hiring, directing and managing many vendors (photographers, models, writers, editors, illustrators, videographers, marketers) to design and launch a blockbuster product for all of Dallas.
+In recent design roles, I have worn many hats: art director, marketing designer, news designer, photographer, writer, editor, videographer, social  media editor. At [Voice Media Group](https://www.voicemediagroup.com/_) a media conglomerate with news sites in Dallas, Phoenix, Miami and Denver, I collaborated with cross-functional teams and organized complex projects to meet tight deadlines. Every year, I managed the creative for an omnichannel product (web, social, television and print) called “Best of Dallas.” This required hiring, directing and managing many vendors (photographers, models, writers, editors, illustrators, videographers, marketers) to design and launch a blockbuster product for all of Dallas.
 
 I'd like to showcase some of the work that I've done that might help you see my capabilities:
 
 ### Work Examples
 
-I've been working with the locally-owned and operated grocery chain, Healthy Living, since the Fall of 2022. In partnership with the management and their consultants, we are evolving the Healthy Living brand and marketing new incentives to a loyal customer base with a robust rewards program (Core Shoppers). Besides customers, I've also served the brand and design needs of partnering local businesses selling their products within the stores. 
+## Editorial visual illustrations for Bloomberg News CityLab
+Since June 2024, I've been creating visuals to depict the nuances of contemporary architecture projects in a column called ["Look at that Building."](https://www.bloomberg.com/news/newsletters/2024-06-23/introducing-look-at-that-building-a-series-that-explains-skylines)
+<img src="/images/blogimages/BBG
 
-## Branding and packaging for Healthy Living
-I designed the a new suite of private label products for Healthy Living including this cold-brew coffee label. 
-<div class="gallery" data-columns="2">
-	<img src="/images/blogimages/HealthyLiving/krucanlabel.png">
-	<img src="/images/blogimages/HealthyLiving/coldbrewcanstream.png">
-</div>
 
-I created this custom logo for eco-friendly reusable salad bar containers at Healthy Living.
-<div class="gallery" data-columns="2">
-	<img src="/images/blogimages/HealthyLiving/HLcartonideas_farmscene_revisedark.jpg">
-	<img src="/images/blogimages/HealthyLiving/HLsaladbarcarton2.png">
-</div>
+
+
 
 ## Digital ads for Healthy Living recruitment
-I designed these web ads for Healthy Living using the newest brand standards in Fall 2023 for recruiting new employees on the highly trafficked [Seven Days site](https://www.sevendaysvt.com) as rotating "site skin" ads for the news site pages. 
+I've been working with the locally-owned and operated grocery chain, Healthy Living, since the Fall of 2022. I designed these web ads for Healthy Living using the newest brand standards in Fall 2023 for recruiting new employees on the highly trafficked [Seven Days site](https://www.sevendaysvt.com) as rotating "site skin" ads for the news site pages. 
 <div class="gallery" data-columns="1">
 	<img src="/images/blogimages/HealthyLiving/sevendayssiteskin_hl.jpg" width="60%">
 </div>
@@ -55,20 +46,6 @@ I've designed many types of signage for Healthy Living. Here are a few signs wit
 	<img src="/images/blogimages/HealthyLiving/mushroomsignage.png">
 	<img src="/images/blogimages/HealthyLiving/bulksignage_saratoga523.jpg">
 	<img src="/images/blogimages/HealthyLiving/avocadoposter.jpg">
-</div>
-
-## Flyers and print display advertising
-I created include an hiring ad and a Thanksgiving pre-order sides and turkeys ad in the weekly Vermont newspaper, <em>Seven Days</em>. Other print products I designed for Healthy Living include recruitment flyers showing off hiring benefits. 
-<div class="gallery" data-columns="3">
-<img src="/images/blogimages/HealthyLiving/sevendaysad_HL.png">
-<img src="/images/blogimages/HealthyLiving/sevendaysTGad_HL.png">
-<img src="/images/blogimages/HealthyLiving/HRpamphlets1022.jpg">
-</div>
-
-Healthy Living has a customer rewards program called Core Shopper. We wanted to bring awareness to the program in a fun, educational way with icons and short explainers. These flyers are handed out to customers at the registers.
-
-<div class="gallery" data-columns="1">
-<img src="/images/blogimages/HealthyLiving/coreshopperwelcome.png">
 </div>
 
 ### Dallas Observer Social Media
@@ -104,8 +81,8 @@ Voice Media Group has many marketed events alongside their news sites. Iron Fork
 	<img src="/images/blogimages/DO/2016_DOMA_oaktopia.jpg">
 </div>
   
-And I commissioned this video of 2016 Dallas Observer Music Awards that shows the event design, award design, presentation graphics and cohesive background video design. <em>Video by Sarah Passon</em>
-  
+And I commissioned this video of 2016 Dallas Observer Music Awards that shows the event design, award design, presentation graphics and cohesive background video design. 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5iWKgR8d8Ag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Event Poster for AIGA
@@ -122,17 +99,6 @@ Along with the poster, I created swag: temporary tattoos, small buttons, and we 
 	<img src="/images/blogimages/AIGA/AIGAtattoo.jpg">
 	<img src="/images/blogimages/AIGA/AIGAscreenprint.jpg">
 	<img src="/images/blogimages/AIGA/AIGAtshirt.jpg">
-</div>
-
-### Packaging Design for Chia 3
-As a freelance designer, I designed for [Alive & Well TV](https://aliveandwell.tv/) a conceptual suite of products for a health supplement brand, Chia 3.
-<div class="gallery" data-columns="3">
-	<img src="/images/blogimages/chia/ChiaBag_6c_orange.png">
-	<img src="/images/blogimages/chia/ChiaBag_chocolate.png">
-	<img src="/images/blogimages/chia/ChiaBag_6c_vanillanoback.png">
-	<img src="/images/blogimages/chia/CHIAdrinksnobacks.png">
-	<img src="/images/blogimages/chia/ChiaBag_6c_berries.png">
-	<img src="/images/blogimages/chia/ChiaThingroup4.png">
 </div>
 
 ### Thank You!
