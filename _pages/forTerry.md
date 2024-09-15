@@ -93,3 +93,4 @@ Along with the poster, I created swag: temporary tattoos, small buttons, and we 
 
 ### Thank You!
 As you can see, I'm a flexible curious designer who loves marketing design, brand design, packaging design, and digital design as well as creating and testing new marketing ideas. Thank you for reviewing my work!
+
