@@ -19,9 +19,13 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.2 # Adjust this version according to your project
+          ruby-version: 3.3.5 # Using the correct Ruby version
 
-      # Install Bundler
+      # Remove any outdated Bundler versions
+      - name: Remove old Bundler
+        run: gem uninstall bundler -v 1.16.1
+
+      # Install the latest Bundler version
       - name: Install Bundler
         run: gem install bundler
 
@@ -29,7 +33,7 @@ jobs:
       - name: Update Dependencies
         run: bundle update
 
-      # Build Jekyll site with more detailed output
+      # Build Jekyll site with trace logging for debugging
       - name: Build Jekyll site
         run: bundle exec jekyll build --trace
 
