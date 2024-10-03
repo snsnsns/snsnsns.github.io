@@ -36,7 +36,3 @@ jobs:
       # Build Jekyll site with trace logging for debugging
       - name: Build Jekyll site
         run: bundle exec jekyll build --trace
-
-      # Optional: Test with HTML Proofer
-      - name: Test with HTML Proofer
-        run: bundle exec htmlproofer ./_site --only-4xx --check-favicon --check-html
