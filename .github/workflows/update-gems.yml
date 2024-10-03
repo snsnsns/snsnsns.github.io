@@ -19,7 +19,7 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.3.5 # Using the correct Ruby version
+          ruby-version: 3.1.4 # Using the correct Ruby version
 
       # Remove any outdated Bundler versions
       - name: Remove old Bundler
