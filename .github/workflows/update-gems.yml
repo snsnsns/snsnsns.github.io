@@ -11,11 +11,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout your repository with node 20 support
+      # Checkout your repository
       - name: Checkout code
         uses: actions/checkout@v3
-        env:
-          NODE_VERSION: 20
 
       # Set up Ruby
       - name: Set up Ruby
@@ -31,9 +29,9 @@ jobs:
       - name: Update Dependencies
         run: bundle update
 
-      # Build Jekyll site
+      # Build Jekyll site with more detailed output
       - name: Build Jekyll site
-        run: bundle exec jekyll build
+        run: bundle exec jekyll build --trace
 
       # Optional: Test with HTML Proofer
       - name: Test with HTML Proofer
