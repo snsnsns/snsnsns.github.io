@@ -19,7 +19,7 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.1 # Adjust this version according to your project
+          ruby-version: 3.2 # Adjust this version according to your project
 
       # Install Bundler
       - name: Install Bundler
