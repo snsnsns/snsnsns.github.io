@@ -1,0 +1,23 @@
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3.5'
+
+      - name: Install dependencies
+        run: |
+          bundle install
+      
+      - name: Build site
+        run: |
+          bundle exec jekyll build
+
+      - name: Test with HTML Proofer
+        run: |
+          bundle exec htmlproofer ./_site --only-4xx --check-html
