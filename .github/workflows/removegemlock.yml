@@ -21,13 +21,11 @@ jobs:
         run: bundle install
       # other steps here
 
-    steps:
-    - uses: actions/checkout@v2
 
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: 3.2 # Specify your Ruby version
+        ruby-version: 3.2.2 # Specify your Ruby version
         jobs:
 
 
