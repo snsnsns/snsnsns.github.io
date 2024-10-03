@@ -1,0 +1,37 @@
+name: Update Dependencies
+
+on:
+  workflow_dispatch:   # Allows you to manually trigger the workflow
+  push:
+    branches:
+      - main  # Adjust this to your main branch if different
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Checkout your repository
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    # Set up Ruby
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 3.0 # Specify the version of Ruby your project uses
+
+    # Install Bundler and the necessary dependencies
+    - name: Install Bundler
+      run: gem install bundler
+
+    - name: Update Dependencies
+      run: bundle update
+
+    # Test the build with new dependencies to ensure it doesn't break
+    - name: Build Jekyll site
+      run: bundle exec jekyll build
+
+    #Proof the site
+    - name: Test with HTML Proofer
+      run: bundle exec htmlproofer ./_site --only-4xx --check-favicon --check-html
