@@ -53,8 +53,9 @@ paginate_path: "/blog/page:num/"
 pagination:
   enabled: true
   per_page: 15
-  permalink: '/blog/:num/'
-  title: ':title'
+#permalink: '/blog/:num/'
+  #title: ':title'
+  
 
 gallery_types:
   carousel: Carousel
