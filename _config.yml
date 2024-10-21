@@ -1,5 +1,7 @@
+# Site Settings
 site: Sarah Schumacher
 
+# Collections
 collections:
   pages:
     output: true
@@ -10,7 +12,8 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
-  
+
+# Defaults for Layouts
 defaults:
   -
     scope:
@@ -36,31 +39,36 @@ defaults:
     values:
       layout: "project"
 
+# Markdown and Syntax Highlighting
 markdown: kramdown
 
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-  
+
+# Sass Configuration
 sass:
   style: compressed
 
-  plugins:
+# Plugins
+plugins:
   - jekyll-paginate-v2
   - jekyll-sitemap
 
+# Pagination Configuration
+paginate: 15
 paginate_path: "/blog/page:num/"
 pagination:
   enabled: true
   per_page: 15
-#permalink: '/blog/:num/'
-  #title: ':title'
-  
+  permalink: '/blog/:num/'
 
+# Custom Gallery Types (Optional)
 gallery_types:
   carousel: Carousel
   grid: Grid
-  
+
+# Grid Column Options (Optional)
 grid_columns:
   two: Two
   three: Three
