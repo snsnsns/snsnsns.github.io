@@ -3,9 +3,8 @@ source 'https://rubygems.org'
 gem 'jekyll', '4.3.4'
 
 group :jekyll_plugins do
-  gem 'jekyll-paginate'
+  gem 'jekyll-paginate-v2'
   gem 'jekyll-sitemap'
 end
 
 gem 'bundler', '~> 2.0'
-
