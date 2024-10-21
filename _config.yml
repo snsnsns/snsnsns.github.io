@@ -45,8 +45,8 @@ kramdown:
 sass:
   style: compressed
 
-plugins:
-  - jekyll-paginate
+  plugins:
+  - jekyll-paginate-v2
   - jekyll-sitemap
 
 paginate: 15
