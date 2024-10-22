@@ -56,12 +56,13 @@ plugins:
   - jekyll-sitemap
 
 # Pagination Configuration
-paginate: 15
-paginate_path: "/blog/page:num/"
 pagination:
   enabled: true
-  per_page: 15
-  permalink: '/blog/:num/'
+  per_page: 10
+  title: ':title'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
 
 # Custom Gallery Types (Optional)
 gallery_types:
