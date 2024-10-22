@@ -7,4 +7,3 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
 end
 
-gem 'bundler', '~> 2.0'
