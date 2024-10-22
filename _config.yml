@@ -53,7 +53,9 @@ sass:
 # Plugins
 plugins:
   - jekyll-paginate-v2
+  - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Pagination Configuration
 pagination:
