@@ -75,6 +75,9 @@
 	<!-- Extra Header JS Code -->
 	{{ site.data.settings.advanced_settings.header_js }}
 	{% endif %}
+
+	{% feed_meta %}
+    {% seo %}
 	
 </head>
 
@@ -99,7 +102,7 @@
 		</div>
 
 	</div>
-
+ 
 
 	{% include footer.html %}
 
