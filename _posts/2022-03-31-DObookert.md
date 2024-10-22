@@ -2,7 +2,7 @@
 title: 'Heart of the Arts'
 subtitle: 'Dallas Observer, March 31, 2022 cover'
 date: 2022-03-31 00:00:00
-description: Hand lettering, art direction of cover
+description: Hand lettering, art direction of photography
 featured_image: /images/illos/033122_DOcover.jpg
 ---
 
