@@ -1,7 +1,0 @@
-Gem::Specification.new do |spec|
-  spec.name          = "snsnsns_gem_name"
-  spec.version       = "0.1.0"
-  spec.summary       = "spec file"
-  spec.files         = Dir["/Users/snsnsns/src/.rb"]
-  spec.homepage      = "http://www.sarahschumacher.com"
-end
