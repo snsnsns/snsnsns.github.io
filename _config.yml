@@ -57,7 +57,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-# Pagination Configuration
+# Pagination Configuration for jekyll-paginate-v2
 pagination:
   enabled: true
   per_page: 10
@@ -66,6 +66,19 @@ pagination:
   limit: 0
   sort_field: 'date'
   sort_reverse: true
+  trail:
+    before: 2
+    after: 2
+  # Configure pagination for collections
+  collections:
+    - name: 'posts'
+      output: true
+      permalink: '/blog/:num/'
+      title: 'Blog'
+    - name: 'projects'
+      output: true
+      permalink: '/projects/:num/'
+      title: 'Projects'
 
 # Custom Gallery Types (Optional)
 gallery_types:
