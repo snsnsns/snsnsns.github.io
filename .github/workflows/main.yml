@@ -1,3 +1,0 @@
-git add Gemfile Gemfile.lock
-git commit -m "Add Gemfile"
-git push
