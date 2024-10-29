@@ -1,6 +1,6 @@
 ---
 title: 'To the hiring team at Nexstar'
-subtitle:
+subtitle: Qualifying work
 date: 2024-8-25 00:00:00
 description: A look at Sarah Schumacher's work in editorial, marketing, event, digital, social media and packaging design
 ---
