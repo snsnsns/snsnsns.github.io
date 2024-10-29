@@ -1,7 +1,6 @@
 ---
 title: 'To the hiring team at Edlund company'
-subtitle:
-date: 2024-10-2 00:00:00
+subtitle: Qualifying work
 description: A look at Sarah Schumacher's work in marketing, digital media, social media and packaging design
 ---
 
