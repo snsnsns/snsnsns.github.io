@@ -1,7 +1,9 @@
 ---
+layout: page
 title: About
 subtitle: Hi there. I'm an art director and graphic designer based in Vermont.
 description: I'm an art director and graphic designer based in Vermont.
+permalink: /about/
 ---
 
 ![](/images/blogimages/About/schumacherheadshot.jpg)
