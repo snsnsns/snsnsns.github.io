@@ -1,7 +1,7 @@
 ---
-title: 'To the hiring team at Nexstar'
-subtitle: Qualifying work
-description: A look at Sarah Schumacher's work in editorial, marketing, event, digital, social media and packaging design
+layout: page
+title: "For Nexstar"
+permalink: /forNexstar/
 ---
 
 I'm Sarah, a visual designer based in Middlebury. I've created this specific page to highlight some of the work that might appeal to you in your search for a graphic artist at Nexstar.
