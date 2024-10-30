@@ -1,7 +1,7 @@
 ---
-title: 'To the hiring team at Edlund company'
-subtitle: Qualifying work
-description: A look at Sarah Schumacher's work in marketing, digital media, social media and packaging design
+layout: page
+title: "For Edlund"
+permalink: /forEdlund/
 ---
 
 I'm Sarah, a graphic designer based in Vermont. I've created this specific page to highlight some of the work that might appeal to you in your search for a senior graphic designer at Edlund.
