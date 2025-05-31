@@ -4,20 +4,13 @@ title: "For Nexstar"
 permalink: /forNexstar/
 ---
 
-I'm Sarah, a visual designer based in Middlebury. I've created this specific page to highlight some of the work that might appeal to you in your search for a graphic artist at Nexstar.
+I'm Sarah, a visual designer based in Vermont. I've created this specific page to highlight some of the work that might appeal to you in your search for the Creative Manager role.
 
-In recent design roles, I have worn many hats: art director, marketing designer, news designer, photographer, writer, editor, videographer, social  media editor. At [Voice Media Group](https://www.voicemediagroup.com/_) a media conglomerate with news sites in Dallas, Phoenix, Miami and Denver, I collaborated with cross-functional teams and organized complex projects to meet tight deadlines. Every year, I managed the creative for an omnichannel product (web, social, television and print) called “Best of Dallas.” This required hiring, directing and managing many vendors (photographers, models, writers, editors, illustrators, videographers, marketers) to design and launch a blockbuster product for all of Dallas.
+In recent design roles, I have worn many hats: art director, marketing designer, photographer, writer, editor, videographer, social  media editor. At [Voice Media Group](https://www.voicemediagroup.com/_) a media conglomerate with news sites in Dallas, Phoenix, Miami and Denver, I collaborated with cross-functional teams and organized complex projects to meet tight deadlines. Every year, I managed the creative for an omnichannel product (web, social, television, radio and print) called “Best of Dallas.” This required hiring, directing and managing many vendors (photographers, models, writers, editors, illustrators, videographers, marketers) to design and launch a blockbuster product for all of Dallas.
 
 I'd like to showcase some of the work that I've done that might help you see my capabilities:
 
-### Work Examples
-
-## Editorial visual illustrations for Bloomberg News CityLab
-Bloomberg News CityLab takes a deep dive into all the municiple issues of cities internationally. That includes large architectural projects. Since June 2024, I've been creating editorial visuals to depict the nuances of contemporary architecture projects in a CityLab column called ["Look at that Building."](https://www.bloomberg.com/news/newsletters/2024-06-23/introducing-look-at-that-building-a-series-that-explains-skylines)
-<div class="gallery" data-columns="1">
-	<img src="images/illos/LATB_MerchMart_opener.jpg" width="60%">
-	<img src="images/illos/LATB_MerchMart_p2.jpg" width="60%">
-</div>
+### Marketing design for Healthy Living
 
 ## Digital ads for Healthy Living recruitment
 I've been working with the locally-owned and operated grocery chain, Healthy Living, since the Fall of 2022. I designed these web ads for Healthy Living using the newest brand standards in Fall 2023 for recruiting new employees on the highly trafficked [Seven Days site](https://www.sevendaysvt.com) as rotating "site skin" ads for the news site pages. 
@@ -25,13 +18,13 @@ I've been working with the locally-owned and operated grocery chain, Healthy Liv
 	<img src="/images/blogimages/HealthyLiving/sevendayssiteskin_hl.jpg" width="60%">
 </div>
 
-## Reusable bags design
-I designed reusable bags with drop-shift citrus patterns for Healthy Living in spring 2023. 
+## Merch design for Healthy Living
+I designed reusable bags with drop-shift citrus patterns for Healthy Living. 
 <div class="gallery" data-columns="1">
 	<img src="/images/blogimages/HealthyLiving/orangesbag.png" width="60%">
 </div>
 
-Another fun project was creating these cooler bags which are sturdy and attractive. It is my favorite cooler bag to shop with.
+Another fun project was creating these cooler bags which are sturdy and attractive.
 <div class="gallery" data-columns="2">
 	<img src="/images/blogimages/HealthyLiving/bluefreezerbag1.png">
 	<img src="/images/blogimages/HealthyLiving/bluefreezerbag2.png">
