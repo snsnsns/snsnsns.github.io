@@ -1,12 +1,14 @@
 ---
 layout: page
-title: "For Nexstar"
-permalink: /forNexstar/
+title: "For City Market"
+permalink: /forCityMarket/
 ---
 
 I'm Sarah, a visual designer based in Vermont. I've created this specific page to highlight some of the work that might appeal to you in your search for the Creative Manager role.
 
-In recent design roles, I have worn many hats: art director, marketing designer, photographer, writer, editor, videographer, social  media editor. At [Voice Media Group](https://www.voicemediagroup.com/_) a media conglomerate with news sites in Dallas, Phoenix, Miami and Denver, I collaborated with cross-functional teams and organized complex projects to meet tight deadlines. Every year, I managed the creative for an omnichannel product (web, social, television, radio and print) called “Best of Dallas.” This required hiring, directing and managing many vendors (photographers, models, writers, editors, illustrators, videographers, marketers) to design and launch a blockbuster product for all of Dallas.
+In recent design roles, I have worn many hats: art director, marketing designer, photographer, videographer, social media editor, writer, and editor. For the past three years, as a consultant for Healthy Living markets, I have been instrumental in the environmental signage design at HL stores in South Burlington, Williston, and Saratoga Springs, NY. Through my digital marketing efforts, the company has a robust Trade Partners program with small and local food-oriented businesses who we partner with to create special in-store marketing, targeted Google ads and META ads. I've been dedicated to the branding and member development of the Core Shopper loyalty program that includes weekly deals to target shoppers.
+
+At [Voice Media Group](https://www.voicemediagroup.com/_) a media conglomerate with news sites in Dallas, Phoenix, Miami and Denver, I collaborated with cross-functional teams and organized complex projects to meet tight deadlines. Every year, I managed the creative for an omnichannel product (web, social, television, radio and print) called “Best of Dallas.” This required hiring, directing and managing many vendors (photographers, models, writers, editors, illustrators, videographers, marketers) to design and launch a blockbuster product for all of Dallas.
 
 I'd like to showcase some of the work that I've done that might help you see my capabilities:
 
