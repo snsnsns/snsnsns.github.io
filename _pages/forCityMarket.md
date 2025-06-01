@@ -18,7 +18,7 @@ I'd like to showcase some of the work that I've done that might help you see my 
 ## In-store signage
 Here are environmental displays with infographic posters and specific deal and product signage at all three Healthy Living stores.
 <div class="gallery" data-columns="3">
-	<img src="/images/blogimages/HealthyLiving/winesignage2.png">
+	<img src="/images/blogimages/HealthyLiving/winesignage2.jpg">
 	<img src="/images/blogimages/HealthyLiving/bananasigns.jpg">
 	<img src="/images/blogimages/HealthyLiving/thanksgivingsides.jpg">
 	<img src="/images/blogimages/HealthyLiving/bestdealsposter.jpg">
