@@ -16,7 +16,7 @@ I'd like to showcase some of the work that I've done that might help you see my 
 
 ## In-store signage
 Here are environmental displays with infographic posters and specific deal and product signage at all three Healthy Living stores.
-<div class="gallery" data-columns="2">
+<div class="gallery" data-columns="4">
 	<img src="/images/blogimages/HealthyLiving/winesignage.png">
 	<img src="/images/blogimages/HealthyLiving/mushroomsignage.png">
 	<img src="/images/blogimages/HealthyLiving/bulksignage_saratoga523.jpg">
@@ -30,7 +30,7 @@ Here are environmental displays with infographic posters and specific deal and p
 ## Packaging Design for Healthy Living
 Healthy Living launched a private label and I've been involved with the packaging design for many products, from vitamins to coffee packaging. This cold brew design is being relaunched this summer along with another canned coffee product.
 <div class="gallery" data-columns="1">
-	<img src="/images/blogimages/HealthyLiving/coldbrew.jpg">
+	<img src="/images/blogimages/HealthyLiving/coldbrew.jpg" width="60%">
 </div>
 
 ## Digital ads for Healthy Living recruitment
