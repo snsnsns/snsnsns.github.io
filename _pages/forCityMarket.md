@@ -20,11 +20,11 @@ Here are environmental displays with infographic posters and specific deal and p
 	<img src="/images/blogimages/HealthyLiving/winesignage.png">
 	<img src="/images/blogimages/HealthyLiving/mushroomsignage.png">
 	<img src="/images/blogimages/HealthyLiving/bulksignage_saratoga523.jpg">
-	<img src="/images/blogimages/HealthyLiving/willistonwellness2.jpg">
-	<img src="/images/blogimages/HealthyLiving/earthsignage.jpg">
 	<img src="/images/blogimages/HealthyLiving/bananasigns.jpg">
 	<img src="/images/blogimages/HealthyLiving/thanksgivingsides.jpg">
 	<img src="/images/blogimages/HealthyLiving/bestdealsposter.jpg">
+ 	<img src="/images/blogimages/HealthyLiving/earthsignage.jpg">
+	<img src="/images/blogimages/HealthyLiving/willistonwellness2.jpg">
 </div>
 
 ## Environmental design
@@ -38,13 +38,13 @@ The South Burlington store wanted to refresh exterior vinyl graphics to somethin
 ## Digital menu design
 I continually revise and redesign digital menus for the Williston deli counter. Here is a recent iteration.
 <div class="gallery" data-columns="1">
-	<img src="/images/blogimages/HealthyLiving/willistonscreens.jpg" width="60%">
+	<img src="/images/blogimages/HealthyLiving/willistonscreens.jpg" width="40%">
 </div>
 
 ## Packaging Design for Healthy Living
 Healthy Living launched a private label and I've been involved with the packaging design for many products, from vitamins to coffee packaging. This cold brew design is being relaunched this summer along with another canned coffee product.
 <div class="gallery" data-columns="1">
-	<img src="/images/blogimages/HealthyLiving/coldbrew.jpg" width="60%">
+	<img src="/images/blogimages/HealthyLiving/coldbrew.jpg" width="40%">
 </div>
 
 ## Digital ads for Healthy Living recruitment
