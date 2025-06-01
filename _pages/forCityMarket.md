@@ -13,12 +13,12 @@ At [Voice Media Group](https://www.voicemediagroup.com/) a media conglomerate wi
 
 I'd like to showcase some of the work that I've done that might help you see my capabilities:
 
-### Marketing design for Healthy Living
+## Marketing design for Healthy Living
 
-## In-store signage
+### In-store signage
 Here are environmental displays with infographic posters and specific deal and product signage at all three Healthy Living stores.
 <div class="gallery" data-columns="3">
-	<img src="/images/blogimages/HealthyLiving/winesignage.png">
+	<img src="/images/blogimages/HealthyLiving/winesignage2.png">
 	<img src="/images/blogimages/HealthyLiving/bananasigns.jpg">
 	<img src="/images/blogimages/HealthyLiving/thanksgivingsides.jpg">
 	<img src="/images/blogimages/HealthyLiving/bestdealsposter.jpg">
@@ -26,7 +26,7 @@ Here are environmental displays with infographic posters and specific deal and p
 	<img src="/images/blogimages/HealthyLiving/willistonwellness2.jpg">
 </div>
 
-## Environmental design
+### Environmental design
 The South Burlington store wanted to refresh exterior vinyl graphics to something more timeless and aligned with the HL brand, so I created these simple green and bright green graphic layouts for window clings.
 <div class="gallery" data-columns="3">
 	<img src="/images/blogimages/HealthyLiving/parkingviewclings.jpg">
@@ -34,26 +34,26 @@ The South Burlington store wanted to refresh exterior vinyl graphics to somethin
 	<img src="/images/blogimages/HealthyLiving/streetisideclings.jpg">
 </div>
 
-## Digital menu design
+### Digital menu design
 I continually revise and redesign digital menus for the Williston deli counter. Here is a recent iteration.
 <div class="gallery" data-columns="1">
 	<img src="/images/blogimages/HealthyLiving/willistonscreens.jpg" width="40%">
 </div>
 
-## Packaging Design for Healthy Living
+### Packaging Design for Healthy Living
 Healthy Living launched a private label and I've been involved with the packaging design for many products, from vitamins to coffee packaging. This cold brew design is being relaunched this summer along with another canned coffee product.
 <div class="gallery" data-columns="2">
 	<img src="/images/blogimages/HealthyLiving/coldbrew.jpg">
 	<img src="/images/blogimages/HealthyLiving/krucanlabel.png">
 </div>
 
-## Digital ads for Healthy Living recruitment
+### Digital ads for Healthy Living recruitment
 I designed these web ads for Healthy Living for recruiting new employees on the highly trafficked [Seven Days site](https://www.sevendaysvt.com) as rotating "site skin" ads for the news site pages. 
 <div class="gallery" data-columns="1">
 	<img src="/images/blogimages/HealthyLiving/sevendayssiteskin_hl.jpg" width="60%">
 </div>
 
-## Merch design for Healthy Living
+### Merch design for Healthy Living
 I designed reusable bags with drop-shift citrus patterns for Healthy Living. 
 <div class="gallery" data-columns="1">
 	<img src="/images/blogimages/HealthyLiving/orangesbag.png" width="60%">
@@ -65,8 +65,9 @@ Another fun project was creating these cooler bags which are sturdy and attracti
 	<img src="/images/blogimages/HealthyLiving/bluefreezerbag2.png">
 </div>
 
-
 ---
+
+## Social Media, Video and Photography with Voice Media Group
 
 In the social media space, I have experience planning and designing digital marketing campaigns.
 
@@ -85,11 +86,11 @@ As art director at Voice Media Group, I shot photos, hired photographers and cur
 	<img src="/images/blogimages/DO/2019jamesoninstagram.png">
 </div>
 
-## Marketing video from Iron Fork 
+### Marketing video from Iron Fork 
 Voice Media Group has many marketed events alongside their news sites. Iron Fork is an annual foodie event with local restaurants bringing small plates to serve to guests. The event also has a local chef cook-off presentation. I filmed and edited video of the 2017 Iron Fork for VMG's site Dallas Observer.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EcYfEhalVUE?si=zWoE184HsTOIS0n0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Event and video design from Dallas Observer Music Awards
+### Event and video design from Dallas Observer Music Awards
 Every year, Dallas Observer highlights the best musical acts trending in the city. For VMG's marketing department, I created the event brand which involved designing the logo/graphic for the event, the awards design, display ads, projected videos to introduce speakers and performers and visuals for performances. 
  
 <div class="gallery" data-columns="4">
@@ -109,9 +110,8 @@ And I commissioned this video of 2016 Dallas Observer Music Awards that shows th
 
 ---
 
-### AIGA Event & Marketing Design
+## Event & Marketing Design for AIGA Santa Barbara
 As a volunteer board member for AIGA in California, I designed and planned a conference for young designers to meet with mentors for career advice, networking, and for a formal portfolio review. For the event, I created a lot of collateral: posters, fake tattoos, t-shirts and buttons.
-
 
 ### Event Poster for AIGA
 I designed this poster for AIGA Santa Barbara advertising the portfolio review day. 
@@ -131,5 +131,5 @@ And here is the fun swag: temporary tattoos, small buttons, and we screen printe
 
 ---
 
-### Thank You!
+## Thank You!
 As you can see, I'm a flexible curious designer who loves editorial illustration, brand design, packaging design, and digital design as well as creating and testing new marketing ideas. Thank you for reviewing my work!
