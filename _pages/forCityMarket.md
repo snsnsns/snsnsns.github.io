@@ -132,4 +132,4 @@ And here is the fun swag: temporary tattoos, small buttons, and we screen printe
 ---
 
 ### Thank You!
-As you can see, I'm a flexible curious designer who loves editorial illustration, brand design, packaging design, and digital design as well as creating and testing new marketing ideas. Thank you for reviewing my work!
+As you can see, I'm a flexible curious designer who loves the organic grocery space, brand design, packaging design, and digital design as well as creating and testing new marketing ideas. Thank you for reviewing my work!
