@@ -48,7 +48,7 @@ Healthy Living launched a private label and I've been involved with the packagin
 </div>
 
 ## Digital ads for Healthy Living recruitment
-I designed these web ads for Healthy Living for recruiting new employees on the highly trafficked [Seven Days site](https://www.sevendaysvt.com) as rotating "site skin" ads for the news site pages. 
+I designed these web ads for Healthy Living for recruiting new employees on the highly trafficked Seven Days site as rotating "site skin" ads for the news site pages. 
 <div class="gallery" data-columns="1">
 	<img src="/images/blogimages/HealthyLiving/sevendayssiteskin_hl.jpg" width="60%">
 </div>
@@ -87,7 +87,7 @@ As art director at Voice Media Group, I shot photos, hired photographers and cur
 </div>
 
 ## Marketing video from Iron Fork 
-Voice Media Group has many marketed events alongside their news sites. Iron Fork is an annual foodie event with local restaurants bringing small plates to serve to guests. The event also has a local chef cook-off presentation. I filmed and edited video of the 2017 Iron Fork for VMG's site Dallas Observer.
+Voice Media Group has many marketed events alongside their news sites. Iron Fork is an annual foodie event with local restaurants bringing small plates to serve to guests. The event also has a local chef cook-off presentation. I filmed and edited video of the 2017 Iron Fork for VMG's site [Dallas Observer] (https://www.dallasobserver.com).
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EcYfEhalVUE?si=zWoE184HsTOIS0n0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Event and video design from Dallas Observer Music Awards
