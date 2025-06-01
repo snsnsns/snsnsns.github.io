@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Curated for City Market"
-subtitle: 'Sarah Schumacher's marketing design for organic markets'
+subtitle: "Sarah Schumacher's marketing design for organic markets"
 permalink: /forCityMarket/
 ---
 
