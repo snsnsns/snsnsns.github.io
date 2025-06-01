@@ -20,13 +20,18 @@ Here are environmental displays with infographic posters and specific deal and p
 	<img src="/images/blogimages/HealthyLiving/winesignage.png">
 	<img src="/images/blogimages/HealthyLiving/mushroomsignage.png">
 	<img src="/images/blogimages/HealthyLiving/bulksignage_saratoga523.jpg">
-	<img src="/images/blogimages/HealthyLiving/avocadoposter.jpg">
-	<img src="/images/blogimages/HealthyLiving/bulksignage_saratoga523.jpg">
-	<img src="/images/blogimages/HealthyLiving/avocadoposter.jpg">
-	<img src="/images/blogimages/HealthyLiving/bulksignage_saratoga523.jpg">
-	<img src="/images/blogimages/HealthyLiving/avocadoposter.jpg">
+	<img src="/images/blogimages/HealthyLiving/willistonwellness2.jpg">
+	<img src="/images/blogimages/HealthyLiving/earthsignage.jpg">
+	<img src="/images/blogimages/HealthyLiving/bananasigns.jpg">
+	<img src="/images/blogimages/HealthyLiving/thanksgivingsides.jpg">
+	<img src="/images/blogimages/HealthyLiving/bestdealsposter.jpg">
 </div>
 
+## Packaging Design for Healthy Living
+Healthy Living launched a private label and I've been involved with the packaging design for many products, from vitamins to coffee packaging. This cold brew design is being relaunched this summer along with another canned coffee product.
+<div class="gallery" data-columns="1">
+	<img src="/images/blogimages/HealthyLiving/coldbrew.jpg">
+</div>
 
 ## Digital ads for Healthy Living recruitment
 I've been working with the locally-owned and operated grocery chain, Healthy Living, since the Fall of 2022. I designed these web ads for Healthy Living using the newest brand standards in Fall 2023 for recruiting new employees on the highly trafficked [Seven Days site](https://www.sevendaysvt.com) as rotating "site skin" ads for the news site pages. 
