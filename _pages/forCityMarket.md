@@ -8,11 +8,25 @@ I'm Sarah, a visual designer based in Vermont. I've created this specific page t
 
 In recent design roles, I have worn many hats: art director, marketing designer, photographer, videographer, social media editor, writer, and editor. For the past three years, as a consultant for Healthy Living markets, I have been instrumental in the environmental signage design at HL stores in South Burlington, Williston, and Saratoga Springs, NY. Through my digital marketing efforts, the company has a robust Trade Partners program with small and local food-oriented businesses who we partner with to create special in-store marketing, targeted Google ads and META ads. I've been dedicated to the branding and member development of the Core Shopper loyalty program that includes weekly deals to target shoppers.
 
-At [Voice Media Group](https://www.voicemediagroup.com/_) a media conglomerate with news sites in Dallas, Phoenix, Miami and Denver, I collaborated with cross-functional teams and organized complex projects to meet tight deadlines. Every year, I managed the creative for an omnichannel product (web, social, television, radio and print) called “Best of Dallas.” This required hiring, directing and managing many vendors (photographers, models, writers, editors, illustrators, videographers, marketers) to design and launch a blockbuster product for all of Dallas.
+At [Voice Media Group](https://www.voicemediagroup.com/) a media conglomerate with news sites in Dallas, Phoenix, Miami and Denver, I collaborated with cross-functional teams and organized complex projects to meet tight deadlines. Every year, I managed the creative for an omnichannel product (web, social, television, radio and print) called [“Best of Dallas.”](https://www.dallasobserver.com/best-of/2024/intro/best-of-dallas-2024-20596760) This required hiring, directing and managing many vendors (photographers, models, writers, editors, illustrators, videographers, marketers) to design and launch a blockbuster product for all of Dallas.
 
 I'd like to showcase some of the work that I've done that might help you see my capabilities:
 
 ### Marketing design for Healthy Living
+
+## In-store signage
+Here are environmental displays with infographic posters and specific deal and product signage at all three Healthy Living stores.
+<div class="gallery" data-columns="2">
+	<img src="/images/blogimages/HealthyLiving/winesignage.png">
+	<img src="/images/blogimages/HealthyLiving/mushroomsignage.png">
+	<img src="/images/blogimages/HealthyLiving/bulksignage_saratoga523.jpg">
+	<img src="/images/blogimages/HealthyLiving/avocadoposter.jpg">
+	<img src="/images/blogimages/HealthyLiving/bulksignage_saratoga523.jpg">
+	<img src="/images/blogimages/HealthyLiving/avocadoposter.jpg">
+	<img src="/images/blogimages/HealthyLiving/bulksignage_saratoga523.jpg">
+	<img src="/images/blogimages/HealthyLiving/avocadoposter.jpg">
+</div>
+
 
 ## Digital ads for Healthy Living recruitment
 I've been working with the locally-owned and operated grocery chain, Healthy Living, since the Fall of 2022. I designed these web ads for Healthy Living using the newest brand standards in Fall 2023 for recruiting new employees on the highly trafficked [Seven Days site](https://www.sevendaysvt.com) as rotating "site skin" ads for the news site pages. 
@@ -32,14 +46,6 @@ Another fun project was creating these cooler bags which are sturdy and attracti
 	<img src="/images/blogimages/HealthyLiving/bluefreezerbag2.png">
 </div>
 
-## Product signage at Healthy Living South Burlington and Saratoga Springs stores
-I've designed many types of signage for Healthy Living. Here are a few signs with special purchase deals and one infographic poster about avocado sourcing.
-<div class="gallery" data-columns="2">
-	<img src="/images/blogimages/HealthyLiving/winesignage.png">
-	<img src="/images/blogimages/HealthyLiving/mushroomsignage.png">
-	<img src="/images/blogimages/HealthyLiving/bulksignage_saratoga523.jpg">
-	<img src="/images/blogimages/HealthyLiving/avocadoposter.jpg">
-</div>
 
 ### Dallas Observer Social Media
 In the social media space, I have experience planning and designing digital marketing campaigns. As a marketing designer at Voice Media Group, I shot photos, hired photographers and curated photos, created graphics, wrote content and built a fun social media persona and built community through VMG's Dallas Observer Instagram account. I hired photographers to shoot events and then edited and selected photos for use on the various VMG platforms. 
