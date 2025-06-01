@@ -6,7 +6,7 @@ permalink: /forCityMarket/
 
 I'm Sarah, a visual designer based in Vermont. I've created this specific page to highlight some of the work that might appeal to you in your search for the Creative Manager role.
 
-In recent design roles, I have worn many hats: art director, marketing designer, photographer, videographer, social media editor, writer, and editor. For the past three years, as a consultant for Healthy Living markets, I have been instrumental in the environmental signage design at HL stores in South Burlington, Williston, and Saratoga Springs, NY. Through my digital marketing efforts, the company has a robust Trade Partners program with small and local food-oriented businesses who we partner with to create special in-store marketing, targeted Google ads and META ads. I've been dedicated to the branding and member development of the Core Shopper loyalty program that includes weekly deals to target shoppers.
+In recent design roles, I have worn many hats: art director, marketing designer, photographer, videographer, social media editor, writer, and editor. For the past three years, as a consultant for [Healthy Living markets](https://healthylivingtogo.com), I have been instrumental in the environmental signage design at HL stores in South Burlington, Williston, and Saratoga Springs, NY. Through my digital marketing efforts, the company has a robust trade partners program with small and local food-oriented businesses who we partner with to create special in-store marketing, targeted Google ads and META ads. I've been dedicated to the branding and member development of the Core Shopper loyalty program that includes weekly deals to target shoppers.
 
 At [Voice Media Group](https://www.voicemediagroup.com/) a media conglomerate with news sites in Dallas, Phoenix, Miami and Denver, I collaborated with cross-functional teams and organized complex projects to meet tight deadlines. Every year, I managed the creative for an omnichannel product (web, social, television, radio and print) called [“Best of Dallas.”](https://www.dallasobserver.com/best-of/2024/intro/best-of-dallas-2024-20596760) This required hiring, directing and managing many vendors (photographers, models, writers, editors, illustrators, videographers, marketers) to design and launch a blockbuster product for all of Dallas.
 
@@ -25,6 +25,20 @@ Here are environmental displays with infographic posters and specific deal and p
 	<img src="/images/blogimages/HealthyLiving/bananasigns.jpg">
 	<img src="/images/blogimages/HealthyLiving/thanksgivingsides.jpg">
 	<img src="/images/blogimages/HealthyLiving/bestdealsposter.jpg">
+</div>
+
+## Environmental design
+The South Burlington store wanted to refresh exterior vinyl graphics to something more timeless and aligned with the HL brand, so I created these simple green and bright green graphic layouts for window clings.
+<div class="gallery" data-columns="3">
+	<img src="/images/blogimages/HealthyLiving/parkingviewclings.jpg">
+	<img src="/images/blogimages/HealthyLiving/windowclings.jpg">
+	<img src="/images/blogimages/HealthyLiving/streetisideclings.jpg">
+</div>
+
+## Digital menu design
+I continually revise and redesign digital menus for the Williston deli counter. Here is a recent iteration.
+<div class="gallery" data-columns="1">
+	<img src="/images/blogimages/HealthyLiving/willistonscreens.jpg" width="60%">
 </div>
 
 ## Packaging Design for Healthy Living
