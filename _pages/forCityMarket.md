@@ -64,8 +64,12 @@ Another fun project was creating these cooler bags which are sturdy and attracti
 </div>
 
 
+---
+
+In the social media space, I have experience planning and designing digital marketing campaigns.
+
 ### Dallas Observer Social Media
-In the social media space, I have experience planning and designing digital marketing campaigns. As a marketing designer at Voice Media Group, I shot photos, hired photographers and curated photos, created graphics, wrote content and built a fun social media persona and built community through VMG's Dallas Observer Instagram account. I hired photographers to shoot events and then edited and selected photos for use on the various VMG platforms. 
+As art director at Voice Media Group, I shot photos, hired photographers and curated photos, created graphics, wrote content and built a fun social media persona and built community through VMG's Dallas Observer Instagram account. I hired photographers to shoot events and then edited and selected photos for use on the various VMG platforms. 
 
 <div class="gallery" data-columns="3">
 	<img src="/images/blogimages/DO/2016DOMAinstagram.png">
@@ -101,14 +105,20 @@ And I commissioned this video of 2016 Dallas Observer Music Awards that shows th
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5iWKgR8d8Ag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
+
+### AIGA Event & Marketing Design
+As a volunteer board member for AIGA in California, I designed and planned a conference for young designers to meet with mentors for career advice, networking, and for a formal portfolio review. For the event, I created a lot of collateral: posters, fake tattoos, t-shirts and buttons.
+
+
 ### Event Poster for AIGA
-I designed this poster for AIGA Santa Barbara advertising their portfolio review day. 
+I designed this poster for AIGA Santa Barbara advertising the portfolio review day. 
 
 <div class="gallery" data-columns="2">
 	<img src="/images/blogimages/AIGA/AIGA_portfolioday_poster.jpg">
 </div>
 
-Along with the poster, I created swag: temporary tattoos, small buttons, and we screen printed shirts with the design too.
+And here is the fun swag: temporary tattoos, small buttons, and we screen printed t-shirts with the event design too.
 
 <div class="gallery" data-columns="2">
 	<img src="/images/blogimages/AIGA/AIGAbutton.jpg">
@@ -116,6 +126,8 @@ Along with the poster, I created swag: temporary tattoos, small buttons, and we 
 	<img src="/images/blogimages/AIGA/AIGAscreenprint.jpg">
 	<img src="/images/blogimages/AIGA/AIGAtshirt.jpg">
 </div>
+
+---
 
 ### Thank You!
 As you can see, I'm a flexible curious designer who loves editorial illustration, brand design, packaging design, and digital design as well as creating and testing new marketing ideas. Thank you for reviewing my work!
