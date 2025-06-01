@@ -4,7 +4,7 @@ title: "For City Market"
 permalink: /forCityMarket/
 ---
 
-I'm Sarah, a visual designer based in Vermont. I've created this specific page to highlight some of the work that might appeal to you in your search for the Creative Manager role.
+I'm Sarah, a designer and digital marketer. I've created this specific page to highlight some of the work that might appeal to you in your search for the Creative Manager role.
 
 In recent design roles, I have worn many hats: art director, marketing designer, photographer, videographer, social media editor, writer, and editor. For the past three years, as a consultant for [Healthy Living markets](https://healthylivingtogo.com), I have been instrumental in the environmental signage design at HL stores in South Burlington, Williston, and Saratoga Springs, NY. Through my digital marketing efforts, the company has a robust trade partners program with small and local food-oriented businesses who we partner with to create special in-store marketing, targeted Google ads and META ads. I've been dedicated to the branding and member development of the Core Shopper loyalty program that includes weekly deals to target shoppers.
 
@@ -46,7 +46,7 @@ Healthy Living launched a private label and I've been involved with the packagin
 </div>
 
 ## Digital ads for Healthy Living recruitment
-I've been working with the locally-owned and operated grocery chain, Healthy Living, since the Fall of 2022. I designed these web ads for Healthy Living using the newest brand standards in Fall 2023 for recruiting new employees on the highly trafficked [Seven Days site](https://www.sevendaysvt.com) as rotating "site skin" ads for the news site pages. 
+I designed these web ads for Healthy Living for recruiting new employees on the highly trafficked [Seven Days site](https://www.sevendaysvt.com) as rotating "site skin" ads for the news site pages. 
 <div class="gallery" data-columns="1">
 	<img src="/images/blogimages/HealthyLiving/sevendayssiteskin_hl.jpg" width="60%">
 </div>
