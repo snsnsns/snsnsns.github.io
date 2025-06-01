@@ -43,7 +43,7 @@ I continually revise and redesign digital menus for the Williston deli counter. 
 ## Packaging Design for Healthy Living
 Healthy Living launched a private label and I've been involved with the packaging design for many products, from vitamins to coffee packaging. This cold brew design is being relaunched this summer along with another canned coffee product.
 <div class="gallery" data-columns="2">
-	<img src="/images/blogimages/HealthyLiving/coldbrew.jpg">
+	<img src="/images/blogimages/HealthyLiving/coldbrew.jpg" width="40%">
 	<img src="/images/blogimages/HealthyLiving/krucanlabel.png">
 </div>
 
