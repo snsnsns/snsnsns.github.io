@@ -47,13 +47,16 @@ Healthy Living launched a private label and I've been involved with the packagin
 	<img src="/images/blogimages/HealthyLiving/krucanlabel.png">
 </div>
 
-## Digital ads for Healthy Living recruitment
+## Digital web ads
 I designed these web ads for Healthy Living for recruiting new employees on the highly trafficked Seven Days site as rotating "site skin" ads for the news site pages. 
 <div class="gallery" data-columns="1">
 	<img src="/images/blogimages/HealthyLiving/sevendayssiteskin_hl.jpg" width="60%">
 </div>
+
 ---
-Figma mobile newsletter mockups advertising Best Deals, HL To-Go, and a signature note from the store-founding family.
+
+## Newsletter graphics
+Mobile-first newsletter Figma graphics advertise Best Deals, HL To-Go, and offer a friendly note from the store-founding family.
 <div class="gallery" data-columns="3">
 	<img src="/images/blogimages/HealthyLiving/MobileHeader.png" width="60%">
  	<img src="/images/blogimages/HealthyLiving/MobileHLTOGO.png" width="60%">
@@ -134,6 +137,43 @@ And here is the fun swag: temporary tattoos, small buttons, and we screen printe
 	<img src="/images/blogimages/AIGA/AIGAtattoo.jpg">
 	<img src="/images/blogimages/AIGA/AIGAscreenprint.jpg">
 	<img src="/images/blogimages/AIGA/AIGAtshirt.jpg">
+</div>
+
+---
+
+### Branding a food-insecurity nonprofit in White River Valley
+In 2025, I've been working with Feeding the Valley Alliance in Rochester, VT to create a solid brand identity, web prescence and print collateral to spread awareness of group, ways to partner to bring more food to the valley, and to advertise food giveaways without stigma.
+
+Here are some highlights of the brand guidelines as we move forward on the website design.
+
+## Main logo and smaller web logo design
+After first a round of loose sketches, followed by three finalized one-color options, the nonprofit board chose this simple spoon and fork design. As a secondary logo, I created a circular logo for conditions in which a square or round logo would look better (stickers, pins, corner of web sites, etc.)
+<div class="gallery" data-columns="1">
+	<img src="/images/blogimages/HealthyLiving/tk" width="60%">
+</div>
+
+## Color Palette
+The color palette is grounded in the tones of spring and harvest season: light and deep greens like fresh produce, along with the purple and orange like the root vegetables of fall.
+<div class="gallery" data-columns="1">
+	<img src="/images/blogimages/HealthyLiving/tk" width="60%">
+</div>
+
+## Typography
+The type I chose is organic feeling and friendly, offering a serious but warm tone. They are part of the Google fonts library, making it an economical choice for the nonprofit.
+<div class="gallery" data-columns="1">
+	<img src="/images/blogimages/HealthyLiving/tk" width="60%">
+</div>
+
+## Pattern and Texture
+For the website, I will incorporate various patterned and textured backgrounds to offer more visual variety along with the information.
+<div class="gallery" data-columns="1">
+	<img src="/images/blogimages/HealthyLiving/tk" width="60%">
+</div>
+
+## Visualization of logo in use
+I created visual mockups of a simple logo in possible use scenarios.
+<div class="gallery" data-columns="1">
+	<img src="/images/blogimages/HealthyLiving/tk" width="60%">
 </div>
 
 ---
