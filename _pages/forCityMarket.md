@@ -149,31 +149,31 @@ Here are some highlights of the brand guidelines as we move forward on the websi
 ## Main logo and smaller web logo design
 After first a round of loose sketches, followed by three finalized one-color options, the nonprofit board chose this simple spoon and fork design. As a secondary logo, I created a circular logo for conditions in which a square or round logo would look better (stickers, pins, corner of web sites, etc.)
 <div class="gallery" data-columns="1">
-	<img src="/images/blogimages/HealthyLiving/tk" width="60%">
+	<img src="/images/blogimages/FTvalley/weblogos.png" width="60%">
 </div>
 
 ## Color Palette
 The color palette is grounded in the tones of spring and harvest season: light and deep greens like fresh produce, along with the purple and orange like the root vegetables of fall.
 <div class="gallery" data-columns="1">
-	<img src="/images/blogimages/HealthyLiving/tk" width="60%">
+	<img src="/images/blogimages/FTvalley/FTVcolorpalette.jpg" width="60%">
 </div>
 
 ## Typography
 The type I chose is organic feeling and friendly, offering a serious but warm tone. They are part of the Google fonts library, making it an economical choice for the nonprofit.
 <div class="gallery" data-columns="1">
-	<img src="/images/blogimages/HealthyLiving/tk" width="60%">
+	<img src="/images/blogimages/FTvalley/typography.jpg" width="60%">
 </div>
 
 ## Pattern and Texture
 For the website, I will incorporate various patterned and textured backgrounds to offer more visual variety along with the information.
 <div class="gallery" data-columns="1">
-	<img src="/images/blogimages/HealthyLiving/tk" width="60%">
+	<img src="/images/blogimages/FTvalley/pattern.jpg" width="60%">
 </div>
 
 ## Visualization of logo in use
 I created visual mockups of a simple logo in possible use scenarios.
 <div class="gallery" data-columns="1">
-	<img src="/images/blogimages/HealthyLiving/tk" width="60%">
+	<img src="/images/blogimages/FTvalley/FTVimages.jpg" width="60%">
 </div>
 
 ---
