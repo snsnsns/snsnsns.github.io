@@ -55,8 +55,8 @@ I designed these web ads for Healthy Living for recruiting new employees on the 
 ---
 Figma mobile newsletter mockups advertising Best Deals, HL To-Go, and a signature note from the store-founding family.
 <div class="gallery" data-columns="3">
-	<img src="/images/blogimages/HealthyLiving/MobileHLTOGO.png" width="60%">
 	<img src="/images/blogimages/HealthyLiving/MobileHeader.png" width="60%">
+ 	<img src="/images/blogimages/HealthyLiving/MobileHLTOGO.png" width="60%">
   	<img src="/images/blogimages/HealthyLiving/FamilyOwnedMobile.png" width="60%">
 </div>
 
