@@ -52,6 +52,13 @@ I designed these web ads for Healthy Living for recruiting new employees on the 
 <div class="gallery" data-columns="1">
 	<img src="/images/blogimages/HealthyLiving/sevendayssiteskin_hl.jpg" width="60%">
 </div>
+---
+Figma mobile newsletter mockups advertising Best Deals, HL To-Go, and a signature note from the store-founding family.
+<div class="gallery" data-columns="3">
+	<img src="/images/blogimages/HealthyLiving/sevendayssiteskin_hl.jpg" width="60%">
+	<img src="/images/blogimages/HealthyLiving/sevendayssiteskin_hl.jpg" width="60%">
+  	<img src="/images/blogimages/HealthyLiving/sevendayssiteskin_hl.jpg" width="60%">
+</div>
 
 ## Merch design for Healthy Living
 I designed reusable bags with drop-shift citrus patterns for Healthy Living. 
