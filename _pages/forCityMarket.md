@@ -142,14 +142,14 @@ And here is the fun swag: temporary tattoos, small buttons, and we screen printe
 ---
 
 ### Branding a food-insecurity nonprofit in White River Valley
-In 2025, I've been working with Feeding the Valley Alliance in Rochester, VT to create a solid brand identity, web prescence and print collateral to spread awareness of group, ways to partner to bring more food to the valley, and to advertise food giveaways without stigma.
+Since fall 2024, I've been working with Feeding the Valley Alliance in Rochester, Vermont to create the group a solid brand identity with a web prescence and print collateral. The goals are to spread awareness of group, to find new restaurants and farmers to donate more food, to advertise community food offerings, and to reduce any stigma from accepting free food.
 
-Here are some highlights of the brand guidelines as we move forward on the website design.
+Below are some highlights of the brand guidelines as we move forward on the website design.
 
 ## Main logo and smaller web logo design
-After first a round of loose sketches, followed by three finalized one-color options, the nonprofit board chose this simple spoon and fork design. As a secondary logo, I created a circular logo for conditions in which a square or round logo would look better (stickers, pins, corner of web sites, etc.)
+After first a round of loose sketches, followed up with three finalized one-color options, the nonprofit board chose this simple spoon and fork design. As a secondary logo, I created a circular logo for conditions in which a square or round logo would look better (stickers, pins, corner of web sites, etc.)
 <div class="gallery" data-columns="1">
-	<img src="/images/blogimages/FTvalley/weblogo.png" width="60%">
+	<img src="/images/blogimages/FTvalley/weblogo.jpg" width="60%">
 </div>
 
 ## Color Palette
