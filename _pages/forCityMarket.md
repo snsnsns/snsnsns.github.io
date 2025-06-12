@@ -149,13 +149,13 @@ Here are some highlights of the brand guidelines as we move forward on the websi
 ## Main logo and smaller web logo design
 After first a round of loose sketches, followed by three finalized one-color options, the nonprofit board chose this simple spoon and fork design. As a secondary logo, I created a circular logo for conditions in which a square or round logo would look better (stickers, pins, corner of web sites, etc.)
 <div class="gallery" data-columns="1">
-	<img src="/images/blogimages/FTvalley/weblogos.png" width="60%">
+	<img src="/images/blogimages/FTvalley/weblogo.png" width="60%">
 </div>
 
 ## Color Palette
 The color palette is grounded in the tones of spring and harvest season: light and deep greens like fresh produce, along with the purple and orange like the root vegetables of fall.
 <div class="gallery" data-columns="1">
-	<img src="/images/blogimages/FTvalley/FTVcolorpalette.jpg" width="60%">
+	<img src="/images/blogimages/FTvalley/colorpalette.jpg" width="60%">
 </div>
 
 ## Typography
@@ -173,7 +173,7 @@ For the website, I will incorporate various patterned and textured backgrounds t
 ## Visualization of logo in use
 I created visual mockups of a simple logo in possible use scenarios.
 <div class="gallery" data-columns="1">
-	<img src="/images/blogimages/FTvalley/FTVimages.jpg" width="60%">
+	<img src="/images/blogimages/FTvalley/FTV.jpg" width="60%">
 </div>
 
 ---
