@@ -57,7 +57,7 @@ And for seasonal in-store packaging, I created this custom logo for eco-friendly
 ## Reusable bags design
 I designed reusable bags with drop-shift citrus patterns for Healthy Living in spring 2023. 
 <div class="gallery" data-columns="1">
-	<img src="/images/blogimages/HealthyLiving/orangesbag2.jpg" width="60%">
+	<img src="/images/blogimages/HealthyLiving/orangesbag.jpg" width="60%">
 </div>
 
 ## Digital web ads
