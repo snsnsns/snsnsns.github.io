@@ -6,14 +6,7 @@ description: Marketing and Design for Health and Grocery Brand
 featured_image: /images/blogimages/HealthyLiving/hlteaserart.png
 ---
 
-## Reaching customers
-
-I've been working with the locally-owned and operated grocery chain, Healthy Living, since the Fall of 2022. The Healthy Living brand is evolving and we are marketing new incentives to a loyal customer base with a robust rewards program (Core Shoppers). Besides customers, I've also served the brand and design needs of local businesses partners selling their products within the stores. 
-
-<div class="gallery" data-columns="2">
-	<img src="/images/blogimages/HealthyLiving/coreshopperwelcome.png">
- 	<img src="/images/blogimages/HealthyLiving/RoundUp_registerad.png">
-</div>
+For the past three years, as a consultant for Healthy Living markets  , I have been instrumental in the environmental signage design at HL stores in South Burlington, Williston, and Saratoga Springs, NY. Through my digital marketing efforts, the company has a robust trade partners program with small and local food-oriented businesses who we partner with to create special in-store marketing, targeted Google ads and META ads. I’ve been dedicated to the branding and member development of the Core Shopper loyalty program that includes weekly deals to target shoppers.
 
 ## In-store signage
 Here are environmental displays with infographic posters and specific deal and product signage at all three Healthy Living stores.
@@ -38,6 +31,14 @@ The South Burlington store wanted to refresh exterior vinyl graphics to somethin
 I continually revise and redesign digital menus for the Williston deli counter. Here is a recent iteration.
 <div class="gallery" data-columns="1">
 	<img src="/images/blogimages/HealthyLiving/willistonscreens.jpg" width="40%">
+</div>
+
+## Loyalty rewards program
+I've been working with the locally-owned and operated grocery chain, Healthy Living, since the Fall of 2022. The Healthy Living brand is evolving and we are marketing new incentives to a loyal customer base with a robust rewards program (Core Shoppers). Besides customers, I've also served the brand and design needs of local businesses partners selling their products within the stores. 
+
+<div class="gallery" data-columns="2">
+	<img src="/images/blogimages/HealthyLiving/coreshopperwelcome.png">
+ 	<img src="/images/blogimages/HealthyLiving/RoundUp_registerad.png">
 </div>
 
 ## Packaging Design for Healthy Living
