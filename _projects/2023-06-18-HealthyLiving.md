@@ -12,7 +12,7 @@ I've been working with the locally-owned and operated grocery chain, Healthy Liv
 
 <div class="gallery" data-columns="1">
 	<img src="/images/blogimages/HealthyLiving/coreshopperwelcome.png">
- 	<img src="/images/blogimages/HealthyLiving/coreshopperwelcome.png">
+ 	<img src="/images/blogimages/HealthyLiving/RoundUp_registerad.png">
 </div>
 
 ## In-store signage
