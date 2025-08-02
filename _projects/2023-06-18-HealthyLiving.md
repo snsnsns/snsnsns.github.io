@@ -110,7 +110,7 @@ I designed these web ads for Healthy Living using the newest brand standards in 
 ## Reusable bags design
 I designed reusable bags with drop-shift citrus patterns for Healthy Living in spring 2023. 
 <div class="gallery" data-columns="1">
-	<img src="/images/blogimages/HealthyLiving/orangesbag.png" width="60%">
+	<img src="/images/blogimages/HealthyLiving/orangesbag2.jpg" width="60%">
 </div>
 
 Another fun project was creating these cooler bags which are sturdy and attractive. It is my favorite cooler bag to shop with.
