@@ -6,7 +6,7 @@ description: Marketing and Design for Health and Grocery Brand
 featured_image: /images/blogimages/HealthyLiving/hlteaserart.png
 ---
 
-For the past three years, as a consultant for Healthy Living markets  , I have been instrumental in the environmental signage design at HL stores in South Burlington, Williston, and Saratoga Springs, NY. Through my digital marketing efforts, the company has a robust trade partners program with small and local food-oriented businesses who we partner with to create special in-store marketing, targeted Google ads and META ads. I’ve been dedicated to the branding and member development of the Core Shopper loyalty program that includes weekly deals to target shoppers.
+For the past three years, as a consultant for [Healthy Living markets](https://healthylivingtogo.com), I have been instrumental in the environmental signage design at HL stores in South Burlington, Williston, and Saratoga Springs, NY. Through my digital marketing efforts, the company has a robust trade partners program with small and local food-oriented businesses who we partner with to create special in-store marketing, targeted Google ads and META ads. I’ve been dedicated to the branding and member development of the Core Shopper loyalty program that includes weekly deals to target shoppers.
 
 ## In-store signage
 Here are environmental displays with infographic posters and specific deal and product signage at all three Healthy Living stores.
