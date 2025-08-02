@@ -6,11 +6,77 @@ description: Marketing and Design for Health and Grocery Brand
 featured_image: /images/blogimages/HealthyLiving/hlteaserart.png
 ---
 
-![](/images/blogimages/HealthyLiving/RoundUp_registerad.png)
+### Marketing design for Healthy Living
 
 ## Reaching customers
 
 I've been working with the locally-owned and operated grocery chain, Healthy Living, since the Fall of 2022. The Healthy Living brand is evolving and we are marketing new incentives to a loyal customer base with a robust rewards program (Core Shoppers). Besides customers, I've also served the brand and design needs of local businesses partners selling their products within the stores. 
+
+## In-store signage
+Here are environmental displays with infographic posters and specific deal and product signage at all three Healthy Living stores.
+<div class="gallery" data-columns="3">
+	<img src="/images/blogimages/HealthyLiving/winesignage2.jpg">
+	<img src="/images/blogimages/HealthyLiving/bananasigns.jpg">
+	<img src="/images/blogimages/HealthyLiving/thanksgivingsides.jpg">
+	<img src="/images/blogimages/HealthyLiving/bestdealsposter.jpg">
+ 	<img src="/images/blogimages/HealthyLiving/earthsignage.jpg">
+	<img src="/images/blogimages/HealthyLiving/willistonwellness2.jpg">
+</div>
+
+## Environmental design
+The South Burlington store wanted to refresh exterior vinyl graphics to something more timeless and aligned with the HL brand, so I created these simple green and bright green graphic layouts for window clings.
+<div class="gallery" data-columns="3">
+	<img src="/images/blogimages/HealthyLiving/parkingviewclings.jpg">
+	<img src="/images/blogimages/HealthyLiving/windowclings.jpg">
+	<img src="/images/blogimages/HealthyLiving/streetisideclings.jpg">
+</div>
+
+## Digital menu design
+I continually revise and redesign digital menus for the Williston deli counter. Here is a recent iteration.
+<div class="gallery" data-columns="1">
+	<img src="/images/blogimages/HealthyLiving/willistonscreens.jpg" width="40%">
+</div>
+
+## Packaging Design for Healthy Living
+Healthy Living launched a private label and I've been involved with the packaging design for many products, from vitamins to coffee packaging. This cold brew design is being relaunched this summer along with another canned coffee product.
+<div class="gallery" data-columns="2">
+	<img src="/images/blogimages/HealthyLiving/coldbrew.jpg" width="40%">
+	<img src="/images/blogimages/HealthyLiving/krucanlabel.png">
+</div>
+
+And for seasonal in-store packaging, I created this custom logo for eco-friendly reusable salad bar containers at Healthy Living.
+<div class="gallery" data-columns="2">
+	<img src="/images/blogimages/HealthyLiving/HLcartonideas_farmscene_revisedark.jpg">
+	<img src="/images/blogimages/HealthyLiving/HLsaladbarcarton2.png">
+</div>
+
+## Digital web ads
+I designed these web ads for Healthy Living for recruiting new employees on the highly trafficked Seven Days site as rotating "site skin" ads for the news site pages. 
+<div class="gallery" data-columns="1">
+	<img src="/images/blogimages/HealthyLiving/sevendayssiteskin_hl.jpg" width="60%">
+</div>
+
+---
+
+## Newsletter graphics
+Mobile-first newsletter Figma graphics advertise Best Deals, HL To-Go, and offer a friendly note from the store-founding family.
+<div class="gallery" data-columns="3">
+	<img src="/images/blogimages/HealthyLiving/MobileHeader.png" width="60%">
+ 	<img src="/images/blogimages/HealthyLiving/MobileHLTOGO.png" width="60%">
+  	<img src="/images/blogimages/HealthyLiving/FamilyOwnedMobile.png" width="60%">
+</div>
+
+<!-- ## Merch design for Healthy Living
+I designed reusable bags with drop-shift citrus patterns for Healthy Living. 
+<div class="gallery" data-columns="1">
+	<img src="/images/blogimages/HealthyLiving/orangesbag.png" width="60%">
+</div>
+
+Another fun project was creating these cooler bags which are sturdy and attractive.
+<div class="gallery" data-columns="2">
+	<img src="/images/blogimages/HealthyLiving/bluefreezerbag1.png">
+	<img src="/images/blogimages/HealthyLiving/bluefreezerbag2.png">
+</div>
 
 ## Branding and packaging for Healthy Living
 I designed the a new suite of private label products for Healthy Living including this cold-brew coffee label. 
@@ -65,5 +131,5 @@ Healthy Living has a customer rewards program called Core Shopper. We wanted to 
 <div class="gallery" data-columns="1">
 <img src="/images/blogimages/HealthyLiving/coreshopperwelcome.png">
 </div>
-
+-->
 Design: Sarah Schumacher
