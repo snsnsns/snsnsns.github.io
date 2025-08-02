@@ -6,11 +6,14 @@ description: Marketing and Design for Health and Grocery Brand
 featured_image: /images/blogimages/HealthyLiving/hlteaserart.png
 ---
 
-### Marketing design for Healthy Living
-
 ## Reaching customers
 
 I've been working with the locally-owned and operated grocery chain, Healthy Living, since the Fall of 2022. The Healthy Living brand is evolving and we are marketing new incentives to a loyal customer base with a robust rewards program (Core Shoppers). Besides customers, I've also served the brand and design needs of local businesses partners selling their products within the stores. 
+
+<div class="gallery" data-columns="1">
+	<img src="/images/blogimages/HealthyLiving/coreshopperwelcome.png">
+ 	<img src="/images/blogimages/HealthyLiving/coreshopperwelcome.png">
+</div>
 
 ## In-store signage
 Here are environmental displays with infographic posters and specific deal and product signage at all three Healthy Living stores.
