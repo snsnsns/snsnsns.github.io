@@ -53,6 +53,12 @@ And for seasonal in-store packaging, I created this custom logo for eco-friendly
 	<img src="/images/blogimages/HealthyLiving/HLsaladbarcarton2.png">
 </div>
 
+## Reusable bags design
+I designed reusable bags with drop-shift citrus patterns for Healthy Living in spring 2023. 
+<div class="gallery" data-columns="1">
+	<img src="/images/blogimages/HealthyLiving/orangesbag2.jpg" width="60%">
+</div>
+
 ## Digital web ads
 I designed these web ads for Healthy Living for recruiting new employees on the highly trafficked Seven Days site as rotating "site skin" ads for the news site pages. 
 <div class="gallery" data-columns="1">
