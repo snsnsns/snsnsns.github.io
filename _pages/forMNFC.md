@@ -5,28 +5,28 @@ subtitle: "Sarah Schumacher's marketing and design samples"
 permalink: /forMNFC/
 ---
 
-I'm Sarah Schumacher, a designer and marketer, based in Middlebury. I've created this specific page to highlight samples of my work. 
+I'm Sarah Schumacher, a designer and marketer based in Middlebury. I've created this specific page to highlight samples of my work. 
 
-In recent roles, I have worn many hats: art director, marketing designer, photographer, videographer, social media editor, writer, and editor. For the past three years, I've worked on marketing design for [Healthy Living markets](https://healthylivingtogo.com), I have been instrumental in the environmental signage design at HL stores in South Burlington, Williston, and Saratoga Springs, NY. Through my digital marketing efforts, the company has a robust trade partners program with small and local food-oriented businesses who we partner with to create special in-store marketing, targeted Google ads and META ads. I've been dedicated to the branding and member development of the Core Shopper loyalty program that includes weekly deals to target shoppers.
+In recent roles, I have worn many hats: art director, marketing designer, photographer, videographer, social media editor, writer, and editor. For the past three years, I've worked on marketing design for [Healthy Living markets](https://healthylivingtogo.com), I have been instrumental in the environmental signage design at HL stores in South Burlington, Williston, and Saratoga Springs, NY. Through my digital marketing efforts, the company has built a robust trade partners program with small, local, food-oriented businesses we collaborate with to create special in-store marketing, as well as targeted Google and Meta ads.
 
-As an editorial designer, I worked for [Voice Media Group](https://www.voicemediagroup.com/), a media company with news sites in Dallas, Phoenix, Miami and Denver. I collaborated with cross-functional teams and organized complex projects to meet tight deadlines. At the <em>Dallas Observer</em>, I directed the photographers and illustrators to create art for each feature story online and in print, designed a weekly newspaper, created marketing materials, and occasionally wrote stories. For <em>[Dallas Observer](https://www.dallasobserver.com)</em>'s Instagram, I edited photographs, wrote content and developed the social media community through positive interactions.
+As an editorial designer, I worked for [Voice Media Group](https://www.voicemediagroup.com/), a media company with news sites in Dallas, Phoenix, Miami, and Denver. I collaborated with cross-functional teams and organized complex projects to meet tight deadlines. At the <em>Dallas Observer</em>, I directed the photographers and illustrators to create art for each feature story online and in print, designed a weekly newspaper, created marketing materials, and occasionally wrote stories. For <em>[Dallas Observer](https://www.dallasobserver.com)</em>'s Instagram, I edited photographs, wrote content, and developed the social media community through positive interactions.
 
-Now I manage marketing and social media for the [Middlebury Ski & Snowboard Club](https://www.middleburyskiandsnowboardclub.org) as a volunteer. In my role, I redesigned and update the website, manage the social media, photograph and create videos of events, create graphics for posters, fliers, design advertisements for print and email newsletters, design swag and apparel. I love experimenting with META ads, keywords and demographics when creating ads for social media. It can be so rewarding to see a campaign like the recent ad I created for our MSSC movie night: <em>Pressure Drop</em>. The post and stories I've created for the film screening have received thousands of impressions. My plan for the winter season is to expand our social media video coverage into weekly program recaps through first-person GoPro footage of teams on the mountain.
+Now I manage marketing and social media for the [Middlebury Ski & Snowboard Club](https://www.middleburyskiandsnowboardclub.org) as a volunteer. In my role, I redesigned and now update the website, manage the social media, photograph and create videos of events, create graphics for posters, fliers, design advertisements for print and email newsletters, and design swag and apparel. I love experimenting with META ads, keywords and demographics when creating ads for social media. It can be so rewarding to see a campaign succeed — like the recent ad I created for our MSSC movie night, <em>Pressure Drop</em>. The post I've created for the film screening has received thousands of impressions. My plan for the winter season is to expand our social media video coverage into weekly program recaps through first-person GoPro footage of teams on the mountain.
 
 ---
 
 ### Writing Samples
 As requested, here are samples of professional journalistic writing. I have written a few cultural and food-related stories for the news site <em>[Dallas Observer](https://www.dallasobserver.com)</em>.
 
-[Texans Stranded at the Top of the World by Coronavirus](https://www.dallasobserver.com/arts-culture/texans-stranded-nepal-coronavirus-11894424/): an international story of COVID-19 panic and border closings, in which Texans Sean Starr and Jennifer Baker found themselves stranded in Nepal. 
+[Texans Stranded at the Top of the World by Coronavirus](https://www.dallasobserver.com/arts-culture/texans-stranded-nepal-coronavirus-11894424/): An international story of COVID-19 panic and border closings, in which Texans Sean Starr and Jennifer Baker found themselves stranded in Nepal. 
 
-[10 Must-See Architectural Gems in North Texas](https://www.dallasobserver.com/arts-culture/10-must-see-architectural-gems-in-north-texas-12604824/): a 2021 preview of the AIA curated Tour of Homes in Dallas.
+[10 Must-See Architectural Gems in North Texas](https://www.dallasobserver.com/arts-culture/10-must-see-architectural-gems-in-north-texas-12604824/): A 2021 preview of the AIA curated Tour of Homes in Dallas.
 
-[Starbucks Tests Vegan Sandwich in DFW](https://www.dallasobserver.com/food-drink/starbucks-tests-vegan-sandwich-in-dfw-11982351/): a short news update about Starbucks' test run of vegan breakfast sandwiches.
+[Starbucks Tests Vegan Sandwich in DFW](https://www.dallasobserver.com/food-drink/starbucks-tests-vegan-sandwich-in-dfw-11982351/): A short news update about Starbucks' test run of vegan breakfast sandwiches.
 
-[Big Tex: 70 years of Questionable Fashion Choices](https://www.dallasobserver.com/arts-culture/big-texs-fashion-history-14892919/): a light-hearted look at the couture of the giant cowboy statue at the State Fair of Texas that has served as a fashion icon since the early 1950s.
+[Big Tex: 70 Years of Questionable Fashion Choices](https://www.dallasobserver.com/arts-culture/big-texs-fashion-history-14892919/): A light-hearted look at the couture of the giant cowboy statue at the State Fair of Texas that has served as a fashion icon since the early 1950s.
 
-## Writing for Social Media
+### Writing for Social Media
 
 <strong>For the MSSC (Middlebury Ski & Snowboard Club)</strong>
 
@@ -36,13 +36,13 @@ As requested, here are samples of professional journalistic writing. I have writ
 
 [Skiers and Snowboarders at lunch break](https://www.instagram.com/p/DEte0cRM36a/?img_index=1): I wrote the content and took these photos of our various age groups of skiers and snowboarders in some down time between mountain sessions.
 
-[Deadline to Register MSSC post](https://www.instagram.com/p/DC8OxpZsf1Y/): I took this photo of our U14 alpine racers as well as writing the content.
+[Deadline to Register MSSC post](https://www.instagram.com/p/DC8OxpZsf1Y/): I took this photo of our U14 alpine racers and wrote the content.
 
 [Bash at the Bowl 2024](https://www.instagram.com/p/DG3RJtbv9iv/?utm_source=ig_web_copy_link&igsh=MWcyM2djOTEyazZkbg==): I wrote this content and designed this graphic that also served as a print ad in the <em>Addison Independent</em>.
 
 <strong>For Dallas Observer/Voice Media Group</strong>
 
-As an editorial designer at Voice Media Group, I shot photos, hired photographers and curated photos, created graphics, wrote content and built a fun social media persona and built community through VMG's <em>Dallas Observer</em> Instagram account. I hired photographers to shoot events and then edited and selected photos for use on the various VMG platforms. 
+As an editorial designer at Voice Media Group, I shot photos, hired photographers and curated photos, created graphics, wrote content, and built a fun social media persona and built community through VMG's <em>Dallas Observer</em> Instagram account. I hired photographers to shoot events and then edited and selected photos for use on the various VMG platforms. 
 
 <div class="gallery" data-columns="3">
 	<img src="/images/blogimages/DO/2016DOMAinstagram.png">
@@ -58,7 +58,7 @@ As an editorial designer at Voice Media Group, I shot photos, hired photographer
 
 ### Photography Samples of Food, Store, and Farm
 
-Here are a few photos I've taken at Healthy Living stores and one from Elmer Farm of the PYO flower field a beautiful day.
+Here are a few photos I've taken at Healthy Living stores and one from Elmer Farm of the PYO flower field on a beautiful day.
 <div class="gallery" data-columns="2">
 	<img src="/images/blogimages/HealthyLiving/hlsmoothie.jpg">
 	<img src="/images/blogimages/HealthyLiving/hlcroissants.jpg">
@@ -70,26 +70,23 @@ Here are a few photos I've taken at Healthy Living stores and one from Elmer Far
 
 ### Video Samples
 
-## Instagram Reels for Middlebury Ski & Snowboard Club
+<strong>Instagram Reels for Middlebury Ski & Snowboard Club</strong>
 [Fall Family Weekend](https://www.instagram.com/reel/DPc2CfVjamS/?utm_source=ig_web_copy_link&igsh=bHEwczAzbHBwZXdn): I was volunteering for a few days at the Middlebury Snowbowl during Middlebury College's fall family weekend. While recruiting college-aged ski coaches and encouraging families to consider the winter program, I filmed a reel to help us achieve the same goals but with broader reach, through social media. I filmed this with my iPhone and edited it in CapCut.
 
-[U14 Racers warming up at Saskadena 6 mountain](https://www.instagram.com/p/DEvNXB1PmEz/?img_index=1): Take a warm-up lap with the U14 racers in this Instagram video (filmed with a GoPro). I filmed (and posted) this a one-shot first person POV video prior to a race at Saskadena Six, a small independent mountain near Barnard, VT.
+[U14 Racers warming up at Saskadena 6 mountain](https://www.instagram.com/p/DEvNXB1PmEz/?img_index=1): Take a warm-up lap with the U14 racers in this Instagram video (filmed with a GoPro). I filmed (and posted) this as a one-shot first-person POV video prior to a race at Saskadena Six, a small independent mountain near Barnard, VT.
 
-## Fun behind-the-scenes editorial video for Dallas Observer
-<video width="320" height="240" controls>
-  <source src="/images/BisouBisou_DO.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-This video looks behind the scenes at the Dallas-based bakery Bisou Bisou of bakers making pistachio croissants. <em>Dallas Observer</em> had sustained website engagement through a short form videos section for many years (2018-2021) and then pivoted those efforts to Instagram Reels. The best performing videos lifted the veil on viewers' favorite restaurants, artists, and local music scene. When I wasn't hiring videographers to produce these stories, I really enjoyed the chances I had to film and edit the shorts.
+<strong>Fun behind-the-scenes editorial video for Dallas Observer</strong
+<iframe width="560" height="315" src="/images/BisouBisou_DO.mp4" type="video/mp4" controls frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+This video looks behind the scenes at the Dallas-based bakery Bisou Bisou of bakers making pistachio croissants. <em>Dallas Observer</em> had sustained website engagement through a short form video section for a few years (2018-2021) and then pivoted those efforts to Instagram Reels. The best performing videos lifted the veil on viewers' favorite restaurants, artists, and local music scene. When I wasn't hiring videographers to produce these stories, I really enjoyed the chances I had to film and edit the shorts.
 
-## Marketing video from Iron Fork 
+<strong>Marketing video from Iron Fork</strong>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EcYfEhalVUE?si=zWoE184HsTOIS0n0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 Voice Media Group has many marketed events alongside their news sites. Iron Fork is an annual foodie event with local restaurants bringing small plates to serve to guests. The event also has a local chef cook-off presentation. I filmed and edited video of the 2017 Iron Fork (a <em>Dallas Observer</em> food event).
 
 ---
 
 ### Marketing design for Healthy Living
-Although portfolio images of design work were not requested, I can't help but share the visual physical and digital ecosystem I've created at Heathy Living markets since 2022 (photos are my own):
+Although portfolio images of design work were not requested, I can't help but share the visual, physical, and digital ecosystem I've created at Healthy Living markets since 2022 (photos are my own):
 
 ## In-store signage
 Here are environmental displays with infographic posters and specific deal and product signage at all three Healthy Living stores.
