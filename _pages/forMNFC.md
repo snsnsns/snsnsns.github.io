@@ -30,7 +30,7 @@ As requested, here are samples of professional journalistic writing. I have writ
 
 <strong>For the MSSC (Middlebury Ski & Snowboard Club)</strong>
 
-As the social media editor for MSSC, I focus my fall pre-season social media coverage to promote our annual ski and snowboarding film screening fundraiser, to recruit ski and snowboarding coaches, and to increase enrollment in our youth programming that begins in December. The MSSC social media winter coverage is all about showing off the skills of the participants and the beauty of winter sports.
+As the social media editor for MSSC, I focus my fall pre-season social media coverage on promoting our annual ski and snowboarding film fundraiser, recruiting ski and snowboarding coaches, and increasing enrollment in our youth programming that begins in December. The MSSC social media winter coverage is all about showing off the skills of the participants and the beauty of winter sports.
 
 [Pressure Drop film screening post/ad](https://www.instagram.com/p/DPLBZ6XDa4p/?utm_source=ig_web_copy_link&igsh=MXB0OHNodGJkeDZ6eQ==): I wrote this post and selected the algorithm metrics to make it a successful ad.
 
