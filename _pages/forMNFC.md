@@ -80,7 +80,7 @@ Here are a few photos I've taken at Healthy Living stores and one from Elmer Far
 Take a warm-up lap with the U14 racers in this Instagram video (filmed with a GoPro). I filmed (and posted) this as a one-shot first-person POV video prior to a race at Saskadena Six, a small independent mountain near Barnard, VT.
 
 <strong>Fun behind-the-scenes at a bakery video for <em>Dallas Observer</em></strong>
-<br></br>
+<br>
 <div style="text-align: center;">
 <video width="560" height="315" src="/images/BisouBisou_DO.mp4" type="video/mp4" controls>
   Your browser does not support the video tag.</video></div>
