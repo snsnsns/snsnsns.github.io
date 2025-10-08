@@ -76,7 +76,9 @@ Here are a few photos I've taken at Healthy Living stores and one from Elmer Far
 [U14 Racers warming up at Saskadena 6 mountain](https://www.instagram.com/p/DEvNXB1PmEz/?img_index=1): Take a warm-up lap with the U14 racers in this Instagram video (filmed with a GoPro). I filmed (and posted) this as a one-shot first-person POV video prior to a race at Saskadena Six, a small independent mountain near Barnard, VT.
 
 <strong>Fun behind-the-scenes editorial video for Dallas Observer</strong
-<iframe width="560" height="315" src="/images/BisouBisou_DO.mp4" type="video/mp4" controls frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ <div style="text-align: center;">
+<video width="560" height="315" src="/images/BisouBisou_DO.mp4" type="video/mp4">
+  Your browser does not support the video tag.</video></div>
 This video looks behind the scenes at the Dallas-based bakery Bisou Bisou of bakers making pistachio croissants. <em>Dallas Observer</em> had sustained website engagement through a short form video section for a few years (2018-2021) and then pivoted those efforts to Instagram Reels. The best performing videos lifted the veil on viewers' favorite restaurants, artists, and local music scene. When I wasn't hiring videographers to produce these stories, I really enjoyed the chances I had to film and edit the shorts.
 
 <strong>Marketing video from Iron Fork</strong>
