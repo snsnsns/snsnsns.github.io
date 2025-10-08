@@ -144,4 +144,4 @@ Mobile-first newsletter Figma graphics advertise Best Deals, HL To-Go, and offer
 ---
 
 ### Thank You!
-As you can see, I'm a flexible and curious marketer who loves the organic grocery space, brand design, packaging design, and digital design as well as creating and testing new marketing ideas. Thank you for reviewing my work!
+As you can see, I'm a flexible and curious marketer who loves the organic grocery space, creating captivating visuals, and testing new marketing ideas. Thank you for reviewing my work!
