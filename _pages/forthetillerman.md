@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Curated for Middlebury Natural Foods Co-op"
+title: "Curated for the Tillerman"
 subtitle: "Sarah Schumacher's marketing and design samples"
-permalink: /forMNFC/
+permalink: /forthetillerman/
 ---
 
 I'm Sarah Schumacher, a designer and marketer based in Middlebury. I've created this specific page to highlight samples of my work. 
@@ -16,7 +16,7 @@ Now I manage marketing and social media for the [Middlebury Ski & Snowboard Club
 ---
 
 ### Writing Samples
-As requested, here are samples of professional journalistic writing. I have written a few cultural and food-related stories for the news site <em>[Dallas Observer](https://www.dallasobserver.com)</em>.
+Here are a few samples of my professional journalistic writing. I have written a few cultural and food-related stories for the news site <em>[Dallas Observer](https://www.dallasobserver.com)</em>.
 
 [Texans Stranded at the Top of the World by Coronavirus](https://www.dallasobserver.com/arts-culture/texans-stranded-nepal-coronavirus-11894424/): An international story of COVID-19 panic and border closings, in which Texans Sean Starr and Jennifer Baker found themselves stranded in Nepal. 
 
@@ -92,56 +92,5 @@ Voice Media Group has many marketed events alongside their news sites. Iron Fork
 
 ---
 
-### Marketing design for Healthy Living
-Although portfolio images of design work were not requested, I can't help but share the visual, physical, and digital ecosystem I've created at Healthy Living markets since 2022 (photos are my own):
-
-## In-store signage
-Here are environmental displays with infographic posters and specific deal and product signage at all three Healthy Living stores.
-<div class="gallery" data-columns="3">
-	<img src="/images/blogimages/HealthyLiving/winesignage2.jpg">
-	<img src="/images/blogimages/HealthyLiving/bananasigns.jpg">
-	<img src="/images/blogimages/HealthyLiving/thanksgivingsides.jpg">
-	<img src="/images/blogimages/HealthyLiving/bestdealsposter.jpg">
-	 <img src="/images/blogimages/HealthyLiving/earthsignage.jpg">
-	<img src="/images/blogimages/HealthyLiving/willistonwellness2.jpg">
-</div>
-
-## Environmental design
-The South Burlington store wanted to refresh exterior vinyl graphics to something more timeless and aligned with the HL brand, so I created these simple green and bright green graphic layouts for window clings.
-<div class="gallery" data-columns="3">
-	<img src="/images/blogimages/HealthyLiving/parkingviewclings.jpg">
-	<img src="/images/blogimages/HealthyLiving/windowclings.jpg">
-	<img src="/images/blogimages/HealthyLiving/streetisideclings.jpg">
-</div>
-
-## Digital menu design
-I continually revise and redesign digital menus for the Williston deli counter. Here is a recent iteration.
-<div class="gallery" data-columns="1">
-	<img src="/images/blogimages/HealthyLiving/willistonscreens.jpg" width="40%">
-</div>
-
-## Packaging Design for Healthy Living
-Healthy Living launched a private label and I've been involved with the packaging design for many products, from vitamins to coffee packaging. This cold brew design is being relaunched this summer along with another canned coffee product.
-<div class="gallery" data-columns="2">
-	<img src="/images/blogimages/HealthyLiving/coldbrew.jpg" width="40%">
-	<img src="/images/blogimages/HealthyLiving/krucanlabel.png">
-</div>
-
-## Digital web ads
-I designed these web ads for Healthy Living for recruiting new employees on the highly trafficked Seven Days site as rotating "site skin" ads for the news site pages. 
-<div class="gallery" data-columns="1">
-	<img src="/images/blogimages/HealthyLiving/sevendayssiteskin_hl.jpg" width="60%">
-</div>
-
-## Newsletter graphics
-Mobile-first newsletter Figma graphics advertise Best Deals, HL To-Go, and offer a friendly note from the store-founding family.
-<div class="gallery" data-columns="3">
-	<img src="/images/blogimages/HealthyLiving/MobileHeader.png" width="60%">
-	 <img src="/images/blogimages/HealthyLiving/MobileHLTOGO.png" width="60%">
-	  <img src="/images/blogimages/HealthyLiving/FamilyOwnedMobile.png" width="60%">
-</div>
-
----
-
 ### Thank You!
-As you can see, I'm a flexible and curious marketer who loves the organic grocery space, creating captivating visuals, and testing new marketing ideas. Thank you for reviewing my work!
+As you can see, I'm a flexible and curious marketer who loves storytelling through captivating visuals and testing new marketing ideas. Thank you for reviewing my work!
