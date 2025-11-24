@@ -74,6 +74,8 @@ Here are a few photos I've taken at Healthy Living stores and one from Elmer Far
 
 <strong>Instagram Reels for Middlebury Ski & Snowboard Club</strong>
 
+["Dryland training at the Snowbowl"](https://www.instagram.com/reel/DRJHLL1DSJB/utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==): I followed the teams on their second dryland training exercise to film this. Although, let’s be honest — it was anything but dry. The team showed some grit and hiked to the top of Sheehan lift and even had time for snow soccer. This reel has been a joy for parents to see what their athletes' days look like and a great insight for potential future skiers and snowboarders considering joining the MSSC.
+
 [Fall Family Weekend](https://www.instagram.com/reel/DPc2CfVjamS/?utm_source=ig_web_copy_link&igsh=bHEwczAzbHBwZXdn): I was volunteering for a few days at the Middlebury Snowbowl during Middlebury College's fall family weekend. While recruiting college-aged ski coaches and encouraging families to consider the winter program, I filmed a reel to help us achieve the same goals but with broader reach, through social media. I filmed this with my iPhone and edited it in CapCut.
 
 [U14 Racers warming up at Saskadena 6 mountain](https://www.instagram.com/p/DEvNXB1PmEz/?img_index=1): 
